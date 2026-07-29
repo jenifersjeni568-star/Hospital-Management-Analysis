@@ -1,0 +1,1201 @@
+DeptID,Department Name,Branch / City Location,Head of Department,Total Beds,Occupied Beds,Available Beds,ICU Beds,Ventilators Count,Total Doctors,Nursing Staff,Support Staff,Floor No,Block / Wing,Monthly Operating Cost (?),Monthly Revenue (?),Emergency Service (24/7),Equipment Count,Maintenance Status,Department Rating
+DEPT0001,Dermatology,Madurai,Dr. Dinesh Pandian,111,70,41,24,8,23,37,18,Floor 3,Block Emergency Wing,475203,594006,Yes,62,Inspection Due,4.8
+DEPT0002,Gynecology & Obstetrics,Chennai (Adyar),Dr. Karthik Ganesan,97,31,66,15,10,21,41,17,Floor 4,Block D,948143,1244854,Yes,71,Fully Operational,4.5
+DEPT0003,Endocrinology,Coimbatore,Dr. Saravanan Natarajan,46,30,16,12,8,22,18,21,Floor 2,Block B,368148,482872,Yes,69,Fully Operational,4.5
+DEPT0004,Pathology & Lab,Coimbatore,Dr. Sundar Kumar,75,59,16,11,5,6,20,29,Floor 2,Block D,571836,1045721,No,43,Fully Operational,4.9
+DEPT0005,Pulmonology,Erode,Dr. Sundar Balaji,101,49,52,24,17,17,32,22,Floor 5,Block B,1042139,1641289,Yes,38,Under Maintenance,4.1
+DEPT0006,Dermatology,Vellore,Dr. Karthik Ganesan,47,33,14,14,4,21,22,10,Floor 3,Block A,312666,375771,Yes,50,Inspection Due,4.9
+DEPT0007,Gastroenterology,Chennai (Adyar),Dr. Karthik Swaminathan,62,33,29,8,4,16,54,29,Floor 3,Block C,501664,711384,No,12,Fully Operational,4.6
+DEPT0008,Radiology & Imaging,Tirunelveli,Dr. Prabhu Chelliah,54,35,19,13,4,11,46,11,Floor 6,Block Emergency Wing,1454454,2287990,Yes,38,Fully Operational,4.1
+DEPT0009,Anaesthesiology,Salem,Dr. Arun Murugesan,84,71,13,24,7,16,58,27,Floor 6,Block Specialty Tower,842335,1444779,No,71,Fully Operational,4.2
+DEPT0010,Endocrinology,Madurai,Dr. Kannan Sundaram,42,16,26,9,4,13,51,8,Floor 3,Block B,1214091,1603678,Yes,41,Fully Operational,4.7
+DEPT0011,Ophthalmology,Chennai (Main),Dr. Siva Ganesan,78,11,67,6,2,9,31,24,Floor 2,Block B,1198613,1406135,Yes,10,Fully Operational,4.1
+DEPT0012,Gastroenterology,Thanjavur,Dr. Suresh Swaminathan,107,64,43,14,9,21,52,12,Floor 4,Block B,1283237,1833972,No,25,Under Maintenance,4.3
+DEPT0013,Gynecology & Obstetrics,Coimbatore,Dr. Siva Ganesan,98,45,53,22,4,23,34,14,Floor 4,Block A,384896,549747,Yes,10,Fully Operational,4.7
+DEPT0014,Psychiatry,Tirunelveli,Dr. Ganesh Natarajan,46,25,21,19,18,6,15,23,Floor 6,Block D,1107364,1971431,Yes,18,Fully Operational,4.7
+DEPT0015,Pulmonology,Coimbatore,Dr. Siva Venkatesh,93,42,51,23,12,21,22,11,Floor 6,Block D,816349,944056,Yes,34,Fully Operational,4.2
+DEPT0016,Psychiatry,Chennai (Adyar),Dr. Senthil Swaminathan,100,50,50,7,2,8,47,21,Floor 5,Block D,1407447,2258590,No,26,Fully Operational,4.5
+DEPT0017,Anaesthesiology,Salem,Dr. Sundar Srinivasan,77,60,17,11,3,5,42,22,Floor 1,Block Emergency Wing,1179611,1953101,Yes,44,Fully Operational,4
+DEPT0018,Gastroenterology,Tiruchirappalli,Dr. Suresh Natarajan,144,46,98,20,15,7,47,27,Floor 7,Block Emergency Wing,568246,760274,Yes,27,Fully Operational,4.9
+DEPT0019,Orthopedics,Erode,Dr. Sundar Venkatesh,71,56,15,5,4,14,16,24,Floor 1,Block A,798863,1227831,Yes,35,Under Maintenance,4.9
+DEPT0020,Emergency & ICU,Thanjavur,Dr. Ramesh Sundaram,75,54,21,23,2,12,30,21,Floor 4,Block C,748982,875808,Yes,41,Fully Operational,4
+DEPT0021,Endocrinology,Thanjavur,Dr. Anand Subramanian,81,79,2,18,7,15,51,8,Floor 5,Block D,303051,553273,Yes,15,Fully Operational,4.5
+DEPT0022,Pathology & Lab,Coimbatore,Dr. Vignesh Subramanian,55,22,33,21,11,23,31,26,Floor 4,Block B,1380793,2518364,No,18,Fully Operational,4.1
+DEPT0023,General Medicine,Chennai (Adyar),Dr. Ashok Sundaram,143,126,17,4,3,11,19,29,Floor 5,Block C,1040427,1608735,Yes,66,Fully Operational,4.1
+DEPT0024,Pathology & Lab,Chennai (Main),Dr. Sundar Srinivasan,108,85,23,19,17,11,50,8,Floor 6,Block Specialty Tower,588790,696916,No,43,Fully Operational,4
+DEPT0025,Anaesthesiology,Thanjavur,Dr. Karthik Venkatesh,108,13,95,19,17,6,42,27,Floor 4,Block B,836226,1338213,Yes,60,Under Maintenance,4.6
+DEPT0026,General Medicine,Chennai (Main),Dr. Vignesh Murugesan,82,53,29,16,13,18,16,26,Floor 2,Block C,851638,1021822,Yes,35,Fully Operational,4.3
+DEPT0027,Anaesthesiology,Vellore,Dr. Ramesh Subramanian,97,84,13,7,2,8,24,12,Floor 1,Block C,1462928,2431610,Yes,33,Under Maintenance,4.6
+DEPT0028,Gastroenterology,Chennai (Main),Dr. Kannan Balaji,128,108,20,12,2,21,34,23,Floor 1,Block Specialty Tower,1467756,2608006,Yes,21,Inspection Due,4.8
+DEPT0029,Oncology,Tirunelveli,Dr. Sundar Chelliah,91,25,66,24,6,7,26,27,Floor 3,Block Emergency Wing,622710,1056681,Yes,62,Fully Operational,4.1
+DEPT0030,Pediatrics,Coimbatore,Dr. Prakash Pandian,57,56,1,15,10,14,58,24,Floor 5,Block Specialty Tower,825830,1196019,Yes,18,Under Maintenance,4.7
+DEPT0031,Pediatrics,Tiruchirappalli,Dr. Suresh Natarajan,47,10,37,23,18,11,39,20,Floor 4,Block D,1044699,1262467,No,63,Fully Operational,4.2
+DEPT0032,Anaesthesiology,Tirunelveli,Dr. Senthil Rajesh,52,37,15,23,9,13,53,8,Floor 3,Block Emergency Wing,1166651,2127412,Yes,34,Under Maintenance,4.2
+DEPT0033,Gynecology & Obstetrics,Thanjavur,Dr. Murugan Rajesh,71,54,17,18,6,20,35,18,Floor 4,Block Emergency Wing,559747,860721,No,27,Fully Operational,4.2
+DEPT0034,Pathology & Lab,Chennai (Main),Dr. Senthil Swaminathan,126,66,60,14,13,14,46,23,Floor 6,Block D,366203,507177,Yes,45,Fully Operational,4.4
+DEPT0035,Psychiatry,Tiruchirappalli,Dr. Prabhu Subramanian,103,36,67,20,10,5,34,20,Floor 4,Block Emergency Wing,422402,728971,No,78,Fully Operational,4.4
+DEPT0036,Pediatric Surgery,Chennai (Adyar),Dr. Kannan Chandran,72,63,9,4,3,19,25,28,Floor 2,Block A,1106741,1915121,Yes,42,Fully Operational,4.4
+DEPT0037,General Medicine,Tiruchirappalli,Dr. Ashok Balaji,45,37,8,20,6,9,52,10,Floor 5,Block Emergency Wing,500244,906109,No,26,Fully Operational,4.2
+DEPT0038,General Medicine,Coimbatore,Dr. Kannan Rajesh,43,10,33,20,9,6,42,15,Floor 7,Block B,808153,1223717,No,59,Under Maintenance,4.6
+DEPT0039,Pediatrics,Vellore,Dr. Anand Swaminathan,86,32,54,18,6,18,16,18,Floor 3,Block Specialty Tower,627359,727850,Yes,39,Fully Operational,4.1
+DEPT0040,Cardiology,Madurai,Dr. Suresh Kumar,127,88,39,13,4,21,19,11,Floor 2,Block A,950199,1123232,Yes,75,Fully Operational,4.6
+DEPT0041,Pulmonology,Coimbatore,Dr. Dinesh Sundaram,62,25,37,14,7,20,22,11,Floor 4,Block A,726650,1175204,Yes,60,Fully Operational,4.2
+DEPT0042,Nephrology,Salem,Dr. Suresh Kumar,44,21,23,17,3,21,28,20,Floor 3,Block A,323321,552745,Yes,65,Under Maintenance,4.9
+DEPT0043,Ophthalmology,Thanjavur,Dr. Vijay Kumar,47,44,3,23,16,19,36,21,Floor 2,Block D,1422262,2164520,Yes,35,Fully Operational,4.3
+DEPT0044,Dermatology,Coimbatore,Dr. Dinesh Balaji,149,116,33,18,13,17,32,13,Floor 3,Block C,1160120,1932972,Yes,48,Fully Operational,4.2
+DEPT0045,Gastroenterology,Vellore,Dr. Anand Rajesh,123,34,89,7,3,7,55,20,Floor 2,Block D,326069,508924,Yes,51,Fully Operational,4.4
+DEPT0046,Cardiology,Erode,Dr. Kannan Krishnan,140,130,10,4,2,10,20,23,Floor 4,Block Specialty Tower,487210,590265,No,33,Under Maintenance,4.1
+DEPT0047,Anaesthesiology,Erode,Dr. Saravanan Subramanian,63,40,23,9,3,24,42,18,Floor 4,Block Specialty Tower,687952,1027472,Yes,71,Inspection Due,4.6
+DEPT0048,ENT,Thanjavur,Dr. Aravind Rajesh,83,14,69,9,3,8,33,27,Floor 1,Block D,1254480,1907923,Yes,23,Fully Operational,4.6
+DEPT0049,Urology,Madurai,Dr. Kannan Pandian,42,10,32,9,3,14,19,17,Floor 4,Block B,678892,1106050,Yes,72,Fully Operational,4.8
+DEPT0050,Urology,Erode,Dr. Suresh Balaji,74,39,35,20,6,16,28,28,Floor 3,Block A,646699,915376,No,73,Fully Operational,4.8
+DEPT0051,ENT,Vellore,Dr. Saravanan Srinivasan,99,39,60,6,2,9,19,26,Floor 3,Block Specialty Tower,799097,1426792,Yes,51,Fully Operational,4.8
+DEPT0052,Dermatology,Erode,Dr. Sundar Swaminathan,90,47,43,4,2,19,47,24,Floor 1,Block B,711597,851520,Yes,48,Fully Operational,4.9
+DEPT0053,Dermatology,Coimbatore,Dr. Vignesh Murugesan,103,24,79,18,14,5,44,14,Floor 3,Block D,875644,1099959,Yes,36,Fully Operational,4
+DEPT0054,Vascular Surgery,Chennai (Adyar),Dr. Ganesh Chandran,113,106,7,9,6,19,50,20,Floor 4,Block Emergency Wing,364772,543674,Yes,54,Fully Operational,4.6
+DEPT0055,Anaesthesiology,Madurai,Dr. Vijay Murugesan,82,36,46,8,5,15,24,15,Floor 6,Block Specialty Tower,1403894,2068503,No,21,Inspection Due,4.1
+DEPT0056,Psychiatry,Vellore,Dr. Karthik Chelliah,143,69,74,14,13,16,50,23,Floor 4,Block Emergency Wing,884567,1031507,Yes,40,Fully Operational,4.4
+DEPT0057,Radiology & Imaging,Erode,Dr. Prabhu Krishnan,50,32,18,4,3,9,35,21,Floor 4,Block Specialty Tower,679862,1220073,No,64,Fully Operational,4.6
+DEPT0058,Pathology & Lab,Vellore,Dr. Prabhu Murugesan,91,66,25,24,10,7,39,18,Floor 6,Block B,1474737,2192323,No,52,Fully Operational,4.9
+DEPT0059,Vascular Surgery,Erode,Dr. Ramesh Subramanian,109,97,12,4,2,15,36,25,Floor 5,Block A,870451,1280687,Yes,72,Inspection Due,4.5
+DEPT0060,General Medicine,Tirunelveli,Dr. Aravind Pandian,95,92,3,20,14,20,54,26,Floor 2,Block A,888365,1465661,Yes,47,Fully Operational,4.1
+DEPT0061,ENT,Tirunelveli,Dr. Ramesh Natarajan,71,19,52,13,4,18,48,8,Floor 7,Block D,952465,1673381,Yes,66,Fully Operational,4.2
+DEPT0062,ENT,Salem,Dr. Dinesh Chandran,106,60,46,4,3,19,22,9,Floor 3,Block Specialty Tower,1030399,1802154,No,77,Inspection Due,4.1
+DEPT0063,Radiology & Imaging,Tirunelveli,Dr. Ashok Raman,46,19,27,10,2,23,33,11,Floor 5,Block D,701921,1254639,Yes,20,Fully Operational,4.4
+DEPT0064,Cardiothoracic Surgery,Tirunelveli,Dr. Murugan Subramanian,44,39,5,12,3,16,49,27,Floor 2,Block Specialty Tower,843351,1551561,Yes,23,Fully Operational,4.7
+DEPT0065,Endocrinology,Tirunelveli,Dr. Prabhu Krishnan,61,52,9,17,5,17,48,12,Floor 3,Block Specialty Tower,1314929,1999695,No,50,Fully Operational,4.6
+DEPT0066,Endocrinology,Salem,Dr. Murugan Balaji,145,95,50,24,7,12,48,19,Floor 5,Block A,872212,1110116,No,35,Fully Operational,4.8
+DEPT0067,Radiology & Imaging,Chennai (Adyar),Dr. Prakash Kumar,90,62,28,7,4,15,54,18,Floor 4,Block A,1359622,2144509,No,64,Fully Operational,4.9
+DEPT0068,Pediatrics,Erode,Dr. Karthik Murugesan,75,29,46,22,4,24,57,24,Floor 6,Block C,1000780,1259251,Yes,75,Fully Operational,4.1
+DEPT0069,Ophthalmology,Chennai (Main),Dr. Prakash Venkatesh,81,34,47,10,4,7,51,19,Floor 4,Block C,1040829,1200781,Yes,53,Under Maintenance,5
+DEPT0070,Ophthalmology,Thanjavur,Dr. Anand Chelliah,51,25,26,22,9,21,37,12,Floor 6,Block Specialty Tower,764071,1012216,Yes,24,Fully Operational,4.1
+DEPT0071,Pathology & Lab,Thanjavur,Dr. Ashok Balaji,56,32,24,24,23,11,28,22,Floor 5,Block A,1228626,2207935,No,48,Fully Operational,4.5
+DEPT0072,Dermatology,Chennai (Main),Dr. Sundar Chelliah,63,44,19,15,13,17,48,10,Floor 5,Block C,434055,633165,Yes,48,Fully Operational,4.5
+DEPT0073,Vascular Surgery,Vellore,Dr. Kannan Raman,72,25,47,16,11,16,16,10,Floor 2,Block B,1473917,1695249,Yes,27,Inspection Due,4.8
+DEPT0074,Dermatology,Madurai,Dr. Anand Rajesh,101,66,35,19,13,19,24,14,Floor 4,Block Emergency Wing,332733,383422,Yes,39,Under Maintenance,4.7
+DEPT0075,Pediatrics,Vellore,Dr. Ashok Kumar,92,88,4,12,2,8,26,12,Floor 5,Block Emergency Wing,538506,841139,No,72,Inspection Due,4.5
+DEPT0076,Emergency & ICU,Chennai (Adyar),Dr. Ramesh Subramanian,43,17,26,23,22,23,59,21,Floor 2,Block C,1410241,2000939,Yes,12,Under Maintenance,4.8
+DEPT0077,Vascular Surgery,Tirunelveli,Dr. Anand Sundaram,138,29,109,20,11,7,32,24,Floor 3,Block C,1093719,1830349,Yes,77,Fully Operational,4.1
+DEPT0078,Oncology,Erode,Dr. Senthil Pandian,131,38,93,12,4,6,26,17,Floor 1,Block A,626916,1043595,Yes,47,Fully Operational,4.7
+DEPT0079,Psychiatry,Salem,Dr. Saravanan Ganesan,87,86,1,8,6,21,54,20,Floor 6,Block Emergency Wing,1432658,2474596,Yes,49,Fully Operational,4.3
+DEPT0080,Gynecology & Obstetrics,Erode,Dr. Aravind Swaminathan,79,68,11,19,10,17,57,20,Floor 1,Block Emergency Wing,1417850,2377595,Yes,54,Under Maintenance,4
+DEPT0081,Cardiothoracic Surgery,Thanjavur,Dr. Ganesh Swaminathan,146,48,98,21,5,6,28,20,Floor 5,Block D,464134,596501,Yes,36,Inspection Due,4.6
+DEPT0082,Cardiology,Erode,Dr. Kannan Natarajan,109,92,17,10,3,13,46,9,Floor 7,Block D,1299701,2347337,Yes,77,Fully Operational,4.7
+DEPT0083,Vascular Surgery,Chennai (Main),Dr. Ganesh Krishnan,104,31,73,21,19,18,43,19,Floor 4,Block C,1173698,1838101,Yes,38,Fully Operational,4.3
+DEPT0084,Pathology & Lab,Coimbatore,Dr. Prakash Murugesan,126,35,91,5,3,6,43,11,Floor 1,Block C,1224044,2139563,Yes,38,Fully Operational,4.2
+DEPT0085,Cardiology,Madurai,Dr. Prakash Pandian,106,90,16,15,9,19,30,12,Floor 3,Block D,873189,1468761,Yes,10,Fully Operational,4.7
+DEPT0086,Cardiology,Coimbatore,Dr. Anand Sundaram,63,21,42,21,16,16,30,15,Floor 4,Block Specialty Tower,677816,1191625,No,36,Under Maintenance,4.8
+DEPT0087,Orthopedics,Tiruchirappalli,Dr. Senthil Subramanian,85,24,61,17,8,21,58,27,Floor 4,Block A,1077147,1287132,Yes,11,Fully Operational,4.3
+DEPT0088,Emergency & ICU,Chennai (Main),Dr. Vignesh Chandran,57,39,18,21,15,19,45,13,Floor 3,Block Emergency Wing,1259192,2206212,No,17,Fully Operational,4.7
+DEPT0089,Oncology,Chennai (Main),Dr. Murugan Sundaram,85,41,44,18,17,24,47,17,Floor 2,Block D,947008,1432253,Yes,39,Fully Operational,4.1
+DEPT0090,Vascular Surgery,Tirunelveli,Dr. Arun Krishnan,142,99,43,17,11,22,29,9,Floor 2,Block D,624912,1134893,Yes,15,Fully Operational,4.6
+DEPT0091,Oncology,Chennai (Adyar),Dr. Murugan Venkatesh,111,59,52,23,16,11,25,27,Floor 4,Block Specialty Tower,906229,1329096,Yes,50,Fully Operational,4.4
+DEPT0092,Psychiatry,Salem,Dr. Murugan Balaji,51,22,29,16,4,23,50,20,Floor 5,Block Emergency Wing,370326,437193,Yes,79,Fully Operational,4.2
+DEPT0093,Pediatric Surgery,Vellore,Dr. Senthil Ganesan,113,44,69,18,2,11,26,24,Floor 6,Block Emergency Wing,808062,1164526,No,46,Fully Operational,4.4
+DEPT0094,Plastic Surgery,Erode,Dr. Mani Kumar,90,45,45,24,3,8,16,22,Floor 2,Block D,1262854,1696997,Yes,21,Fully Operational,4.5
+DEPT0095,Rheumatology,Chennai (Main),Dr. Senthil Murugesan,47,45,2,19,11,16,28,21,Floor 2,Block Emergency Wing,688076,1001849,Yes,23,Fully Operational,4.4
+DEPT0096,Cardiology,Tirunelveli,Dr. Suresh Kumar,128,37,91,5,4,9,19,8,Floor 4,Block D,705804,928781,Yes,19,Fully Operational,4.2
+DEPT0097,Nephrology,Thanjavur,Dr. Murugan Srinivasan,144,10,134,8,5,12,57,19,Floor 1,Block A,513567,719751,Yes,46,Fully Operational,4.5
+DEPT0098,Ophthalmology,Chennai (Main),Dr. Murugan Venkatesh,67,56,11,18,7,16,34,25,Floor 6,Block B,1046788,1890105,Yes,44,Fully Operational,4.9
+DEPT0099,Pediatrics,Chennai (Main),Dr. Anand Natarajan,117,21,96,13,5,22,38,18,Floor 6,Block B,1341592,2087622,Yes,52,Fully Operational,4.7
+DEPT0100,Plastic Surgery,Tirunelveli,Dr. Kannan Subramanian,119,59,60,13,8,12,35,8,Floor 7,Block Emergency Wing,1100101,1933647,Yes,43,Fully Operational,5
+DEPT0101,Urology,Thanjavur,Dr. Mani Raman,56,35,21,11,9,21,26,15,Floor 1,Block Specialty Tower,1248163,2026466,Yes,23,Fully Operational,4.7
+DEPT0102,Cardiology,Chennai (Adyar),Dr. Suresh Chelliah,112,42,70,12,10,20,27,16,Floor 5,Block Emergency Wing,778366,1297469,No,13,Fully Operational,4.8
+DEPT0103,Psychiatry,Vellore,Dr. Aravind Rajesh,114,10,104,10,2,19,15,19,Floor 2,Block Emergency Wing,508786,723488,Yes,58,Fully Operational,4.4
+DEPT0104,Gynecology & Obstetrics,Thanjavur,Dr. Prakash Natarajan,111,87,24,13,3,18,23,10,Floor 5,Block B,466703,813471,No,35,Fully Operational,4.1
+DEPT0105,Pulmonology,Tiruchirappalli,Dr. Dinesh Ganesan,139,24,115,14,8,10,58,18,Floor 5,Block Emergency Wing,1150538,1329209,Yes,24,Fully Operational,4.9
+DEPT0106,Pathology & Lab,Madurai,Dr. Kannan Krishnan,58,43,15,17,14,8,41,22,Floor 4,Block C,1470575,1783422,Yes,11,Fully Operational,4.4
+DEPT0107,Endocrinology,Tirunelveli,Dr. Murugan Murugesan,78,22,56,10,8,21,56,17,Floor 4,Block D,932259,1128897,No,53,Fully Operational,4.6
+DEPT0108,Emergency & ICU,Tirunelveli,Dr. Prabhu Murugesan,48,24,24,13,9,14,22,23,Floor 1,Block B,1476410,2504534,Yes,28,Under Maintenance,4.7
+DEPT0109,Endocrinology,Chennai (Adyar),Dr. Aravind Subramanian,113,106,7,21,6,19,49,19,Floor 2,Block A,1166964,1420195,Yes,24,Fully Operational,4.2
+DEPT0110,Urology,Thanjavur,Dr. Prabhu Srinivasan,116,66,50,5,4,11,35,25,Floor 3,Block B,529104,614329,Yes,55,Fully Operational,4.7
+DEPT0111,Nephrology,Tirunelveli,Dr. Kannan Srinivasan,75,45,30,6,2,12,47,13,Floor 1,Block D,416492,630294,Yes,14,Fully Operational,4.6
+DEPT0112,ENT,Salem,Dr. Vignesh Raman,106,53,53,6,3,10,16,19,Floor 2,Block Specialty Tower,1013936,1872573,Yes,17,Fully Operational,4.1
+DEPT0113,Pediatrics,Vellore,Dr. Ashok Murugesan,101,39,62,19,13,21,30,19,Floor 4,Block C,1167869,1534871,Yes,14,Fully Operational,4.8
+DEPT0114,General Medicine,Vellore,Dr. Siva Krishnan,61,27,34,11,8,5,30,19,Floor 6,Block D,1367745,1633328,Yes,32,Fully Operational,4.4
+DEPT0115,Rheumatology,Chennai (Adyar),Dr. Prabhu Kumar,114,76,38,23,5,22,20,10,Floor 6,Block C,1026331,1791971,Yes,58,Fully Operational,4.8
+DEPT0116,Orthopedics,Erode,Dr. Ganesh Srinivasan,117,15,102,6,5,11,28,16,Floor 7,Block Emergency Wing,1093153,1374808,Yes,29,Fully Operational,4.9
+DEPT0117,Cardiology,Vellore,Dr. Karthik Subramanian,134,23,111,4,3,20,17,10,Floor 1,Block Specialty Tower,1072577,1284647,Yes,34,Fully Operational,4.1
+DEPT0118,Gastroenterology,Madurai,Dr. Mani Rajesh,99,72,27,9,6,15,16,26,Floor 7,Block C,550497,819811,No,40,Fully Operational,5
+DEPT0119,Anaesthesiology,Vellore,Dr. Senthil Chandran,112,37,75,17,4,11,30,23,Floor 4,Block A,921827,1468684,Yes,61,Fully Operational,4.7
+DEPT0120,Gynecology & Obstetrics,Tirunelveli,Dr. Mani Chelliah,140,125,15,6,4,18,21,12,Floor 5,Block Specialty Tower,493718,711599,Yes,30,Fully Operational,4.1
+DEPT0121,Dermatology,Tiruchirappalli,Dr. Karthik Rajesh,124,99,25,21,14,22,51,20,Floor 4,Block A,1271248,1949549,Yes,61,Fully Operational,4.1
+DEPT0122,Neurology,Chennai (Adyar),Dr. Siva Swaminathan,121,113,8,6,2,24,43,13,Floor 2,Block Emergency Wing,1019401,1808885,No,26,Fully Operational,4.9
+DEPT0123,Cardiology,Chennai (Main),Dr. Ganesh Raman,97,69,28,11,6,15,48,15,Floor 3,Block Specialty Tower,1004590,1780709,Yes,54,Fully Operational,4.7
+DEPT0124,General Medicine,Tirunelveli,Dr. Saravanan Venkatesh,116,81,35,14,2,17,38,10,Floor 1,Block Emergency Wing,1496179,2493017,Yes,20,Inspection Due,4.9
+DEPT0125,Anaesthesiology,Coimbatore,Dr. Prakash Murugesan,44,14,30,11,7,19,46,23,Floor 4,Block A,448702,761779,Yes,82,Fully Operational,4.2
+DEPT0126,Ophthalmology,Madurai,Dr. Vijay Srinivasan,144,131,13,21,11,8,26,15,Floor 2,Block Specialty Tower,1054444,1642503,Yes,41,Fully Operational,4.2
+DEPT0127,Nephrology,Chennai (Main),Dr. Vignesh Raman,94,82,12,11,10,22,36,27,Floor 6,Block D,1163403,1498729,No,30,Fully Operational,4.8
+DEPT0128,Cardiothoracic Surgery,Tirunelveli,Dr. Anand Ganesan,144,27,117,24,14,12,54,21,Floor 7,Block D,932543,1188246,Yes,31,Fully Operational,4.7
+DEPT0129,Cardiology,Tiruchirappalli,Dr. Dinesh Subramanian,66,59,7,18,4,16,27,29,Floor 3,Block Emergency Wing,367260,613469,Yes,28,Fully Operational,4.1
+DEPT0130,Gastroenterology,Vellore,Dr. Saravanan Chelliah,47,25,22,11,2,16,19,10,Floor 1,Block D,544839,700536,No,19,Fully Operational,4.8
+DEPT0131,Cardiology,Vellore,Dr. Ashok Rajesh,48,45,3,13,11,16,31,21,Floor 6,Block A,582017,978413,Yes,25,Fully Operational,4.3
+DEPT0132,Pediatric Surgery,Coimbatore,Dr. Saravanan Murugesan,43,13,30,23,11,7,40,12,Floor 6,Block Emergency Wing,943942,1087659,Yes,13,Fully Operational,4.4
+DEPT0133,Ophthalmology,Tirunelveli,Dr. Ramesh Subramanian,132,23,109,6,5,9,30,27,Floor 4,Block Specialty Tower,1457655,2366543,No,40,Fully Operational,4.3
+DEPT0134,Radiology & Imaging,Coimbatore,Dr. Kannan Ganesan,69,67,2,9,6,8,33,23,Floor 5,Block D,590998,983925,Yes,72,Fully Operational,4.6
+DEPT0135,Pathology & Lab,Vellore,Dr. Kannan Kumar,56,15,41,7,5,20,41,22,Floor 6,Block Specialty Tower,941147,1335189,Yes,25,Fully Operational,4.6
+DEPT0136,Nephrology,Chennai (Adyar),Dr. Senthil Rajesh,146,122,24,16,7,21,59,26,Floor 5,Block C,383369,669710,Yes,78,Under Maintenance,4.2
+DEPT0137,Ophthalmology,Tiruchirappalli,Dr. Ganesh Swaminathan,44,15,29,7,3,7,15,11,Floor 6,Block A,1230997,1609721,Yes,66,Fully Operational,4.7
+DEPT0138,Neurology,Tiruchirappalli,Dr. Murugan Murugesan,69,31,38,10,4,18,24,23,Floor 6,Block B,570040,965475,Yes,54,Under Maintenance,4
+DEPT0139,Psychiatry,Thanjavur,Dr. Prakash Sundaram,60,13,47,21,2,11,20,22,Floor 2,Block C,366707,454566,No,30,Fully Operational,4.4
+DEPT0140,Radiology & Imaging,Vellore,Dr. Saravanan Murugesan,60,27,33,8,4,9,38,24,Floor 3,Block C,1410868,2223484,Yes,50,Fully Operational,4.7
+DEPT0141,Nephrology,Vellore,Dr. Ramesh Krishnan,72,26,46,5,3,15,55,14,Floor 6,Block A,648688,1024297,Yes,74,Fully Operational,4.1
+DEPT0142,Vascular Surgery,Vellore,Dr. Arun Murugesan,137,25,112,19,8,16,38,22,Floor 6,Block D,370202,544740,Yes,72,Fully Operational,4.3
+DEPT0143,Rheumatology,Madurai,Dr. Vijay Srinivasan,125,24,101,11,6,19,36,27,Floor 4,Block Specialty Tower,414586,751497,Yes,37,Fully Operational,4
+DEPT0144,Endocrinology,Erode,Dr. Senthil Venkatesh,83,51,32,23,4,10,53,27,Floor 7,Block A,510097,619964,Yes,20,Fully Operational,4.5
+DEPT0145,Pediatric Surgery,Vellore,Dr. Vijay Chandran,124,81,43,12,9,22,56,27,Floor 6,Block D,380257,521611,No,12,Under Maintenance,4.2
+DEPT0146,Gynecology & Obstetrics,Chennai (Main),Dr. Karthik Balaji,47,46,1,19,12,9,18,13,Floor 6,Block Specialty Tower,695807,857478,Yes,25,Inspection Due,4.5
+DEPT0147,Rheumatology,Tiruchirappalli,Dr. Kannan Raman,43,37,6,9,3,9,39,10,Floor 1,Block D,795384,1372889,Yes,14,Inspection Due,4.3
+DEPT0148,Oncology,Madurai,Dr. Suresh Raman,45,28,17,15,10,15,16,22,Floor 4,Block D,712104,997272,Yes,12,Under Maintenance,4.5
+DEPT0149,Pulmonology,Tiruchirappalli,Dr. Karthik Chandran,74,61,13,5,2,23,32,18,Floor 1,Block Specialty Tower,1486064,2584285,Yes,24,Fully Operational,4
+DEPT0150,Pulmonology,Chennai (Adyar),Dr. Arun Natarajan,79,37,42,18,8,10,23,27,Floor 4,Block A,845735,1015617,Yes,76,Fully Operational,4.5
+DEPT0151,Gynecology & Obstetrics,Tiruchirappalli,Dr. Senthil Sundaram,92,55,37,23,15,8,26,24,Floor 7,Block A,350939,566938,Yes,15,Fully Operational,4.6
+DEPT0152,Cardiology,Erode,Dr. Sundar Krishnan,53,45,8,24,9,7,33,21,Floor 3,Block D,439544,635145,Yes,31,Under Maintenance,4.3
+DEPT0153,Anaesthesiology,Coimbatore,Dr. Ganesh Natarajan,112,37,75,23,14,11,28,16,Floor 3,Block D,1464795,2335706,Yes,47,Fully Operational,4.1
+DEPT0154,Ophthalmology,Vellore,Dr. Karthik Venkatesh,91,23,68,14,6,7,55,21,Floor 6,Block A,463834,826564,No,50,Inspection Due,4.6
+DEPT0155,Pulmonology,Chennai (Main),Dr. Ashok Srinivasan,51,44,7,14,3,9,34,12,Floor 3,Block D,1102720,1837457,Yes,18,Fully Operational,4.8
+DEPT0156,Pediatric Surgery,Chennai (Main),Dr. Vignesh Rajesh,126,56,70,11,7,16,29,16,Floor 3,Block B,1476371,2156042,Yes,60,Fully Operational,4.8
+DEPT0157,Anaesthesiology,Madurai,Dr. Ramesh Ganesan,67,13,54,15,14,7,36,19,Floor 2,Block B,1334586,2229446,Yes,47,Fully Operational,4.3
+DEPT0158,Ophthalmology,Salem,Dr. Vignesh Natarajan,145,102,43,16,2,7,54,21,Floor 3,Block Emergency Wing,1018675,1319076,Yes,58,Fully Operational,4.2
+DEPT0159,Urology,Madurai,Dr. Karthik Murugesan,78,58,20,13,12,13,23,12,Floor 1,Block A,595767,906828,No,64,Under Maintenance,4.5
+DEPT0160,Urology,Coimbatore,Dr. Prakash Rajesh,85,54,31,4,3,16,33,19,Floor 5,Block Emergency Wing,557324,921201,No,78,Fully Operational,4.6
+DEPT0161,Cardiothoracic Surgery,Tirunelveli,Dr. Anand Chelliah,123,91,32,21,3,8,44,8,Floor 7,Block D,858830,1239517,No,24,Fully Operational,4.4
+DEPT0162,Oncology,Thanjavur,Dr. Arun Natarajan,114,86,28,13,3,23,23,14,Floor 4,Block C,1080741,1334056,No,47,Under Maintenance,5
+DEPT0163,Cardiology,Chennai (Main),Dr. Prabhu Srinivasan,51,44,7,14,2,17,29,12,Floor 5,Block Specialty Tower,508944,662256,Yes,33,Fully Operational,4.8
+DEPT0164,Vascular Surgery,Chennai (Adyar),Dr. Vijay Natarajan,84,82,2,24,7,16,48,10,Floor 3,Block D,1007755,1805538,Yes,84,Fully Operational,4.4
+DEPT0165,Endocrinology,Salem,Dr. Vijay Ganesan,72,33,39,10,3,9,21,11,Floor 5,Block A,1048736,1900992,Yes,83,Fully Operational,4.6
+DEPT0166,Urology,Chennai (Main),Dr. Anand Krishnan,103,78,25,11,3,20,26,13,Floor 1,Block D,1322788,1732773,No,76,Inspection Due,4.4
+DEPT0167,Radiology & Imaging,Salem,Dr. Prakash Swaminathan,130,115,15,22,19,10,29,28,Floor 6,Block B,1076676,1867856,Yes,44,Under Maintenance,4.6
+DEPT0168,Oncology,Chennai (Main),Dr. Kannan Pandian,86,26,60,16,7,8,19,12,Floor 1,Block A,433004,662146,No,60,Fully Operational,4.8
+DEPT0169,Emergency & ICU,Coimbatore,Dr. Anand Chandran,85,30,55,15,12,11,18,26,Floor 1,Block D,456951,845267,Yes,20,Fully Operational,4.8
+DEPT0170,Orthopedics,Chennai (Adyar),Dr. Vignesh Krishnan,63,28,35,8,6,12,42,12,Floor 1,Block Emergency Wing,539779,963429,Yes,20,Fully Operational,4.5
+DEPT0171,Vascular Surgery,Tiruchirappalli,Dr. Prakash Balaji,131,14,117,20,10,18,26,13,Floor 1,Block C,1473650,2223784,Yes,61,Under Maintenance,4.6
+DEPT0172,Neurology,Salem,Dr. Prakash Kumar,101,97,4,18,12,15,31,26,Floor 5,Block Specialty Tower,714299,1235211,No,13,Under Maintenance,4.5
+DEPT0173,Oncology,Erode,Dr. Siva Rajesh,120,90,30,20,2,12,33,13,Floor 3,Block C,421668,635581,Yes,40,Fully Operational,4.8
+DEPT0174,Vascular Surgery,Salem,Dr. Prakash Natarajan,93,19,74,13,6,20,26,9,Floor 1,Block C,1398423,2125609,No,44,Inspection Due,4.7
+DEPT0175,Ophthalmology,Erode,Dr. Ramesh Srinivasan,46,12,34,4,3,9,15,22,Floor 5,Block Emergency Wing,342727,618952,No,82,Fully Operational,4.8
+DEPT0176,Cardiology,Erode,Dr. Prabhu Raman,85,13,72,9,4,7,22,10,Floor 6,Block D,310207,372441,No,25,Fully Operational,4.1
+DEPT0177,Cardiology,Thanjavur,Dr. Ashok Krishnan,99,75,24,5,3,17,45,9,Floor 7,Block C,1417063,1919781,Yes,64,Inspection Due,4.3
+DEPT0178,Rheumatology,Tirunelveli,Dr. Karthik Kumar,144,22,122,24,20,23,39,29,Floor 7,Block A,578710,869314,Yes,19,Under Maintenance,4.6
+DEPT0179,Plastic Surgery,Chennai (Adyar),Dr. Sundar Raman,67,55,12,23,22,19,36,11,Floor 5,Block C,636907,953887,Yes,84,Fully Operational,4.4
+DEPT0180,Endocrinology,Chennai (Main),Dr. Mani Swaminathan,125,47,78,20,19,12,55,13,Floor 5,Block D,1079128,1303479,No,74,Fully Operational,4.6
+DEPT0181,Cardiology,Madurai,Dr. Vijay Raman,54,22,32,22,18,10,26,26,Floor 5,Block A,332441,392148,Yes,69,Fully Operational,4.7
+DEPT0182,Nephrology,Tirunelveli,Dr. Prakash Rajesh,140,33,107,15,12,21,18,22,Floor 1,Block Specialty Tower,667570,1064131,No,26,Fully Operational,5
+DEPT0183,Oncology,Coimbatore,Dr. Dinesh Swaminathan,57,23,34,6,5,13,21,16,Floor 5,Block B,1460291,2548563,Yes,82,Under Maintenance,4.7
+DEPT0184,Vascular Surgery,Chennai (Main),Dr. Vijay Rajesh,126,54,72,16,3,13,38,15,Floor 7,Block D,1148923,2105073,Yes,37,Fully Operational,4.2
+DEPT0185,Neurology,Tiruchirappalli,Dr. Prakash Natarajan,52,19,33,24,13,19,24,21,Floor 5,Block Emergency Wing,796013,1145900,Yes,26,Inspection Due,4.3
+DEPT0186,Urology,Vellore,Dr. Vijay Murugesan,99,74,25,23,17,19,31,15,Floor 4,Block B,1141675,1413262,Yes,68,Fully Operational,4.4
+DEPT0187,Pediatrics,Salem,Dr. Ramesh Swaminathan,135,126,9,4,2,11,26,23,Floor 3,Block Emergency Wing,481196,881520,No,82,Fully Operational,4.8
+DEPT0188,Cardiothoracic Surgery,Vellore,Dr. Vignesh Rajesh,125,68,57,7,4,13,43,9,Floor 2,Block D,1401004,2344175,Yes,13,Inspection Due,4.9
+DEPT0189,Pediatrics,Erode,Dr. Siva Raman,114,24,90,12,2,16,21,17,Floor 1,Block B,413688,701997,Yes,20,Inspection Due,4.5
+DEPT0190,Neurology,Chennai (Main),Dr. Anand Chelliah,91,63,28,18,16,13,40,24,Floor 2,Block Emergency Wing,1339955,2132733,Yes,63,Fully Operational,4.3
+DEPT0191,Cardiology,Thanjavur,Dr. Sundar Chandran,45,31,14,21,15,14,27,10,Floor 6,Block Specialty Tower,1284156,1909454,No,42,Fully Operational,5
+DEPT0192,Psychiatry,Salem,Dr. Prabhu Swaminathan,107,57,50,15,12,9,39,25,Floor 3,Block Specialty Tower,1472341,1706620,Yes,38,Inspection Due,4.9
+DEPT0193,Urology,Tiruchirappalli,Dr. Ashok Raman,73,64,9,11,9,8,44,8,Floor 3,Block A,738458,1345557,No,53,Fully Operational,4
+DEPT0194,Pediatrics,Thanjavur,Dr. Prakash Chandran,127,51,76,11,3,12,41,29,Floor 5,Block C,779083,1257209,Yes,18,Fully Operational,5
+DEPT0195,Cardiology,Coimbatore,Dr. Karthik Swaminathan,128,102,26,10,2,7,34,27,Floor 5,Block Specialty Tower,668226,1213264,Yes,26,Fully Operational,4.3
+DEPT0196,Plastic Surgery,Tiruchirappalli,Dr. Mani Subramanian,104,10,94,16,5,24,37,17,Floor 3,Block C,1067876,1254981,Yes,50,Inspection Due,4.6
+DEPT0197,Urology,Erode,Dr. Aravind Chandran,138,85,53,22,20,17,21,22,Floor 7,Block B,569956,822796,No,24,Fully Operational,4.2
+DEPT0198,ENT,Vellore,Dr. Ashok Natarajan,142,55,87,17,10,8,29,10,Floor 5,Block A,1298082,1579164,No,72,Fully Operational,4.7
+DEPT0199,Pediatric Surgery,Erode,Dr. Ganesh Subramanian,106,43,63,20,14,9,45,28,Floor 6,Block A,349976,547118,Yes,79,Fully Operational,5
+DEPT0200,Dermatology,Tirunelveli,Dr. Suresh Chandran,100,93,7,6,5,23,36,22,Floor 4,Block D,411435,537747,Yes,50,Under Maintenance,4.4
+DEPT0201,Psychiatry,Tiruchirappalli,Dr. Ashok Pandian,90,87,3,19,16,8,53,23,Floor 6,Block Emergency Wing,1104807,1781733,Yes,40,Fully Operational,4
+DEPT0202,Cardiology,Vellore,Dr. Anand Pandian,135,19,116,20,5,20,39,28,Floor 5,Block Specialty Tower,1084192,1784518,Yes,75,Fully Operational,4.7
+DEPT0203,Gynecology & Obstetrics,Chennai (Main),Dr. Dinesh Balaji,78,66,12,20,3,13,43,16,Floor 5,Block Specialty Tower,992485,1603461,Yes,72,Fully Operational,4.7
+DEPT0204,Emergency & ICU,Tirunelveli,Dr. Karthik Kumar,106,99,7,18,5,8,32,24,Floor 3,Block C,858963,1062595,No,42,Inspection Due,4.4
+DEPT0205,Neurology,Erode,Dr. Aravind Krishnan,136,58,78,11,4,5,19,23,Floor 6,Block Emergency Wing,676047,1156042,Yes,52,Under Maintenance,4.2
+DEPT0206,Neurology,Tirunelveli,Dr. Arun Venkatesh,61,60,1,8,7,7,30,26,Floor 3,Block B,1123759,1420398,Yes,21,Fully Operational,4.3
+DEPT0207,Gastroenterology,Chennai (Main),Dr. Suresh Kumar,44,37,7,17,6,5,55,26,Floor 6,Block Emergency Wing,701062,1269703,Yes,63,Fully Operational,4.1
+DEPT0208,Cardiothoracic Surgery,Coimbatore,Dr. Siva Rajesh,63,27,36,13,10,12,40,17,Floor 1,Block B,395556,725952,Yes,50,Fully Operational,4.5
+DEPT0209,Dermatology,Coimbatore,Dr. Ganesh Raman,128,44,84,19,3,14,52,29,Floor 2,Block C,922006,1109989,Yes,29,Fully Operational,4.1
+DEPT0210,Gastroenterology,Coimbatore,Dr. Siva Natarajan,105,39,66,24,3,7,20,22,Floor 3,Block B,312360,513720,Yes,68,Fully Operational,4.6
+DEPT0211,Neurology,Chennai (Main),Dr. Aravind Murugesan,128,19,109,24,16,23,35,29,Floor 4,Block B,384381,625033,Yes,54,Fully Operational,4.3
+DEPT0212,Neurology,Coimbatore,Dr. Karthik Murugesan,75,55,20,13,7,20,52,24,Floor 2,Block B,940794,1367451,Yes,34,Fully Operational,4.3
+DEPT0213,Oncology,Thanjavur,Dr. Aravind Venkatesh,131,26,105,14,10,13,56,25,Floor 4,Block Emergency Wing,656007,1054725,No,61,Fully Operational,4.2
+DEPT0214,Endocrinology,Tiruchirappalli,Dr. Prakash Swaminathan,73,49,24,14,3,7,47,18,Floor 2,Block Specialty Tower,416214,722940,No,28,Fully Operational,4.3
+DEPT0215,Pediatric Surgery,Coimbatore,Dr. Ganesh Krishnan,104,100,4,17,9,23,56,24,Floor 1,Block Emergency Wing,1356600,1876889,No,63,Under Maintenance,4
+DEPT0216,Rheumatology,Chennai (Adyar),Dr. Prakash Pandian,99,49,50,7,3,15,51,22,Floor 4,Block B,455489,683259,No,67,Fully Operational,4.3
+DEPT0217,Dermatology,Salem,Dr. Vijay Ganesan,118,10,108,6,3,10,15,13,Floor 6,Block Emergency Wing,1070692,1820782,No,80,Fully Operational,4.8
+DEPT0218,Anaesthesiology,Coimbatore,Dr. Vijay Chandran,40,13,27,15,13,14,37,28,Floor 5,Block B,631607,1075314,Yes,41,Under Maintenance,4.8
+DEPT0219,Radiology & Imaging,Thanjavur,Dr. Anand Murugesan,97,48,49,19,2,21,35,16,Floor 6,Block C,1408076,2115201,Yes,14,Fully Operational,4.8
+DEPT0220,Cardiothoracic Surgery,Coimbatore,Dr. Prabhu Rajesh,76,22,54,17,5,19,37,20,Floor 1,Block Emergency Wing,947652,1575642,Yes,31,Fully Operational,4.3
+DEPT0221,Urology,Thanjavur,Dr. Aravind Srinivasan,49,45,4,5,2,14,42,18,Floor 6,Block Specialty Tower,397406,522168,Yes,37,Fully Operational,5
+DEPT0222,Oncology,Chennai (Main),Dr. Karthik Natarajan,106,83,23,11,2,22,48,26,Floor 5,Block Specialty Tower,1219424,1941314,Yes,57,Fully Operational,4.1
+DEPT0223,Dermatology,Erode,Dr. Anand Balaji,52,14,38,20,4,11,53,28,Floor 1,Block A,336413,573560,Yes,12,Fully Operational,4.6
+DEPT0224,Pulmonology,Vellore,Dr. Prabhu Venkatesh,95,74,21,19,10,23,58,26,Floor 6,Block A,825005,1243606,No,50,Under Maintenance,4.5
+DEPT0225,Rheumatology,Vellore,Dr. Vignesh Raman,90,57,33,5,3,10,26,22,Floor 1,Block D,1466670,1755010,Yes,54,Fully Operational,4.5
+DEPT0226,Vascular Surgery,Madurai,Dr. Ganesh Rajesh,106,92,14,6,3,18,54,11,Floor 3,Block D,650067,768199,Yes,39,Fully Operational,4.7
+DEPT0227,Ophthalmology,Vellore,Dr. Arun Rajesh,118,57,61,7,2,9,59,14,Floor 2,Block D,1106608,1283930,Yes,53,Fully Operational,4.2
+DEPT0228,Oncology,Salem,Dr. Anand Swaminathan,126,104,22,6,2,8,56,12,Floor 5,Block Specialty Tower,1273737,1738438,Yes,20,Fully Operational,4.2
+DEPT0229,Endocrinology,Erode,Dr. Kannan Pandian,41,39,2,15,11,16,25,22,Floor 1,Block B,349522,603023,Yes,71,Fully Operational,4.3
+DEPT0230,Gynecology & Obstetrics,Coimbatore,Dr. Karthik Srinivasan,84,37,47,24,15,17,41,11,Floor 7,Block Specialty Tower,952873,1537344,No,13,Fully Operational,5
+DEPT0231,Pediatric Surgery,Madurai,Dr. Saravanan Subramanian,115,42,73,11,2,9,36,13,Floor 5,Block Emergency Wing,1299074,2243538,Yes,55,Fully Operational,4.3
+DEPT0232,Pediatric Surgery,Erode,Dr. Vignesh Chelliah,68,16,52,11,7,22,16,15,Floor 3,Block A,481429,791847,No,36,Inspection Due,4.3
+DEPT0233,Nephrology,Coimbatore,Dr. Kannan Pandian,74,40,34,18,17,17,49,27,Floor 3,Block C,548724,932071,Yes,57,Fully Operational,4
+DEPT0234,Radiology & Imaging,Erode,Dr. Mani Kumar,135,109,26,18,17,15,49,10,Floor 5,Block Emergency Wing,396393,564231,Yes,38,Fully Operational,4.4
+DEPT0235,Nephrology,Vellore,Dr. Siva Swaminathan,122,96,26,14,3,9,19,26,Floor 5,Block D,330257,529948,No,47,Fully Operational,4.1
+DEPT0236,Urology,Chennai (Adyar),Dr. Mani Venkatesh,126,84,42,24,13,9,37,16,Floor 3,Block A,1165256,1396979,Yes,74,Fully Operational,4.6
+DEPT0237,Pathology & Lab,Erode,Dr. Murugan Krishnan,125,123,2,18,2,18,28,25,Floor 4,Block B,574336,905606,Yes,21,Fully Operational,4.7
+DEPT0238,Gynecology & Obstetrics,Coimbatore,Dr. Kannan Rajesh,105,46,59,20,7,6,50,29,Floor 2,Block C,586663,713637,Yes,29,Fully Operational,4.4
+DEPT0239,Ophthalmology,Madurai,Dr. Siva Balaji,55,52,3,10,9,17,41,28,Floor 7,Block A,1019778,1315908,Yes,66,Fully Operational,4.8
+DEPT0240,Radiology & Imaging,Madurai,Dr. Ramesh Chandran,51,26,25,13,4,18,25,9,Floor 2,Block D,941593,1234010,Yes,19,Fully Operational,4.4
+DEPT0241,Plastic Surgery,Coimbatore,Dr. Saravanan Srinivasan,79,49,30,15,9,12,25,21,Floor 5,Block Specialty Tower,355863,441546,Yes,58,Fully Operational,4.3
+DEPT0242,Neurology,Tiruchirappalli,Dr. Vijay Chelliah,121,73,48,9,8,6,45,18,Floor 4,Block Specialty Tower,703551,885901,Yes,19,Fully Operational,4.1
+DEPT0243,Orthopedics,Tirunelveli,Dr. Anand Kumar,134,104,30,13,10,14,48,16,Floor 6,Block Emergency Wing,595599,913092,No,26,Under Maintenance,4.3
+DEPT0244,Cardiothoracic Surgery,Tirunelveli,Dr. Kannan Kumar,71,18,53,11,5,22,27,23,Floor 1,Block D,1462667,2385503,Yes,57,Fully Operational,4.3
+DEPT0245,Neurology,Vellore,Dr. Vignesh Rajesh,148,90,58,20,6,10,33,20,Floor 1,Block D,1219134,1745730,No,81,Fully Operational,4.7
+DEPT0246,Gynecology & Obstetrics,Salem,Dr. Senthil Ganesan,42,22,20,5,3,10,22,15,Floor 6,Block A,456877,606257,No,68,Fully Operational,4.7
+DEPT0247,Pediatrics,Madurai,Dr. Prabhu Chelliah,124,93,31,10,8,8,27,20,Floor 7,Block B,791121,939424,Yes,63,Fully Operational,4.6
+DEPT0248,Emergency & ICU,Chennai (Main),Dr. Vignesh Raman,130,118,12,17,9,12,40,22,Floor 3,Block Emergency Wing,676036,998106,No,25,Fully Operational,4.8
+DEPT0249,Ophthalmology,Tirunelveli,Dr. Kannan Swaminathan,132,119,13,21,14,15,35,28,Floor 7,Block A,1067442,1687188,No,83,Fully Operational,4.1
+DEPT0250,Plastic Surgery,Chennai (Main),Dr. Siva Sundaram,93,10,83,15,4,15,48,23,Floor 1,Block D,1437613,2574011,Yes,36,Fully Operational,4.4
+DEPT0251,ENT,Thanjavur,Dr. Aravind Pandian,142,104,38,20,2,12,37,13,Floor 6,Block B,1066565,1240851,No,63,Fully Operational,4.3
+DEPT0252,Anaesthesiology,Erode,Dr. Anand Chandran,105,72,33,11,4,11,42,24,Floor 6,Block C,1016773,1379718,Yes,46,Under Maintenance,4.7
+DEPT0253,Ophthalmology,Madurai,Dr. Kannan Subramanian,97,41,56,20,10,8,33,10,Floor 6,Block C,826249,1148792,No,72,Inspection Due,4.9
+DEPT0254,Psychiatry,Madurai,Dr. Suresh Ganesan,66,18,48,18,17,16,45,21,Floor 5,Block A,930270,1396393,Yes,82,Fully Operational,4.8
+DEPT0255,Nephrology,Coimbatore,Dr. Senthil Venkatesh,44,12,32,19,18,19,49,19,Floor 1,Block Emergency Wing,577785,954491,No,59,Under Maintenance,4.9
+DEPT0256,Cardiothoracic Surgery,Tirunelveli,Dr. Ashok Kumar,128,75,53,6,3,24,36,28,Floor 6,Block Emergency Wing,1180096,1453697,Yes,61,Fully Operational,4.6
+DEPT0257,Pediatric Surgery,Vellore,Dr. Saravanan Krishnan,146,121,25,15,8,8,41,25,Floor 5,Block D,1154741,1750818,Yes,49,Fully Operational,4.3
+DEPT0258,Ophthalmology,Erode,Dr. Prakash Rajesh,103,14,89,16,6,9,59,13,Floor 5,Block Emergency Wing,1116698,1749188,Yes,69,Fully Operational,4.9
+DEPT0259,Gastroenterology,Tirunelveli,Dr. Kannan Pandian,111,72,39,12,8,19,48,27,Floor 1,Block D,939872,1382129,Yes,10,Fully Operational,4.6
+DEPT0260,Vascular Surgery,Thanjavur,Dr. Dinesh Kumar,61,47,14,6,2,20,22,22,Floor 1,Block A,1080277,1400407,Yes,54,Under Maintenance,4.2
+DEPT0261,Pathology & Lab,Erode,Dr. Dinesh Krishnan,66,22,44,20,4,10,19,29,Floor 2,Block A,813953,954654,Yes,29,Fully Operational,4.7
+DEPT0262,Psychiatry,Chennai (Adyar),Dr. Vijay Kumar,53,23,30,16,8,16,29,26,Floor 7,Block C,708302,1142664,Yes,28,Fully Operational,4.7
+DEPT0263,Pulmonology,Erode,Dr. Anand Balaji,146,59,87,4,2,8,27,13,Floor 2,Block Specialty Tower,1448836,1737264,Yes,77,Fully Operational,4
+DEPT0264,Pulmonology,Madurai,Dr. Kannan Murugesan,67,41,26,16,3,7,22,22,Floor 3,Block A,565702,737852,No,66,Fully Operational,4.1
+DEPT0265,Gynecology & Obstetrics,Chennai (Adyar),Dr. Mani Chandran,132,48,84,5,4,17,37,12,Floor 6,Block Specialty Tower,941517,1153668,No,15,Fully Operational,4.8
+DEPT0266,ENT,Thanjavur,Dr. Prabhu Chandran,113,93,20,9,4,7,56,18,Floor 3,Block A,845726,1206520,Yes,14,Under Maintenance,4.8
+DEPT0267,Orthopedics,Salem,Dr. Karthik Subramanian,61,57,4,14,12,14,17,16,Floor 4,Block D,1065197,1738009,Yes,82,Fully Operational,4.6
+DEPT0268,Pathology & Lab,Tiruchirappalli,Dr. Dinesh Subramanian,126,39,87,5,2,20,39,17,Floor 6,Block B,915416,1495134,Yes,50,Fully Operational,4.2
+DEPT0269,Pulmonology,Chennai (Adyar),Dr. Ganesh Natarajan,114,20,94,24,22,17,21,24,Floor 6,Block B,1134379,1333066,No,84,Fully Operational,4
+DEPT0270,Orthopedics,Tiruchirappalli,Dr. Ashok Krishnan,96,56,40,18,17,14,26,20,Floor 4,Block Specialty Tower,1388129,1656482,Yes,81,Inspection Due,4.4
+DEPT0271,Radiology & Imaging,Erode,Dr. Murugan Rajesh,82,26,56,20,5,12,19,23,Floor 4,Block D,1443413,2000885,No,39,Fully Operational,4.3
+DEPT0272,Dermatology,Madurai,Dr. Saravanan Rajesh,106,24,82,7,5,23,27,17,Floor 5,Block Emergency Wing,979222,1231596,Yes,79,Fully Operational,4.4
+DEPT0273,Pulmonology,Chennai (Adyar),Dr. Saravanan Krishnan,139,39,100,16,4,6,27,18,Floor 6,Block Specialty Tower,568508,791006,Yes,45,Fully Operational,4.1
+DEPT0274,Gynecology & Obstetrics,Salem,Dr. Siva Chelliah,118,66,52,23,10,8,32,12,Floor 4,Block Specialty Tower,828036,999784,Yes,53,Fully Operational,5
+DEPT0275,Nephrology,Tirunelveli,Dr. Vijay Natarajan,145,137,8,6,2,23,45,28,Floor 2,Block C,547667,800968,Yes,26,Fully Operational,4.6
+DEPT0276,Dermatology,Tiruchirappalli,Dr. Prakash Venkatesh,40,20,20,24,5,11,40,22,Floor 2,Block D,728638,1078140,Yes,74,Fully Operational,4.8
+DEPT0277,Dermatology,Chennai (Adyar),Dr. Ganesh Venkatesh,43,28,15,14,9,22,57,18,Floor 5,Block C,775147,973772,No,63,Fully Operational,4.7
+DEPT0278,Vascular Surgery,Madurai,Dr. Suresh Ganesan,64,41,23,13,11,12,47,20,Floor 1,Block Specialty Tower,744718,887674,Yes,31,Fully Operational,4.7
+DEPT0279,Oncology,Chennai (Adyar),Dr. Arun Ganesan,79,19,60,5,4,6,15,26,Floor 4,Block D,444282,707913,No,75,Fully Operational,4.9
+DEPT0280,Plastic Surgery,Tirunelveli,Dr. Ganesh Srinivasan,117,110,7,21,15,6,26,29,Floor 6,Block D,1342092,1819000,Yes,70,Inspection Due,4.8
+DEPT0281,General Medicine,Madurai,Dr. Siva Raman,77,76,1,16,12,20,19,11,Floor 5,Block C,1157549,1689624,Yes,21,Fully Operational,4.7
+DEPT0282,Radiology & Imaging,Tirunelveli,Dr. Sundar Swaminathan,54,53,1,20,10,19,58,9,Floor 5,Block Emergency Wing,1254138,1795197,Yes,52,Fully Operational,4.7
+DEPT0283,Ophthalmology,Coimbatore,Dr. Sundar Krishnan,101,96,5,11,5,7,19,16,Floor 5,Block Specialty Tower,1358302,2083921,Yes,54,Inspection Due,4.2
+DEPT0284,ENT,Tirunelveli,Dr. Karthik Subramanian,83,48,35,18,7,15,43,29,Floor 2,Block C,1180147,1838551,No,67,Fully Operational,4.3
+DEPT0285,Cardiology,Madurai,Dr. Suresh Venkatesh,68,57,11,22,2,7,49,12,Floor 3,Block D,569515,883232,Yes,48,Under Maintenance,4.5
+DEPT0286,Gynecology & Obstetrics,Vellore,Dr. Siva Chelliah,92,52,40,22,9,24,22,17,Floor 2,Block C,1262454,1969295,Yes,29,Fully Operational,4.8
+DEPT0287,Anaesthesiology,Tirunelveli,Dr. Sundar Pandian,65,51,14,14,7,6,57,26,Floor 6,Block Specialty Tower,960197,1543098,Yes,81,Fully Operational,4.7
+DEPT0288,Pediatric Surgery,Tirunelveli,Dr. Prakash Balaji,100,77,23,15,11,10,26,18,Floor 3,Block Emergency Wing,1334104,2444913,No,63,Fully Operational,4.7
+DEPT0289,Urology,Chennai (Main),Dr. Ramesh Srinivasan,50,37,13,12,8,17,37,25,Floor 4,Block C,658766,916961,No,38,Fully Operational,4.5
+DEPT0290,Radiology & Imaging,Coimbatore,Dr. Anand Natarajan,119,39,80,23,14,19,39,26,Floor 6,Block B,1201626,1936760,Yes,47,Fully Operational,4.4
+DEPT0291,Dermatology,Salem,Dr. Anand Raman,80,19,61,10,9,22,52,27,Floor 1,Block A,905108,1468931,Yes,13,Fully Operational,4.1
+DEPT0292,General Medicine,Tirunelveli,Dr. Mani Sundaram,100,44,56,11,9,23,50,25,Floor 4,Block C,1026826,1587570,No,27,Fully Operational,4.9
+DEPT0293,Orthopedics,Madurai,Dr. Saravanan Kumar,78,57,21,17,11,20,53,16,Floor 4,Block Specialty Tower,766589,1050615,No,21,Under Maintenance,4.8
+DEPT0294,Rheumatology,Tirunelveli,Dr. Karthik Chelliah,97,96,1,16,7,10,58,15,Floor 6,Block C,1030212,1489541,No,39,Fully Operational,4.5
+DEPT0295,Pediatrics,Salem,Dr. Ramesh Sundaram,60,21,39,4,2,19,16,27,Floor 7,Block Emergency Wing,1365131,1622042,Yes,52,Fully Operational,4.8
+DEPT0296,General Medicine,Thanjavur,Dr. Prakash Subramanian,121,77,44,20,3,6,58,13,Floor 2,Block A,617942,969547,Yes,25,Under Maintenance,4.2
+DEPT0297,Anaesthesiology,Tirunelveli,Dr. Anand Sundaram,97,54,43,8,6,14,46,17,Floor 3,Block B,418542,664532,Yes,12,Fully Operational,4.2
+DEPT0298,Pathology & Lab,Coimbatore,Dr. Suresh Ganesan,77,28,49,6,5,12,34,22,Floor 4,Block C,427572,499432,Yes,25,Fully Operational,4.9
+DEPT0299,Radiology & Imaging,Tiruchirappalli,Dr. Ramesh Chelliah,110,107,3,12,7,21,51,19,Floor 1,Block B,1030602,1610264,Yes,59,Fully Operational,4.1
+DEPT0300,Radiology & Imaging,Vellore,Dr. Vijay Sundaram,62,52,10,9,8,9,57,25,Floor 6,Block Emergency Wing,490285,661948,Yes,72,Fully Operational,4.6
+DEPT0301,Pathology & Lab,Vellore,Dr. Vignesh Swaminathan,123,101,22,4,3,18,48,23,Floor 3,Block B,1324903,2033600,No,54,Fully Operational,4.1
+DEPT0302,Vascular Surgery,Chennai (Adyar),Dr. Dinesh Raman,105,83,22,16,3,19,26,22,Floor 5,Block B,1155754,2011738,Yes,35,Under Maintenance,4.8
+DEPT0303,Gastroenterology,Erode,Dr. Prabhu Kumar,90,52,38,22,19,16,42,8,Floor 3,Block D,738963,1297985,Yes,35,Under Maintenance,4.7
+DEPT0304,ENT,Salem,Dr. Kannan Srinivasan,126,63,63,19,17,7,59,21,Floor 4,Block Specialty Tower,1188916,1728489,Yes,74,Fully Operational,4.3
+DEPT0305,Cardiothoracic Surgery,Tirunelveli,Dr. Kannan Pandian,57,32,25,18,2,11,37,20,Floor 4,Block B,660306,1141833,Yes,16,Fully Operational,4.6
+DEPT0306,Gynecology & Obstetrics,Vellore,Dr. Kannan Sundaram,70,30,40,11,2,24,51,29,Floor 5,Block D,1065328,1742676,Yes,67,Fully Operational,4.5
+DEPT0307,Endocrinology,Salem,Dr. Suresh Rajesh,114,23,91,5,4,7,47,26,Floor 2,Block A,896860,1110099,Yes,10,Fully Operational,4
+DEPT0308,Urology,Chennai (Adyar),Dr. Ashok Raman,132,28,104,22,17,23,23,8,Floor 2,Block C,599488,802209,Yes,64,Fully Operational,4.4
+DEPT0309,Emergency & ICU,Salem,Dr. Suresh Swaminathan,144,57,87,14,8,14,24,27,Floor 2,Block D,402780,692099,Yes,72,Under Maintenance,4.3
+DEPT0310,Neurology,Chennai (Main),Dr. Ashok Chelliah,138,130,8,23,6,9,34,22,Floor 2,Block B,991804,1787447,No,83,Fully Operational,4.1
+DEPT0311,Orthopedics,Vellore,Dr. Prakash Natarajan,140,51,89,16,5,17,26,12,Floor 2,Block D,1278935,1506844,Yes,65,Inspection Due,4.6
+DEPT0312,Dermatology,Tiruchirappalli,Dr. Sundar Murugesan,90,78,12,21,13,21,59,9,Floor 1,Block Emergency Wing,1087163,1407628,Yes,67,Fully Operational,4.2
+DEPT0313,Plastic Surgery,Tiruchirappalli,Dr. Aravind Krishnan,98,69,29,22,16,20,38,16,Floor 4,Block A,301515,536062,No,58,Fully Operational,4.6
+DEPT0314,Anaesthesiology,Chennai (Main),Dr. Ashok Chelliah,143,81,62,21,17,24,33,17,Floor 1,Block Emergency Wing,1251302,2189855,No,34,Inspection Due,4.1
+DEPT0315,Gynecology & Obstetrics,Vellore,Dr. Anand Srinivasan,63,20,43,22,3,7,25,13,Floor 5,Block Specialty Tower,716690,1301989,Yes,65,Fully Operational,4.9
+DEPT0316,Anaesthesiology,Madurai,Dr. Ashok Swaminathan,125,68,57,10,2,17,15,15,Floor 6,Block D,1017186,1289996,Yes,36,Inspection Due,4.2
+DEPT0317,Dermatology,Tirunelveli,Dr. Prabhu Pandian,114,51,63,24,2,22,50,12,Floor 1,Block C,941232,1386085,No,12,Fully Operational,4.1
+DEPT0318,Plastic Surgery,Chennai (Main),Dr. Siva Balaji,121,59,62,17,3,19,29,13,Floor 3,Block B,421635,553670,Yes,71,Inspection Due,4.3
+DEPT0319,Pediatric Surgery,Erode,Dr. Siva Kumar,52,10,42,5,3,19,58,21,Floor 1,Block Emergency Wing,454721,576232,Yes,40,Fully Operational,4.4
+DEPT0320,Radiology & Imaging,Erode,Dr. Arun Kumar,140,98,42,23,22,7,51,23,Floor 2,Block B,1187935,1714521,Yes,67,Fully Operational,4.9
+DEPT0321,Dermatology,Chennai (Adyar),Dr. Suresh Kumar,142,78,64,8,5,20,55,12,Floor 1,Block Emergency Wing,1415561,1845529,Yes,73,Fully Operational,4.8
+DEPT0322,Gynecology & Obstetrics,Chennai (Main),Dr. Mani Balaji,104,10,94,7,5,22,41,18,Floor 3,Block A,834633,1024447,Yes,79,Fully Operational,4.2
+DEPT0323,Psychiatry,Thanjavur,Dr. Anand Rajesh,95,27,68,16,2,9,57,14,Floor 5,Block B,346032,606598,No,39,Fully Operational,4.5
+DEPT0324,Orthopedics,Tirunelveli,Dr. Mani Murugesan,46,15,31,4,3,18,57,28,Floor 2,Block Specialty Tower,928474,1279545,No,65,Under Maintenance,4.3
+DEPT0325,Pediatric Surgery,Salem,Dr. Vignesh Kumar,93,33,60,18,8,23,36,10,Floor 6,Block Specialty Tower,1034172,1823383,No,38,Fully Operational,4.5
+DEPT0326,General Medicine,Chennai (Adyar),Dr. Anand Krishnan,53,32,21,18,15,7,33,19,Floor 2,Block C,917585,1177344,No,79,Fully Operational,5
+DEPT0327,Rheumatology,Tiruchirappalli,Dr. Ashok Ganesan,100,63,37,11,2,8,24,18,Floor 1,Block A,1360538,2410511,Yes,80,Fully Operational,4.9
+DEPT0328,Emergency & ICU,Madurai,Dr. Sundar Srinivasan,55,16,39,22,3,14,31,12,Floor 4,Block Specialty Tower,1208063,1737004,Yes,67,Fully Operational,4.4
+DEPT0329,Emergency & ICU,Chennai (Main),Dr. Kannan Balaji,118,53,65,4,2,8,59,12,Floor 5,Block B,510809,626291,No,38,Fully Operational,4.6
+DEPT0330,Cardiothoracic Surgery,Chennai (Adyar),Dr. Karthik Sundaram,80,32,48,10,4,22,57,14,Floor 1,Block A,1273069,2062351,No,19,Fully Operational,4.6
+DEPT0331,Neurology,Tiruchirappalli,Dr. Anand Kumar,113,72,41,18,11,23,26,23,Floor 1,Block Specialty Tower,1447546,2386809,Yes,68,Under Maintenance,4.2
+DEPT0332,Neurology,Chennai (Adyar),Dr. Ramesh Rajesh,54,34,20,4,2,14,39,12,Floor 3,Block Emergency Wing,680069,878312,Yes,26,Fully Operational,4.8
+DEPT0333,Endocrinology,Erode,Dr. Prabhu Subramanian,120,26,94,24,19,20,44,15,Floor 2,Block C,1164950,1569953,Yes,26,Fully Operational,4.2
+DEPT0334,Pediatrics,Chennai (Adyar),Dr. Anand Sundaram,53,38,15,7,3,24,57,19,Floor 1,Block Emergency Wing,1273902,1910138,Yes,28,Fully Operational,4.5
+DEPT0335,Radiology & Imaging,Chennai (Main),Dr. Mani Swaminathan,92,12,80,5,2,14,33,24,Floor 4,Block A,1134123,1948723,Yes,58,Under Maintenance,4.4
+DEPT0336,Plastic Surgery,Madurai,Dr. Ramesh Srinivasan,85,25,60,4,2,14,30,23,Floor 2,Block Emergency Wing,509755,807167,Yes,80,Fully Operational,4.5
+DEPT0337,Radiology & Imaging,Tirunelveli,Dr. Karthik Murugesan,84,72,12,6,5,8,40,18,Floor 2,Block Specialty Tower,311549,423634,No,42,Fully Operational,4.3
+DEPT0338,Cardiology,Thanjavur,Dr. Ashok Subramanian,79,75,4,13,10,19,27,24,Floor 6,Block D,432371,717598,Yes,21,Fully Operational,4.9
+DEPT0339,Radiology & Imaging,Coimbatore,Dr. Arun Ganesan,149,143,6,16,5,22,26,27,Floor 3,Block Specialty Tower,920253,1268179,Yes,57,Fully Operational,4.2
+DEPT0340,Rheumatology,Tiruchirappalli,Dr. Ashok Balaji,98,78,20,14,4,9,37,28,Floor 5,Block A,598254,746850,Yes,35,Fully Operational,4.3
+DEPT0341,Urology,Salem,Dr. Vignesh Murugesan,127,44,83,17,8,18,24,19,Floor 6,Block D,794829,1210171,No,26,Fully Operational,4.3
+DEPT0342,Anaesthesiology,Chennai (Main),Dr. Murugan Balaji,43,22,21,5,3,8,32,12,Floor 3,Block B,321584,532154,Yes,60,Fully Operational,4
+DEPT0343,Gastroenterology,Vellore,Dr. Arun Venkatesh,50,45,5,13,6,24,22,11,Floor 5,Block B,1205675,1814155,No,30,Fully Operational,4.1
+DEPT0344,Plastic Surgery,Erode,Dr. Ramesh Sundaram,40,35,5,9,7,16,36,19,Floor 2,Block Specialty Tower,645744,1024449,Yes,60,Fully Operational,5
+DEPT0345,Pediatric Surgery,Salem,Dr. Ramesh Venkatesh,72,68,4,21,13,20,56,17,Floor 6,Block A,1126547,1593608,No,34,Fully Operational,4
+DEPT0346,Plastic Surgery,Erode,Dr. Ramesh Venkatesh,72,30,42,5,3,19,47,12,Floor 2,Block D,323548,501381,Yes,81,Fully Operational,4.4
+DEPT0347,Nephrology,Tirunelveli,Dr. Siva Kumar,50,11,39,7,2,19,27,15,Floor 1,Block D,458761,730136,Yes,28,Fully Operational,4.3
+DEPT0348,Pulmonology,Chennai (Main),Dr. Murugan Venkatesh,73,62,11,11,3,20,19,29,Floor 5,Block C,359164,468430,Yes,67,Fully Operational,4.1
+DEPT0349,Urology,Chennai (Adyar),Dr. Kannan Chandran,125,85,40,5,4,9,21,19,Floor 7,Block Specialty Tower,1304731,2232951,Yes,22,Fully Operational,4.9
+DEPT0350,Emergency & ICU,Vellore,Dr. Sundar Raman,54,51,3,10,9,7,29,23,Floor 4,Block Emergency Wing,458272,594069,Yes,70,Fully Operational,4.3
+DEPT0351,Pulmonology,Chennai (Main),Dr. Ramesh Venkatesh,116,32,84,19,5,12,30,28,Floor 2,Block A,406379,576039,Yes,18,Fully Operational,4.9
+DEPT0352,Vascular Surgery,Erode,Dr. Senthil Chandran,137,119,18,5,2,11,56,20,Floor 2,Block Specialty Tower,765994,1383941,Yes,42,Fully Operational,4.6
+DEPT0353,Pediatrics,Coimbatore,Dr. Ganesh Pandian,54,47,7,18,6,23,24,19,Floor 6,Block D,577342,923714,Yes,34,Fully Operational,4.2
+DEPT0354,Pediatrics,Coimbatore,Dr. Prabhu Rajesh,92,27,65,14,4,6,55,21,Floor 4,Block Emergency Wing,487646,712549,Yes,51,Inspection Due,4.2
+DEPT0355,Cardiology,Thanjavur,Dr. Karthik Balaji,135,99,36,20,17,7,56,29,Floor 7,Block B,951824,1320428,No,13,Fully Operational,4.4
+DEPT0356,Dermatology,Tirunelveli,Dr. Arun Kumar,127,113,14,18,16,19,54,23,Floor 3,Block C,1426103,2106089,Yes,66,Fully Operational,4.9
+DEPT0357,Neurology,Madurai,Dr. Senthil Krishnan,125,123,2,21,18,16,35,11,Floor 7,Block D,340633,588792,Yes,32,Inspection Due,4.5
+DEPT0358,Pathology & Lab,Chennai (Main),Dr. Mani Chandran,116,28,88,16,3,18,50,11,Floor 4,Block D,799730,1183711,Yes,53,Fully Operational,4.4
+DEPT0359,Cardiology,Tiruchirappalli,Dr. Ganesh Swaminathan,81,50,31,16,8,9,24,17,Floor 6,Block C,510047,604468,Yes,39,Fully Operational,4
+DEPT0360,Pediatrics,Thanjavur,Dr. Siva Rajesh,79,47,32,14,4,8,47,20,Floor 6,Block A,611741,888852,Yes,19,Fully Operational,4.9
+DEPT0361,Dermatology,Thanjavur,Dr. Ashok Venkatesh,149,125,24,23,7,9,35,25,Floor 7,Block Specialty Tower,1157692,1998815,Yes,12,Under Maintenance,4.4
+DEPT0362,ENT,Coimbatore,Dr. Kannan Krishnan,148,64,84,23,21,16,59,9,Floor 5,Block Specialty Tower,528300,735940,No,75,Inspection Due,4.7
+DEPT0363,Vascular Surgery,Thanjavur,Dr. Ganesh Pandian,59,18,41,20,16,6,50,26,Floor 1,Block Emergency Wing,1488597,2272721,Yes,45,Fully Operational,4.1
+DEPT0364,Endocrinology,Tiruchirappalli,Dr. Murugan Subramanian,127,38,89,12,5,23,38,21,Floor 5,Block B,1276809,2353413,Yes,26,Under Maintenance,4.8
+DEPT0365,Cardiothoracic Surgery,Chennai (Main),Dr. Karthik Chelliah,71,69,2,12,9,7,36,26,Floor 5,Block D,336160,430706,No,19,Fully Operational,4
+DEPT0366,Dermatology,Salem,Dr. Mani Swaminathan,85,41,44,21,8,21,43,25,Floor 4,Block Specialty Tower,498110,823181,Yes,27,Fully Operational,4.3
+DEPT0367,Oncology,Vellore,Dr. Sundar Venkatesh,90,44,46,21,6,18,42,11,Floor 7,Block D,1312671,1917034,Yes,31,Fully Operational,4.1
+DEPT0368,Gynecology & Obstetrics,Tirunelveli,Dr. Vijay Chelliah,127,98,29,4,2,16,56,12,Floor 4,Block B,1092955,2002766,Yes,83,Fully Operational,4.6
+DEPT0369,Ophthalmology,Madurai,Dr. Ramesh Srinivasan,80,43,37,9,3,10,59,26,Floor 6,Block B,1065710,1248210,No,41,Fully Operational,4.1
+DEPT0370,Nephrology,Coimbatore,Dr. Senthil Rajesh,115,102,13,19,18,11,27,9,Floor 4,Block B,1061062,1751553,Yes,78,Fully Operational,4
+DEPT0371,Emergency & ICU,Coimbatore,Dr. Suresh Subramanian,63,44,19,6,5,9,54,23,Floor 6,Block C,1128894,1509844,Yes,77,Fully Operational,4
+DEPT0372,Gynecology & Obstetrics,Chennai (Main),Dr. Vijay Venkatesh,138,90,48,12,3,17,16,27,Floor 4,Block C,394202,664771,Yes,64,Under Maintenance,4.8
+DEPT0373,Gastroenterology,Erode,Dr. Saravanan Subramanian,142,48,94,16,10,17,26,20,Floor 2,Block A,549717,850845,Yes,12,Fully Operational,4.5
+DEPT0374,Dermatology,Tiruchirappalli,Dr. Ganesh Murugesan,73,12,61,11,8,17,16,13,Floor 1,Block D,540056,640994,Yes,21,Fully Operational,4.9
+DEPT0375,Urology,Salem,Dr. Sundar Krishnan,77,11,66,23,16,21,43,15,Floor 5,Block A,870993,1323992,Yes,47,Fully Operational,4.9
+DEPT0376,Anaesthesiology,Thanjavur,Dr. Dinesh Murugesan,87,53,34,21,2,20,52,10,Floor 2,Block D,1461729,2221437,Yes,68,Inspection Due,4.4
+DEPT0377,Dermatology,Madurai,Dr. Kannan Pandian,65,16,49,13,6,10,19,9,Floor 5,Block B,1003023,1232466,Yes,63,Fully Operational,4.3
+DEPT0378,Neurology,Coimbatore,Dr. Siva Pandian,136,111,25,14,12,5,35,14,Floor 7,Block Specialty Tower,368653,429536,Yes,74,Fully Operational,4.5
+DEPT0379,Dermatology,Chennai (Main),Dr. Prakash Krishnan,123,76,47,22,3,22,58,17,Floor 5,Block A,888033,1309436,No,40,Fully Operational,4.3
+DEPT0380,Vascular Surgery,Tiruchirappalli,Dr. Anand Chelliah,109,58,51,6,3,9,40,28,Floor 5,Block B,629963,749634,Yes,24,Fully Operational,4
+DEPT0381,Pediatrics,Coimbatore,Dr. Siva Chelliah,134,22,112,19,12,6,41,13,Floor 2,Block B,328477,474619,No,20,Fully Operational,4.4
+DEPT0382,Dermatology,Salem,Dr. Vignesh Natarajan,102,94,8,23,9,18,45,25,Floor 1,Block Emergency Wing,685007,1067085,Yes,19,Fully Operational,4.2
+DEPT0383,Plastic Surgery,Salem,Dr. Saravanan Krishnan,110,32,78,12,9,20,52,23,Floor 6,Block Specialty Tower,1467732,2023587,Yes,38,Fully Operational,4.6
+DEPT0384,ENT,Tirunelveli,Dr. Saravanan Murugesan,46,45,1,12,11,18,16,16,Floor 5,Block C,1430070,2273586,Yes,63,Fully Operational,4.6
+DEPT0385,Gynecology & Obstetrics,Tiruchirappalli,Dr. Arun Murugesan,121,96,25,5,3,9,34,14,Floor 4,Block A,836512,1145949,No,12,Fully Operational,4.2
+DEPT0386,Vascular Surgery,Thanjavur,Dr. Kannan Kumar,63,19,44,6,5,8,30,15,Floor 3,Block A,544942,686481,Yes,20,Under Maintenance,4.5
+DEPT0387,Neurology,Tiruchirappalli,Dr. Senthil Rajesh,49,20,29,21,3,11,55,17,Floor 2,Block C,1377506,1833836,No,42,Fully Operational,4.7
+DEPT0388,Oncology,Tirunelveli,Dr. Vijay Subramanian,75,41,34,16,2,7,44,29,Floor 4,Block A,1022648,1544555,Yes,78,Fully Operational,4.1
+DEPT0389,Urology,Madurai,Dr. Saravanan Chandran,139,77,62,7,5,22,30,16,Floor 2,Block Specialty Tower,477763,777735,Yes,48,Fully Operational,4.2
+DEPT0390,Ophthalmology,Coimbatore,Dr. Prabhu Chelliah,117,58,59,8,3,24,28,8,Floor 3,Block B,966470,1200611,No,11,Fully Operational,4.8
+DEPT0391,Pediatrics,Chennai (Adyar),Dr. Ashok Subramanian,51,38,13,10,7,16,49,12,Floor 1,Block B,907337,1328787,No,78,Under Maintenance,4.7
+DEPT0392,General Medicine,Madurai,Dr. Vijay Raman,48,38,10,21,15,19,20,17,Floor 5,Block Emergency Wing,1330403,2113647,Yes,53,Under Maintenance,4.9
+DEPT0393,Orthopedics,Coimbatore,Dr. Mani Srinivasan,145,73,72,9,6,14,32,27,Floor 2,Block A,323525,389445,Yes,61,Inspection Due,4.5
+DEPT0394,Gastroenterology,Tiruchirappalli,Dr. Saravanan Chelliah,84,18,66,13,2,7,44,25,Floor 4,Block Emergency Wing,462434,597755,Yes,18,Fully Operational,5
+DEPT0395,Radiology & Imaging,Madurai,Dr. Aravind Rajesh,142,53,89,6,4,13,16,29,Floor 1,Block D,1420831,2357491,No,78,Fully Operational,4.7
+DEPT0396,Pediatric Surgery,Vellore,Dr. Arun Chandran,69,16,53,9,7,7,27,10,Floor 2,Block A,896093,1569285,Yes,69,Fully Operational,4.9
+DEPT0397,Ophthalmology,Madurai,Dr. Arun Pandian,142,107,35,21,5,12,58,29,Floor 5,Block C,647761,901479,Yes,39,Fully Operational,4.2
+DEPT0398,Oncology,Coimbatore,Dr. Siva Venkatesh,64,28,36,8,4,19,22,26,Floor 7,Block C,1055737,1535785,Yes,59,Fully Operational,4.4
+DEPT0399,Oncology,Chennai (Main),Dr. Aravind Chandran,122,106,16,18,17,11,40,19,Floor 5,Block B,732859,878342,Yes,14,Fully Operational,4.9
+DEPT0400,General Medicine,Tirunelveli,Dr. Karthik Pandian,57,39,18,19,14,11,47,23,Floor 1,Block A,1382736,2431225,No,27,Fully Operational,4.5
+DEPT0401,Nephrology,Chennai (Main),Dr. Suresh Srinivasan,61,15,46,10,5,7,28,29,Floor 3,Block B,1365560,2165870,Yes,64,Fully Operational,4.2
+DEPT0402,Cardiology,Vellore,Dr. Kannan Raman,90,67,23,5,4,10,17,17,Floor 3,Block Specialty Tower,1364367,2171774,Yes,82,Fully Operational,4.6
+DEPT0403,Urology,Vellore,Dr. Vijay Chandran,40,36,4,21,13,17,55,9,Floor 5,Block Emergency Wing,987823,1819184,Yes,20,Fully Operational,4.2
+DEPT0404,Orthopedics,Salem,Dr. Dinesh Ganesan,134,51,83,12,11,21,46,26,Floor 2,Block B,621701,1088410,Yes,38,Fully Operational,4.8
+DEPT0405,Endocrinology,Chennai (Main),Dr. Senthil Krishnan,129,27,102,12,7,5,35,17,Floor 3,Block Specialty Tower,1212374,2049257,Yes,54,Fully Operational,4.7
+DEPT0406,Plastic Surgery,Coimbatore,Dr. Murugan Balaji,115,75,40,17,7,9,23,28,Floor 3,Block Emergency Wing,538178,832674,Yes,40,Fully Operational,4.6
+DEPT0407,Pediatrics,Coimbatore,Dr. Prakash Balaji,41,17,24,12,4,6,53,12,Floor 5,Block B,719204,1307024,No,29,Fully Operational,4.1
+DEPT0408,Psychiatry,Vellore,Dr. Arun Sundaram,71,35,36,9,2,7,47,8,Floor 3,Block Emergency Wing,921458,1455149,Yes,44,Fully Operational,4.1
+DEPT0409,Vascular Surgery,Tirunelveli,Dr. Kannan Sundaram,86,63,23,6,5,24,45,12,Floor 6,Block A,928935,1406981,Yes,25,Fully Operational,4.4
+DEPT0410,Emergency & ICU,Thanjavur,Dr. Ramesh Sundaram,85,56,29,15,10,12,37,25,Floor 5,Block D,773594,1378550,Yes,72,Fully Operational,4.3
+DEPT0411,Nephrology,Erode,Dr. Mani Kumar,57,16,41,7,3,9,30,10,Floor 2,Block B,911868,1533039,Yes,58,Fully Operational,4.2
+DEPT0412,Cardiothoracic Surgery,Vellore,Dr. Prakash Kumar,97,23,74,23,20,11,27,25,Floor 7,Block Specialty Tower,752333,894375,Yes,82,Fully Operational,4.5
+DEPT0413,Ophthalmology,Coimbatore,Dr. Suresh Natarajan,140,43,97,23,5,14,24,28,Floor 3,Block C,764271,969249,Yes,16,Fully Operational,4.5
+DEPT0414,ENT,Coimbatore,Dr. Anand Chandran,89,52,37,7,2,13,20,27,Floor 1,Block B,960284,1264014,Yes,64,Fully Operational,4.2
+DEPT0415,Cardiology,Thanjavur,Dr. Sundar Murugesan,93,80,13,17,16,14,46,24,Floor 6,Block D,434585,559391,No,34,Fully Operational,4
+DEPT0416,Radiology & Imaging,Chennai (Adyar),Dr. Saravanan Murugesan,48,44,4,11,5,14,36,26,Floor 6,Block Emergency Wing,1204027,1387933,No,40,Under Maintenance,4.6
+DEPT0417,Cardiothoracic Surgery,Coimbatore,Dr. Murugan Chelliah,70,52,18,8,6,19,43,25,Floor 3,Block B,303435,352779,Yes,13,Fully Operational,4.1
+DEPT0418,Anaesthesiology,Erode,Dr. Arun Pandian,47,38,9,14,6,22,28,29,Floor 2,Block C,640362,996300,Yes,62,Fully Operational,4.5
+DEPT0419,Urology,Tirunelveli,Dr. Ganesh Pandian,54,28,26,19,13,22,37,20,Floor 5,Block D,949179,1416427,Yes,44,Fully Operational,4.1
+DEPT0420,General Medicine,Erode,Dr. Aravind Kumar,120,52,68,5,3,18,17,19,Floor 4,Block D,793377,1089443,Yes,16,Fully Operational,4.4
+DEPT0421,Ophthalmology,Salem,Dr. Aravind Venkatesh,45,36,9,21,6,10,48,15,Floor 7,Block C,303285,381864,Yes,53,Fully Operational,5
+DEPT0422,ENT,Tirunelveli,Dr. Arun Pandian,125,115,10,6,5,14,42,25,Floor 6,Block B,922215,1381073,Yes,81,Fully Operational,4.9
+DEPT0423,General Medicine,Chennai (Main),Dr. Arun Srinivasan,111,72,39,18,11,9,48,14,Floor 7,Block D,397469,562616,Yes,62,Fully Operational,5
+DEPT0424,Psychiatry,Vellore,Dr. Ramesh Krishnan,67,14,53,6,5,19,56,27,Floor 3,Block D,505671,888350,No,70,Fully Operational,4.2
+DEPT0425,Anaesthesiology,Thanjavur,Dr. Prabhu Swaminathan,121,50,71,19,14,14,39,27,Floor 6,Block D,1150712,1696916,Yes,36,Fully Operational,4.4
+DEPT0426,Anaesthesiology,Coimbatore,Dr. Dinesh Srinivasan,72,57,15,13,4,7,51,16,Floor 2,Block C,1141135,1712402,No,49,Under Maintenance,4.9
+DEPT0427,Cardiology,Vellore,Dr. Dinesh Raman,132,106,26,13,3,16,22,12,Floor 6,Block D,809163,1237082,No,36,Fully Operational,4.4
+DEPT0428,ENT,Tiruchirappalli,Dr. Anand Srinivasan,47,43,4,12,9,7,21,22,Floor 5,Block Specialty Tower,711377,1256914,Yes,64,Fully Operational,4.4
+DEPT0429,Vascular Surgery,Erode,Dr. Ramesh Pandian,74,58,16,17,7,12,51,15,Floor 2,Block D,507580,682322,No,30,Fully Operational,4.1
+DEPT0430,Gynecology & Obstetrics,Erode,Dr. Aravind Sundaram,52,10,42,23,16,18,22,17,Floor 1,Block A,335010,545335,No,58,Fully Operational,4.7
+DEPT0431,Vascular Surgery,Madurai,Dr. Ramesh Chandran,129,87,42,10,9,12,15,29,Floor 4,Block Emergency Wing,931581,1504850,Yes,61,Fully Operational,4.8
+DEPT0432,Neurology,Madurai,Dr. Ashok Balaji,61,38,23,14,9,5,43,14,Floor 4,Block C,327197,598081,Yes,64,Fully Operational,4.8
+DEPT0433,Gastroenterology,Chennai (Main),Dr. Arun Rajesh,70,38,32,21,16,12,29,8,Floor 4,Block B,1232196,1708880,No,23,Fully Operational,4
+DEPT0434,Rheumatology,Tiruchirappalli,Dr. Ashok Murugesan,146,63,83,8,6,15,39,26,Floor 3,Block Specialty Tower,534975,823902,Yes,46,Under Maintenance,4.4
+DEPT0435,ENT,Chennai (Main),Dr. Siva Pandian,72,55,17,20,11,16,41,23,Floor 7,Block D,371017,541039,Yes,29,Inspection Due,4.7
+DEPT0436,Pediatric Surgery,Erode,Dr. Vignesh Krishnan,77,62,15,12,5,16,26,24,Floor 7,Block A,1072783,1523230,No,27,Fully Operational,4.3
+DEPT0437,Gastroenterology,Madurai,Dr. Senthil Raman,141,71,70,8,3,20,22,27,Floor 6,Block C,1119593,1978482,Yes,79,Fully Operational,4.6
+DEPT0438,Oncology,Thanjavur,Dr. Ashok Krishnan,85,31,54,11,5,23,28,14,Floor 5,Block B,577834,916250,Yes,63,Fully Operational,4
+DEPT0439,Ophthalmology,Salem,Dr. Sundar Venkatesh,46,34,12,6,4,10,34,9,Floor 1,Block D,1107039,1804765,No,19,Fully Operational,4.7
+DEPT0440,Emergency & ICU,Chennai (Main),Dr. Vijay Chelliah,126,41,85,13,12,10,20,16,Floor 6,Block B,480580,761914,Yes,49,Fully Operational,4.5
+DEPT0441,Anaesthesiology,Coimbatore,Dr. Dinesh Krishnan,55,17,38,19,17,15,53,24,Floor 1,Block D,721001,1185462,Yes,58,Inspection Due,4.1
+DEPT0442,Pediatric Surgery,Tirunelveli,Dr. Ramesh Chelliah,145,102,43,10,2,11,38,18,Floor 1,Block D,1143810,1962020,No,66,Fully Operational,4.3
+DEPT0443,Pediatrics,Tirunelveli,Dr. Ashok Kumar,51,43,8,10,4,17,45,9,Floor 7,Block A,637766,1013486,Yes,25,Fully Operational,4.9
+DEPT0444,Rheumatology,Coimbatore,Dr. Ramesh Krishnan,47,22,25,8,3,13,25,13,Floor 5,Block B,1231398,2213686,No,38,Fully Operational,4.7
+DEPT0445,Neurology,Thanjavur,Dr. Suresh Kumar,96,46,50,10,2,5,15,26,Floor 6,Block B,1037371,1737793,Yes,74,Fully Operational,4.8
+DEPT0446,Radiology & Imaging,Chennai (Main),Dr. Sundar Rajesh,75,35,40,24,18,6,36,12,Floor 4,Block D,1312211,1616227,Yes,35,Fully Operational,4
+DEPT0447,Radiology & Imaging,Erode,Dr. Vijay Kumar,60,55,5,19,15,20,34,15,Floor 3,Block A,310514,561823,Yes,83,Fully Operational,4.4
+DEPT0448,Emergency & ICU,Chennai (Main),Dr. Saravanan Murugesan,116,36,80,17,9,7,44,10,Floor 7,Block Specialty Tower,493691,833535,No,49,Fully Operational,4.6
+DEPT0449,Plastic Surgery,Vellore,Dr. Arun Murugesan,113,79,34,7,5,15,37,20,Floor 5,Block Specialty Tower,947601,1572966,Yes,81,Fully Operational,4.1
+DEPT0450,Gynecology & Obstetrics,Salem,Dr. Senthil Murugesan,104,69,35,17,5,16,52,18,Floor 4,Block B,860113,1410301,Yes,61,Fully Operational,4.9
+DEPT0451,Oncology,Thanjavur,Dr. Prabhu Swaminathan,70,64,6,12,11,6,52,22,Floor 3,Block C,1082533,1922928,Yes,24,Fully Operational,4.7
+DEPT0452,Gynecology & Obstetrics,Vellore,Dr. Mani Raman,110,24,86,21,19,24,55,9,Floor 4,Block B,1062922,1409258,Yes,51,Fully Operational,4.6
+DEPT0453,Pediatric Surgery,Chennai (Main),Dr. Aravind Raman,124,29,95,24,5,16,36,27,Floor 2,Block A,665837,1172750,Yes,69,Fully Operational,4.9
+DEPT0454,Pediatric Surgery,Erode,Dr. Arun Swaminathan,77,74,3,20,12,23,49,18,Floor 5,Block Emergency Wing,1484592,1724037,Yes,37,Fully Operational,4.2
+DEPT0455,Nephrology,Thanjavur,Dr. Sundar Ganesan,86,51,35,13,11,23,15,17,Floor 2,Block A,333734,472323,Yes,43,Under Maintenance,4.8
+DEPT0456,Plastic Surgery,Tiruchirappalli,Dr. Aravind Subramanian,79,54,25,7,2,13,36,25,Floor 4,Block B,709898,822632,Yes,57,Fully Operational,4.2
+DEPT0457,Pediatrics,Chennai (Main),Dr. Aravind Chandran,142,134,8,20,9,5,16,22,Floor 4,Block D,1464650,2641377,Yes,13,Fully Operational,4.7
+DEPT0458,Emergency & ICU,Chennai (Adyar),Dr. Arun Swaminathan,72,67,5,22,10,7,53,17,Floor 1,Block B,465486,858813,Yes,31,Fully Operational,4.6
+DEPT0459,Pediatric Surgery,Tirunelveli,Dr. Murugan Sundaram,130,114,16,9,8,6,23,24,Floor 1,Block C,1433243,1812829,Yes,50,Fully Operational,4.6
+DEPT0460,Neurology,Madurai,Dr. Dinesh Venkatesh,65,45,20,19,5,20,36,19,Floor 3,Block Specialty Tower,1216094,2240648,Yes,10,Fully Operational,4.5
+DEPT0461,Neurology,Madurai,Dr. Ganesh Balaji,144,43,101,17,2,6,53,17,Floor 6,Block D,477216,584391,Yes,24,Fully Operational,5
+DEPT0462,Pulmonology,Chennai (Main),Dr. Anand Raman,52,23,29,14,13,14,46,10,Floor 5,Block C,1301040,2169656,Yes,30,Fully Operational,4.2
+DEPT0463,Gynecology & Obstetrics,Chennai (Main),Dr. Prakash Subramanian,87,82,5,5,2,5,18,11,Floor 6,Block B,849656,1332540,No,83,Inspection Due,4.8
+DEPT0464,Vascular Surgery,Salem,Dr. Mani Raman,133,75,58,13,2,12,27,22,Floor 5,Block D,576999,1041258,Yes,28,Fully Operational,4.6
+DEPT0465,Rheumatology,Madurai,Dr. Siva Chandran,121,66,55,21,11,6,40,16,Floor 6,Block C,508542,733012,Yes,70,Fully Operational,4.9
+DEPT0466,Pathology & Lab,Tirunelveli,Dr. Anand Natarajan,90,79,11,14,10,12,25,14,Floor 2,Block Specialty Tower,1466680,2669998,Yes,50,Fully Operational,4.7
+DEPT0467,Endocrinology,Chennai (Adyar),Dr. Arun Swaminathan,112,37,75,16,4,13,27,28,Floor 6,Block B,1353498,1968357,Yes,63,Fully Operational,4.3
+DEPT0468,Oncology,Chennai (Main),Dr. Prabhu Murugesan,94,13,81,6,3,14,25,21,Floor 6,Block D,1101680,1382145,Yes,50,Inspection Due,4.9
+DEPT0469,Pathology & Lab,Chennai (Adyar),Dr. Anand Krishnan,70,67,3,11,3,23,22,15,Floor 7,Block C,874699,1037955,Yes,26,Under Maintenance,4.4
+DEPT0470,Rheumatology,Tiruchirappalli,Dr. Prakash Subramanian,74,62,12,18,15,15,22,11,Floor 3,Block D,787335,959927,No,57,Fully Operational,4.2
+DEPT0471,Plastic Surgery,Madurai,Dr. Prakash Rajesh,112,13,99,15,10,17,40,13,Floor 2,Block Emergency Wing,1302297,1615015,No,67,Fully Operational,4.4
+DEPT0472,Vascular Surgery,Thanjavur,Dr. Prabhu Kumar,53,29,24,18,17,5,31,20,Floor 6,Block C,1253646,1459350,No,52,Fully Operational,4
+DEPT0473,Gastroenterology,Madurai,Dr. Ashok Srinivasan,119,68,51,24,18,15,47,19,Floor 7,Block B,1456813,2596012,No,80,Fully Operational,4.1
+DEPT0474,Gynecology & Obstetrics,Erode,Dr. Murugan Pandian,68,40,28,23,20,6,36,27,Floor 1,Block A,379944,661016,Yes,64,Fully Operational,4.8
+DEPT0475,Vascular Surgery,Madurai,Dr. Dinesh Kumar,61,12,49,9,7,18,50,25,Floor 7,Block A,554289,991126,Yes,74,Fully Operational,4.2
+DEPT0476,Ophthalmology,Tiruchirappalli,Dr. Ramesh Natarajan,96,24,72,6,4,9,26,27,Floor 5,Block C,1338457,1695470,Yes,32,Fully Operational,4.9
+DEPT0477,Oncology,Coimbatore,Dr. Siva Kumar,77,74,3,21,20,13,27,15,Floor 7,Block Emergency Wing,860846,1014118,No,42,Fully Operational,4
+DEPT0478,Oncology,Thanjavur,Dr. Vijay Subramanian,144,118,26,15,12,16,32,19,Floor 5,Block D,1485560,2234343,Yes,59,Inspection Due,4.4
+DEPT0479,Plastic Surgery,Chennai (Main),Dr. Sundar Kumar,120,34,86,11,6,9,55,10,Floor 3,Block A,1222229,1802159,No,11,Fully Operational,4.9
+DEPT0480,Endocrinology,Thanjavur,Dr. Dinesh Ganesan,119,23,96,18,8,19,33,15,Floor 2,Block B,547066,983157,Yes,81,Fully Operational,4.6
+DEPT0481,Rheumatology,Thanjavur,Dr. Karthik Subramanian,102,99,3,20,8,24,29,20,Floor 4,Block B,956763,1122343,Yes,20,Fully Operational,4.3
+DEPT0482,Oncology,Vellore,Dr. Siva Swaminathan,67,10,57,20,13,14,51,25,Floor 7,Block Specialty Tower,468678,830883,Yes,62,Inspection Due,5
+DEPT0483,Vascular Surgery,Madurai,Dr. Dinesh Chelliah,46,19,27,13,8,9,17,25,Floor 3,Block Emergency Wing,420627,715643,Yes,18,Fully Operational,4.7
+DEPT0484,Cardiothoracic Surgery,Erode,Dr. Murugan Krishnan,63,60,3,4,3,21,57,25,Floor 7,Block B,617798,1040850,Yes,66,Fully Operational,5
+DEPT0485,Oncology,Thanjavur,Dr. Senthil Natarajan,136,30,106,23,3,7,29,13,Floor 6,Block Emergency Wing,890176,1214500,Yes,37,Inspection Due,4.9
+DEPT0486,Pathology & Lab,Coimbatore,Dr. Prakash Srinivasan,54,15,39,23,10,9,34,9,Floor 6,Block B,535132,877359,Yes,62,Under Maintenance,4.5
+DEPT0487,Pediatric Surgery,Coimbatore,Dr. Aravind Chandran,130,92,38,16,13,18,32,19,Floor 4,Block B,1272048,2336769,Yes,77,Fully Operational,4.9
+DEPT0488,Pathology & Lab,Chennai (Adyar),Dr. Anand Krishnan,65,17,48,6,4,22,15,23,Floor 7,Block C,1401302,1869512,Yes,24,Inspection Due,4.9
+DEPT0489,Pediatric Surgery,Thanjavur,Dr. Ramesh Murugesan,141,87,54,20,10,23,44,12,Floor 7,Block C,1284825,2326159,No,32,Fully Operational,4.5
+DEPT0490,Gynecology & Obstetrics,Vellore,Dr. Vijay Pandian,114,78,36,20,8,19,29,21,Floor 5,Block C,1288539,1754466,No,33,Under Maintenance,4.5
+DEPT0491,Ophthalmology,Erode,Dr. Mani Pandian,119,42,77,10,5,14,23,10,Floor 6,Block Specialty Tower,1427640,2075551,No,73,Fully Operational,4.6
+DEPT0492,Pediatric Surgery,Tiruchirappalli,Dr. Suresh Srinivasan,130,48,82,18,11,5,18,8,Floor 3,Block B,1194829,2130101,Yes,71,Fully Operational,5
+DEPT0493,Pulmonology,Tiruchirappalli,Dr. Kannan Sundaram,50,20,30,9,2,10,27,29,Floor 7,Block Specialty Tower,575236,738627,Yes,56,Under Maintenance,4.1
+DEPT0494,Cardiology,Tirunelveli,Dr. Ganesh Swaminathan,113,90,23,24,14,5,15,22,Floor 1,Block Specialty Tower,998392,1185594,Yes,42,Fully Operational,4.8
+DEPT0495,Endocrinology,Chennai (Main),Dr. Ashok Venkatesh,88,56,32,4,3,9,38,13,Floor 1,Block A,753400,1205397,Yes,12,Fully Operational,4.5
+DEPT0496,Psychiatry,Chennai (Adyar),Dr. Prabhu Venkatesh,56,55,1,7,6,21,26,27,Floor 2,Block C,444938,604359,No,59,Fully Operational,4.4
+DEPT0497,General Medicine,Tirunelveli,Dr. Siva Krishnan,63,25,38,5,2,13,36,19,Floor 1,Block Specialty Tower,1286684,1666887,No,83,Fully Operational,4.2
+DEPT0498,Gastroenterology,Vellore,Dr. Kannan Natarajan,92,70,22,17,6,14,30,14,Floor 4,Block C,1290003,2074279,Yes,45,Under Maintenance,4.3
+DEPT0499,Ophthalmology,Coimbatore,Dr. Prabhu Krishnan,61,52,9,19,6,18,49,11,Floor 5,Block B,1204931,1958195,Yes,35,Fully Operational,4.9
+DEPT0500,Pediatric Surgery,Chennai (Main),Dr. Murugan Subramanian,82,46,36,5,2,12,52,28,Floor 5,Block A,421292,636264,Yes,11,Fully Operational,4.3
+DEPT0501,Nephrology,Vellore,Dr. Anand Balaji,127,76,51,23,14,23,21,16,Floor 3,Block Emergency Wing,783157,1441768,Yes,59,Fully Operational,4.3
+DEPT0502,Radiology & Imaging,Chennai (Main),Dr. Ramesh Swaminathan,70,57,13,17,16,18,42,28,Floor 3,Block C,994096,1766035,Yes,58,Fully Operational,4.6
+DEPT0503,Gastroenterology,Tirunelveli,Dr. Saravanan Pandian,139,68,71,7,4,21,53,11,Floor 7,Block Emergency Wing,1335211,2017896,Yes,61,Fully Operational,4.3
+DEPT0504,Ophthalmology,Thanjavur,Dr. Vignesh Chelliah,108,77,31,24,21,23,18,22,Floor 1,Block D,564130,670511,No,32,Fully Operational,4.5
+DEPT0505,Rheumatology,Thanjavur,Dr. Murugan Kumar,42,12,30,8,4,5,50,11,Floor 1,Block Specialty Tower,1125329,1802022,Yes,12,Under Maintenance,4.8
+DEPT0506,Neurology,Tiruchirappalli,Dr. Saravanan Pandian,134,94,40,12,11,7,52,18,Floor 1,Block Emergency Wing,1137366,1791844,Yes,70,Fully Operational,5
+DEPT0507,Vascular Surgery,Chennai (Main),Dr. Sundar Ganesan,55,42,13,16,7,21,26,26,Floor 6,Block A,442108,612457,Yes,40,Fully Operational,4.4
+DEPT0508,Emergency & ICU,Madurai,Dr. Ganesh Venkatesh,113,50,63,16,4,22,48,24,Floor 4,Block C,1283638,2119950,Yes,78,Inspection Due,4.9
+DEPT0509,Dermatology,Erode,Dr. Kannan Rajesh,62,39,23,21,8,5,19,24,Floor 4,Block Emergency Wing,620974,950099,No,42,Fully Operational,4.8
+DEPT0510,General Medicine,Madurai,Dr. Ramesh Krishnan,129,42,87,4,3,24,30,28,Floor 5,Block B,698422,1041917,Yes,51,Fully Operational,4.8
+DEPT0511,Orthopedics,Coimbatore,Dr. Prabhu Murugesan,90,25,65,21,15,7,48,8,Floor 2,Block A,1415009,1884246,Yes,28,Under Maintenance,4.1
+DEPT0512,General Medicine,Tiruchirappalli,Dr. Ramesh Swaminathan,123,81,42,13,6,13,39,8,Floor 2,Block C,711373,1026180,Yes,79,Fully Operational,4.2
+DEPT0513,Neurology,Madurai,Dr. Senthil Balaji,90,35,55,7,2,9,59,8,Floor 3,Block Emergency Wing,877539,1333867,No,46,Fully Operational,4.7
+DEPT0514,Cardiothoracic Surgery,Erode,Dr. Vignesh Swaminathan,96,47,49,5,4,24,34,21,Floor 1,Block B,1106479,1278921,Yes,52,Inspection Due,4.7
+DEPT0515,Pulmonology,Coimbatore,Dr. Prabhu Sundaram,112,36,76,20,13,17,22,23,Floor 2,Block Emergency Wing,369835,475020,No,68,Under Maintenance,5
+DEPT0516,General Medicine,Coimbatore,Dr. Vignesh Natarajan,64,14,50,11,4,22,45,8,Floor 7,Block B,666590,1058116,Yes,16,Fully Operational,4.3
+DEPT0517,Pulmonology,Vellore,Dr. Suresh Krishnan,55,38,17,19,13,21,51,20,Floor 5,Block D,339080,563097,Yes,59,Fully Operational,4.1
+DEPT0518,Psychiatry,Chennai (Adyar),Dr. Ramesh Pandian,139,26,113,5,3,7,19,21,Floor 3,Block Specialty Tower,453329,719124,Yes,63,Under Maintenance,5
+DEPT0519,Oncology,Chennai (Adyar),Dr. Saravanan Rajesh,125,90,35,7,2,13,16,25,Floor 5,Block C,314677,487276,No,74,Fully Operational,4.7
+DEPT0520,Emergency & ICU,Vellore,Dr. Ramesh Balaji,127,78,49,8,2,13,20,26,Floor 5,Block B,834820,1160094,No,56,Under Maintenance,4.5
+DEPT0521,Pediatric Surgery,Madurai,Dr. Ganesh Chelliah,136,38,98,8,6,5,37,15,Floor 3,Block C,688550,1071206,Yes,76,Fully Operational,4.8
+DEPT0522,Urology,Chennai (Main),Dr. Suresh Venkatesh,104,38,66,13,10,23,17,11,Floor 3,Block A,347850,500939,Yes,45,Fully Operational,4.7
+DEPT0523,Pediatrics,Tiruchirappalli,Dr. Sundar Pandian,126,23,103,11,5,11,33,22,Floor 6,Block D,416189,635173,No,62,Fully Operational,4.4
+DEPT0524,Radiology & Imaging,Salem,Dr. Ganesh Swaminathan,134,46,88,9,3,6,59,20,Floor 3,Block B,968795,1745364,Yes,31,Fully Operational,4.9
+DEPT0525,Gynecology & Obstetrics,Tirunelveli,Dr. Prakash Kumar,94,60,34,14,13,12,36,11,Floor 3,Block A,650041,902971,No,68,Fully Operational,4.6
+DEPT0526,Pediatric Surgery,Tiruchirappalli,Dr. Aravind Swaminathan,89,50,39,5,2,24,58,9,Floor 2,Block A,1185155,1494241,Yes,47,Fully Operational,4.7
+DEPT0527,Vascular Surgery,Vellore,Dr. Mani Krishnan,121,89,32,18,17,12,27,18,Floor 4,Block Emergency Wing,1346072,2473818,Yes,31,Fully Operational,4.1
+DEPT0528,Pathology & Lab,Tirunelveli,Dr. Karthik Rajesh,87,14,73,6,4,14,33,12,Floor 7,Block Specialty Tower,952428,1717083,Yes,34,Fully Operational,4.3
+DEPT0529,Dermatology,Tirunelveli,Dr. Aravind Srinivasan,125,22,103,24,2,23,47,11,Floor 2,Block C,645395,834101,Yes,79,Fully Operational,4.2
+DEPT0530,General Medicine,Erode,Dr. Saravanan Sundaram,145,86,59,18,13,9,51,25,Floor 4,Block C,1050310,1249407,Yes,65,Fully Operational,4.6
+DEPT0531,Cardiology,Chennai (Main),Dr. Ramesh Rajesh,146,116,30,21,18,6,53,14,Floor 2,Block Specialty Tower,1366978,2391816,No,70,Fully Operational,4.4
+DEPT0532,Pulmonology,Madurai,Dr. Mani Chelliah,43,10,33,6,2,21,28,16,Floor 6,Block C,534745,888208,Yes,65,Under Maintenance,4.6
+DEPT0533,Anaesthesiology,Salem,Dr. Ashok Raman,46,45,1,12,11,13,21,22,Floor 4,Block C,508106,632423,Yes,64,Fully Operational,4.1
+DEPT0534,Urology,Tirunelveli,Dr. Ashok Murugesan,95,53,42,9,5,16,24,25,Floor 2,Block D,947302,1487068,No,16,Inspection Due,4.9
+DEPT0535,Cardiology,Chennai (Adyar),Dr. Ashok Subramanian,61,13,48,23,7,10,40,18,Floor 2,Block A,825403,1275195,Yes,44,Fully Operational,4.4
+DEPT0536,Pathology & Lab,Tiruchirappalli,Dr. Ashok Srinivasan,144,125,19,16,7,7,42,14,Floor 5,Block Specialty Tower,1245032,1779619,Yes,44,Fully Operational,4.2
+DEPT0537,Cardiothoracic Surgery,Tirunelveli,Dr. Kannan Chelliah,83,74,9,22,17,19,30,18,Floor 6,Block C,661998,784143,Yes,82,Fully Operational,4.1
+DEPT0538,Urology,Madurai,Dr. Suresh Kumar,110,21,89,23,20,21,50,10,Floor 1,Block B,1202810,1912444,Yes,23,Fully Operational,4.3
+DEPT0539,Pediatric Surgery,Salem,Dr. Karthik Balaji,58,22,36,9,8,20,38,23,Floor 2,Block Specialty Tower,566152,716037,Yes,54,Fully Operational,4.7
+DEPT0540,Cardiothoracic Surgery,Coimbatore,Dr. Arun Subramanian,58,16,42,18,16,10,17,13,Floor 7,Block B,500798,867433,Yes,71,Under Maintenance,4.3
+DEPT0541,Plastic Surgery,Tirunelveli,Dr. Vijay Swaminathan,132,53,79,8,6,23,40,12,Floor 3,Block Specialty Tower,371325,431943,Yes,16,Fully Operational,4.9
+DEPT0542,Rheumatology,Vellore,Dr. Ganesh Rajesh,118,63,55,8,6,7,41,15,Floor 4,Block B,1421470,2469491,Yes,17,Under Maintenance,4.7
+DEPT0543,Vascular Surgery,Tiruchirappalli,Dr. Murugan Pandian,41,27,14,12,3,6,17,23,Floor 3,Block D,1306840,2148072,Yes,20,Fully Operational,4.9
+DEPT0544,Endocrinology,Tirunelveli,Dr. Siva Swaminathan,59,54,5,5,4,6,28,11,Floor 1,Block Emergency Wing,499330,756728,Yes,81,Fully Operational,4.6
+DEPT0545,Nephrology,Tiruchirappalli,Dr. Ganesh Murugesan,62,12,50,23,11,13,48,12,Floor 4,Block Emergency Wing,1117276,1695025,No,72,Under Maintenance,4.8
+DEPT0546,Pediatric Surgery,Salem,Dr. Ganesh Pandian,51,16,35,20,2,22,40,22,Floor 3,Block D,1016861,1742955,Yes,74,Under Maintenance,4.1
+DEPT0547,Endocrinology,Coimbatore,Dr. Murugan Chelliah,116,101,15,4,2,10,22,11,Floor 5,Block A,877621,1348271,Yes,61,Fully Operational,4.4
+DEPT0548,Rheumatology,Tiruchirappalli,Dr. Prabhu Raman,98,16,82,20,17,21,34,9,Floor 3,Block B,747392,1242842,Yes,50,Fully Operational,4.6
+DEPT0549,Pathology & Lab,Thanjavur,Dr. Dinesh Murugesan,132,66,66,20,10,22,50,16,Floor 4,Block C,1360726,2259859,Yes,77,Fully Operational,4.4
+DEPT0550,Plastic Surgery,Salem,Dr. Prakash Venkatesh,132,12,120,23,11,5,57,19,Floor 6,Block A,524839,954198,No,19,Fully Operational,4.5
+DEPT0551,Cardiology,Thanjavur,Dr. Mani Srinivasan,55,52,3,13,2,18,36,11,Floor 3,Block B,926854,1268800,No,63,Fully Operational,4.3
+DEPT0552,Rheumatology,Tiruchirappalli,Dr. Prakash Balaji,144,77,67,16,12,8,48,16,Floor 4,Block B,798149,1460319,Yes,14,Fully Operational,4.6
+DEPT0553,Vascular Surgery,Thanjavur,Dr. Ashok Murugesan,145,70,75,22,11,10,19,13,Floor 7,Block C,1034647,1755671,Yes,68,Fully Operational,4.8
+DEPT0554,ENT,Erode,Dr. Aravind Subramanian,138,83,55,5,3,15,30,28,Floor 3,Block B,1143224,1651319,Yes,56,Fully Operational,4
+DEPT0555,Anaesthesiology,Coimbatore,Dr. Karthik Subramanian,67,27,40,11,4,10,15,15,Floor 1,Block C,1369527,1665807,Yes,19,Fully Operational,4.1
+DEPT0556,Dermatology,Chennai (Main),Dr. Ganesh Chelliah,99,79,20,20,19,9,32,24,Floor 6,Block Emergency Wing,437116,713504,Yes,15,Fully Operational,4.9
+DEPT0557,Pediatrics,Thanjavur,Dr. Saravanan Murugesan,149,10,139,5,4,14,34,14,Floor 5,Block Emergency Wing,1128667,1875983,Yes,35,Fully Operational,4.3
+DEPT0558,Gastroenterology,Tiruchirappalli,Dr. Ganesh Rajesh,97,63,34,5,4,17,49,22,Floor 1,Block B,505538,787201,No,15,Fully Operational,4.3
+DEPT0559,Dermatology,Vellore,Dr. Saravanan Srinivasan,43,31,12,21,4,21,38,9,Floor 5,Block Specialty Tower,1359214,2200008,Yes,12,Inspection Due,4.8
+DEPT0560,Psychiatry,Thanjavur,Dr. Siva Subramanian,72,35,37,19,9,21,54,14,Floor 1,Block Emergency Wing,945687,1416999,Yes,21,Fully Operational,4.8
+DEPT0561,Nephrology,Tirunelveli,Dr. Murugan Subramanian,140,57,83,12,8,24,28,18,Floor 7,Block Emergency Wing,595625,1054251,Yes,83,Fully Operational,4.4
+DEPT0562,Oncology,Chennai (Main),Dr. Arun Rajesh,127,18,109,10,9,23,53,13,Floor 2,Block C,853098,1057242,No,51,Fully Operational,4.5
+DEPT0563,Nephrology,Madurai,Dr. Mani Subramanian,131,97,34,8,6,16,49,15,Floor 6,Block B,1378449,2384677,No,18,Fully Operational,4.2
+DEPT0564,Pediatrics,Chennai (Main),Dr. Murugan Krishnan,77,28,49,19,4,14,32,20,Floor 2,Block B,1317977,2373546,Yes,67,Under Maintenance,4.5
+DEPT0565,Dermatology,Vellore,Dr. Vignesh Sundaram,149,103,46,24,20,20,38,19,Floor 5,Block D,1276230,1566822,Yes,78,Under Maintenance,4.4
+DEPT0566,Psychiatry,Madurai,Dr. Vignesh Venkatesh,114,26,88,21,12,20,58,20,Floor 3,Block B,542718,641255,Yes,81,Fully Operational,4.6
+DEPT0567,Radiology & Imaging,Madurai,Dr. Prabhu Murugesan,120,21,99,9,4,15,55,28,Floor 5,Block Specialty Tower,1141464,1962045,Yes,61,Fully Operational,4.6
+DEPT0568,Neurology,Chennai (Adyar),Dr. Suresh Sundaram,131,90,41,17,8,23,15,27,Floor 7,Block Specialty Tower,519601,808767,Yes,51,Fully Operational,4.5
+DEPT0569,Dermatology,Erode,Dr. Aravind Raman,116,54,62,22,13,21,44,29,Floor 4,Block D,1304735,1766661,Yes,16,Fully Operational,5
+DEPT0570,Anaesthesiology,Madurai,Dr. Aravind Sundaram,75,49,26,19,6,14,59,21,Floor 7,Block Emergency Wing,1127013,1298999,Yes,47,Fully Operational,4.3
+DEPT0571,Gastroenterology,Coimbatore,Dr. Siva Chelliah,47,25,22,12,4,9,34,21,Floor 4,Block B,911781,1131737,Yes,60,Fully Operational,4
+DEPT0572,Pulmonology,Chennai (Main),Dr. Kannan Chelliah,93,20,73,24,9,12,46,21,Floor 5,Block C,994911,1650949,Yes,71,Fully Operational,4.1
+DEPT0573,Endocrinology,Thanjavur,Dr. Murugan Srinivasan,136,55,81,17,9,20,28,8,Floor 2,Block A,1224914,1787251,No,65,Fully Operational,4.2
+DEPT0574,Pediatric Surgery,Chennai (Main),Dr. Ashok Venkatesh,132,96,36,16,9,21,28,28,Floor 6,Block Emergency Wing,1389766,1898688,Yes,15,Fully Operational,4
+DEPT0575,Pulmonology,Madurai,Dr. Kannan Swaminathan,143,102,41,4,3,11,43,29,Floor 5,Block Emergency Wing,548827,987588,No,22,Fully Operational,4.1
+DEPT0576,ENT,Tiruchirappalli,Dr. Prabhu Srinivasan,115,45,70,23,9,21,54,28,Floor 5,Block Specialty Tower,640641,1182624,Yes,16,Fully Operational,4.9
+DEPT0577,Anaesthesiology,Salem,Dr. Ashok Murugesan,132,68,64,9,6,21,36,24,Floor 5,Block C,1154967,2021232,Yes,57,Fully Operational,4.5
+DEPT0578,Orthopedics,Madurai,Dr. Dinesh Chandran,116,60,56,15,8,9,20,14,Floor 2,Block B,486351,796814,Yes,30,Fully Operational,4.6
+DEPT0579,Dermatology,Tiruchirappalli,Dr. Senthil Kumar,82,50,32,8,2,14,42,21,Floor 4,Block Emergency Wing,554547,922697,Yes,29,Fully Operational,4.8
+DEPT0580,Urology,Erode,Dr. Ramesh Subramanian,77,61,16,18,15,16,43,19,Floor 7,Block Emergency Wing,1227724,1719094,Yes,24,Fully Operational,4.7
+DEPT0581,Pathology & Lab,Thanjavur,Dr. Vijay Pandian,126,102,24,12,6,24,23,28,Floor 1,Block D,1421322,2173803,No,78,Fully Operational,4.2
+DEPT0582,Pulmonology,Vellore,Dr. Vijay Chelliah,41,23,18,6,3,10,57,28,Floor 2,Block D,1449380,1965030,Yes,12,Under Maintenance,4.2
+DEPT0583,Ophthalmology,Chennai (Main),Dr. Arun Sundaram,144,78,66,18,16,7,33,10,Floor 6,Block D,371326,597395,Yes,84,Fully Operational,4.3
+DEPT0584,Vascular Surgery,Chennai (Main),Dr. Senthil Chelliah,65,62,3,13,9,16,39,29,Floor 7,Block C,1353367,2162918,No,56,Fully Operational,4.4
+DEPT0585,Cardiology,Thanjavur,Dr. Aravind Srinivasan,117,81,36,9,5,19,15,18,Floor 4,Block A,1277666,2228112,Yes,43,Fully Operational,4.3
+DEPT0586,Dermatology,Erode,Dr. Aravind Krishnan,145,31,114,4,3,17,49,18,Floor 3,Block C,587374,1040224,Yes,33,Fully Operational,4.3
+DEPT0587,Emergency & ICU,Vellore,Dr. Anand Raman,76,57,19,10,2,16,35,18,Floor 4,Block C,1497753,1961224,Yes,43,Fully Operational,4.5
+DEPT0588,Plastic Surgery,Tirunelveli,Dr. Ashok Murugesan,148,44,104,22,7,23,22,21,Floor 2,Block C,1312494,2110011,Yes,37,Fully Operational,4.5
+DEPT0589,Cardiothoracic Surgery,Chennai (Adyar),Dr. Senthil Balaji,94,89,5,13,4,21,42,26,Floor 5,Block D,521516,960137,No,26,Fully Operational,4.6
+DEPT0590,Neurology,Salem,Dr. Saravanan Balaji,73,42,31,15,11,12,47,19,Floor 2,Block C,1103995,1670627,Yes,76,Fully Operational,4.9
+DEPT0591,Gastroenterology,Coimbatore,Dr. Anand Ganesan,144,19,125,9,2,5,36,19,Floor 5,Block Emergency Wing,1439391,2162330,Yes,49,Fully Operational,4.5
+DEPT0592,Cardiology,Thanjavur,Dr. Ashok Chandran,138,115,23,22,9,11,47,19,Floor 5,Block D,510084,908187,No,30,Fully Operational,4.7
+DEPT0593,Gastroenterology,Coimbatore,Dr. Anand Subramanian,63,33,30,14,12,12,24,15,Floor 4,Block A,917542,1363897,Yes,52,Fully Operational,4.6
+DEPT0594,Orthopedics,Tirunelveli,Dr. Sundar Srinivasan,54,11,43,22,13,24,50,10,Floor 5,Block C,1131460,1457154,No,37,Inspection Due,4.9
+DEPT0595,Neurology,Salem,Dr. Ashok Balaji,86,30,56,23,12,5,51,20,Floor 5,Block Specialty Tower,1291120,2305077,No,68,Fully Operational,4.4
+DEPT0596,Cardiothoracic Surgery,Salem,Dr. Ashok Murugesan,44,18,26,17,9,18,58,17,Floor 6,Block D,1096787,1498433,Yes,28,Fully Operational,4
+DEPT0597,Nephrology,Coimbatore,Dr. Senthil Swaminathan,97,14,83,19,18,10,46,27,Floor 4,Block B,1204401,1491749,Yes,53,Fully Operational,4.5
+DEPT0598,Psychiatry,Salem,Dr. Sundar Venkatesh,127,29,98,17,6,13,54,9,Floor 4,Block Emergency Wing,714287,864971,Yes,53,Fully Operational,4.7
+DEPT0599,Rheumatology,Madurai,Dr. Ramesh Swaminathan,106,48,58,9,8,10,24,23,Floor 3,Block Emergency Wing,589596,839595,Yes,60,Fully Operational,4.7
+DEPT0600,Psychiatry,Tirunelveli,Dr. Kannan Chandran,143,58,85,12,5,17,48,11,Floor 6,Block Emergency Wing,933537,1086011,Yes,28,Fully Operational,5
+DEPT0601,Rheumatology,Thanjavur,Dr. Saravanan Kumar,125,22,103,20,10,16,28,21,Floor 7,Block Emergency Wing,461298,726807,Yes,80,Fully Operational,4.8
+DEPT0602,Radiology & Imaging,Salem,Dr. Sundar Pandian,53,30,23,11,4,22,49,20,Floor 4,Block B,786649,966597,Yes,56,Fully Operational,4.2
+DEPT0603,Ophthalmology,Thanjavur,Dr. Karthik Kumar,101,88,13,19,13,10,20,19,Floor 1,Block D,534295,683523,Yes,65,Fully Operational,4
+DEPT0604,Oncology,Vellore,Dr. Vignesh Srinivasan,72,32,40,24,13,6,27,11,Floor 4,Block B,1477970,2249529,No,38,Fully Operational,4.6
+DEPT0605,Psychiatry,Chennai (Adyar),Dr. Vignesh Venkatesh,53,15,38,13,9,21,39,19,Floor 1,Block Emergency Wing,524402,643618,No,68,Fully Operational,4.8
+DEPT0606,Gynecology & Obstetrics,Chennai (Main),Dr. Sundar Krishnan,128,32,96,14,13,17,50,14,Floor 2,Block Specialty Tower,820766,1062263,Yes,61,Fully Operational,4.9
+DEPT0607,ENT,Chennai (Main),Dr. Arun Ganesan,118,109,9,6,3,12,59,26,Floor 6,Block Emergency Wing,916798,1687786,Yes,71,Under Maintenance,4
+DEPT0608,Dermatology,Salem,Dr. Saravanan Rajesh,107,51,56,8,3,14,37,29,Floor 4,Block C,1456714,1687095,Yes,18,Fully Operational,4.6
+DEPT0609,Urology,Tirunelveli,Dr. Anand Subramanian,132,24,108,4,3,24,47,16,Floor 4,Block D,1239989,2022621,Yes,54,Fully Operational,4.6
+DEPT0610,Pulmonology,Thanjavur,Dr. Prakash Chelliah,51,40,11,17,4,16,46,25,Floor 5,Block A,995202,1320162,Yes,13,Fully Operational,4.3
+DEPT0611,Gastroenterology,Tiruchirappalli,Dr. Kannan Kumar,79,22,57,23,6,22,29,19,Floor 5,Block A,356440,622523,Yes,29,Fully Operational,4.1
+DEPT0612,General Medicine,Salem,Dr. Sundar Kumar,96,92,4,4,2,17,41,13,Floor 3,Block Specialty Tower,318781,375272,Yes,60,Fully Operational,4.1
+DEPT0613,Neurology,Madurai,Dr. Aravind Murugesan,130,66,64,5,3,11,21,25,Floor 4,Block B,699769,982986,No,29,Fully Operational,4.4
+DEPT0614,Vascular Surgery,Chennai (Main),Dr. Kannan Ganesan,49,10,39,11,6,22,16,23,Floor 4,Block A,1309602,1955078,Yes,35,Fully Operational,4.8
+DEPT0615,Cardiothoracic Surgery,Chennai (Adyar),Dr. Sundar Venkatesh,54,26,28,24,19,10,37,21,Floor 7,Block C,882438,1598060,No,72,Fully Operational,4.5
+DEPT0616,Dermatology,Salem,Dr. Arun Krishnan,52,18,34,5,2,9,57,29,Floor 3,Block B,332175,503670,Yes,22,Fully Operational,4.5
+DEPT0617,Psychiatry,Coimbatore,Dr. Karthik Chelliah,97,14,83,16,7,9,46,26,Floor 5,Block D,1261169,1540457,Yes,69,Inspection Due,4.8
+DEPT0618,Vascular Surgery,Madurai,Dr. Arun Venkatesh,109,37,72,6,4,14,37,13,Floor 2,Block A,1139232,1655259,Yes,69,Inspection Due,4.5
+DEPT0619,Dermatology,Coimbatore,Dr. Ashok Kumar,66,57,9,15,4,12,58,22,Floor 2,Block Emergency Wing,625341,906544,No,41,Fully Operational,5
+DEPT0620,Nephrology,Thanjavur,Dr. Siva Kumar,56,13,43,8,5,18,24,21,Floor 4,Block A,363146,585638,Yes,38,Fully Operational,4.9
+DEPT0621,Nephrology,Thanjavur,Dr. Ganesh Chandran,113,30,83,9,4,12,45,16,Floor 5,Block Emergency Wing,947937,1451221,Yes,43,Fully Operational,4.5
+DEPT0622,Emergency & ICU,Thanjavur,Dr. Dinesh Chandran,128,58,70,8,3,13,20,25,Floor 6,Block C,369837,520728,No,51,Under Maintenance,4.2
+DEPT0623,General Medicine,Tiruchirappalli,Dr. Vijay Balaji,149,142,7,14,2,9,34,10,Floor 5,Block B,693522,1251291,Yes,12,Fully Operational,4.4
+DEPT0624,Vascular Surgery,Thanjavur,Dr. Anand Venkatesh,73,18,55,22,14,9,55,20,Floor 1,Block A,1224159,2182414,Yes,61,Under Maintenance,4.5
+DEPT0625,Gynecology & Obstetrics,Erode,Dr. Murugan Srinivasan,91,57,34,6,3,5,24,22,Floor 7,Block D,1040749,1834472,Yes,76,Fully Operational,4.8
+DEPT0626,Gastroenterology,Salem,Dr. Saravanan Murugesan,144,137,7,6,4,15,52,10,Floor 3,Block Specialty Tower,550476,877554,Yes,77,Fully Operational,4.3
+DEPT0627,Vascular Surgery,Coimbatore,Dr. Prakash Ganesan,50,15,35,15,12,13,39,17,Floor 3,Block C,894003,1608806,Yes,51,Fully Operational,4.2
+DEPT0628,Plastic Surgery,Tiruchirappalli,Dr. Murugan Swaminathan,52,31,21,6,4,18,32,21,Floor 5,Block Emergency Wing,1184237,1616908,Yes,32,Fully Operational,4.3
+DEPT0629,Pathology & Lab,Coimbatore,Dr. Siva Krishnan,122,36,86,11,7,24,37,22,Floor 3,Block C,1281769,2042240,No,20,Fully Operational,5
+DEPT0630,Radiology & Imaging,Chennai (Adyar),Dr. Vignesh Chandran,46,25,21,17,6,13,18,11,Floor 1,Block D,1155877,2052013,Yes,71,Fully Operational,4.8
+DEPT0631,Neurology,Madurai,Dr. Murugan Venkatesh,81,22,59,17,16,22,47,28,Floor 7,Block Specialty Tower,461860,814260,No,57,Fully Operational,4
+DEPT0632,General Medicine,Tiruchirappalli,Dr. Vignesh Venkatesh,140,105,35,5,3,21,21,18,Floor 4,Block Emergency Wing,1383685,2281613,Yes,51,Fully Operational,4.1
+DEPT0633,Pediatric Surgery,Chennai (Main),Dr. Vignesh Pandian,84,36,48,23,19,20,16,12,Floor 2,Block C,1185978,1425583,No,16,Fully Operational,4.9
+DEPT0634,Pathology & Lab,Chennai (Main),Dr. Prakash Pandian,68,66,2,8,6,10,16,13,Floor 6,Block C,1044067,1707797,No,18,Fully Operational,4.1
+DEPT0635,Urology,Madurai,Dr. Karthik Sundaram,92,25,67,22,17,15,40,15,Floor 7,Block A,1125177,1355578,No,69,Fully Operational,4.2
+DEPT0636,Ophthalmology,Thanjavur,Dr. Ramesh Natarajan,64,47,17,24,20,22,16,21,Floor 5,Block B,402063,640441,No,17,Fully Operational,4.6
+DEPT0637,Anaesthesiology,Chennai (Adyar),Dr. Kannan Subramanian,102,58,44,22,10,11,15,14,Floor 2,Block D,1176038,2103625,Yes,19,Fully Operational,4.1
+DEPT0638,Pediatrics,Tirunelveli,Dr. Ramesh Sundaram,66,63,3,20,5,20,33,17,Floor 3,Block C,1189602,1834277,Yes,19,Fully Operational,4.1
+DEPT0639,Ophthalmology,Tiruchirappalli,Dr. Vijay Chandran,126,111,15,15,10,24,56,14,Floor 5,Block Emergency Wing,462818,781742,Yes,15,Fully Operational,4.9
+DEPT0640,Dermatology,Chennai (Adyar),Dr. Anand Rajesh,69,34,35,24,22,20,34,9,Floor 5,Block B,1339786,2198319,Yes,54,Fully Operational,4.7
+DEPT0641,Vascular Surgery,Salem,Dr. Ashok Swaminathan,149,15,134,5,4,18,37,27,Floor 5,Block D,869503,1435761,Yes,61,Fully Operational,4.9
+DEPT0642,Vascular Surgery,Salem,Dr. Ashok Pandian,99,69,30,13,10,21,47,25,Floor 2,Block B,952692,1394512,Yes,13,Fully Operational,4.7
+DEPT0643,Emergency & ICU,Madurai,Dr. Saravanan Rajesh,148,32,116,19,6,12,47,13,Floor 3,Block Emergency Wing,1169440,1574014,Yes,56,Fully Operational,4.2
+DEPT0644,Oncology,Coimbatore,Dr. Dinesh Kumar,149,25,124,24,9,8,34,22,Floor 5,Block Emergency Wing,718810,1114366,Yes,11,Fully Operational,4.5
+DEPT0645,ENT,Tiruchirappalli,Dr. Mani Krishnan,149,21,128,20,6,18,52,22,Floor 7,Block Specialty Tower,782737,921740,Yes,53,Fully Operational,4.5
+DEPT0646,Psychiatry,Chennai (Main),Dr. Anand Rajesh,114,93,21,13,3,21,56,20,Floor 4,Block C,466964,655786,Yes,53,Fully Operational,5
+DEPT0647,Endocrinology,Chennai (Adyar),Dr. Siva Rajesh,68,44,24,14,2,23,25,16,Floor 6,Block A,719814,863723,Yes,45,Fully Operational,4.3
+DEPT0648,Gastroenterology,Chennai (Adyar),Dr. Saravanan Balaji,125,99,26,13,9,23,15,10,Floor 3,Block B,1409057,1865489,Yes,14,Fully Operational,4.9
+DEPT0649,Plastic Surgery,Erode,Dr. Anand Chelliah,51,30,21,15,11,5,40,11,Floor 1,Block C,1226592,1498498,Yes,53,Fully Operational,4.3
+DEPT0650,Psychiatry,Chennai (Main),Dr. Ganesh Natarajan,97,71,26,24,17,10,17,16,Floor 3,Block Emergency Wing,717740,1299577,No,36,Fully Operational,4.4
+DEPT0651,ENT,Thanjavur,Dr. Arun Venkatesh,45,27,18,20,7,17,37,21,Floor 6,Block B,1187159,1520923,No,77,Fully Operational,4.2
+DEPT0652,Cardiology,Tirunelveli,Dr. Prabhu Chandran,118,59,59,7,4,24,53,15,Floor 1,Block Emergency Wing,1060151,1519147,Yes,36,Inspection Due,4.9
+DEPT0653,Gynecology & Obstetrics,Thanjavur,Dr. Ramesh Ganesan,60,39,21,18,4,20,27,12,Floor 3,Block C,1296114,2030685,No,77,Fully Operational,4.2
+DEPT0654,Pediatrics,Chennai (Adyar),Dr. Dinesh Raman,114,54,60,13,4,9,17,13,Floor 5,Block B,1490866,2552570,No,26,Fully Operational,4.1
+DEPT0655,Cardiothoracic Surgery,Salem,Dr. Arun Chandran,74,58,16,10,6,9,37,8,Floor 4,Block Specialty Tower,592527,774682,Yes,56,Inspection Due,4.2
+DEPT0656,Orthopedics,Chennai (Adyar),Dr. Suresh Chandran,112,83,29,7,4,7,55,29,Floor 1,Block Specialty Tower,826761,978275,Yes,69,Fully Operational,4.6
+DEPT0657,Gynecology & Obstetrics,Coimbatore,Dr. Kannan Pandian,65,31,34,24,5,6,58,14,Floor 4,Block B,401982,605311,Yes,23,Under Maintenance,4.6
+DEPT0658,Psychiatry,Coimbatore,Dr. Karthik Murugesan,63,58,5,6,3,7,27,22,Floor 2,Block Specialty Tower,933556,1208806,No,77,Fully Operational,4.5
+DEPT0659,ENT,Chennai (Main),Dr. Ramesh Chandran,91,20,71,17,7,20,26,24,Floor 6,Block B,1254940,1566959,Yes,26,Fully Operational,4.2
+DEPT0660,Emergency & ICU,Chennai (Adyar),Dr. Saravanan Krishnan,124,60,64,7,5,15,58,21,Floor 5,Block Emergency Wing,660777,1090190,Yes,78,Inspection Due,4.8
+DEPT0661,Endocrinology,Thanjavur,Dr. Suresh Swaminathan,99,21,78,14,4,16,51,13,Floor 3,Block B,399919,652050,Yes,12,Fully Operational,4
+DEPT0662,Neurology,Vellore,Dr. Ashok Chelliah,81,73,8,17,16,17,55,14,Floor 4,Block Emergency Wing,456547,634168,No,76,Fully Operational,4.3
+DEPT0663,Nephrology,Chennai (Main),Dr. Anand Swaminathan,48,18,30,12,8,13,29,9,Floor 3,Block C,1090023,1737320,No,29,Fully Operational,4.5
+DEPT0664,Ophthalmology,Chennai (Adyar),Dr. Aravind Balaji,70,27,43,11,8,8,31,12,Floor 4,Block A,343923,621304,Yes,29,Fully Operational,4.6
+DEPT0665,ENT,Chennai (Main),Dr. Anand Sundaram,48,29,19,16,3,17,23,27,Floor 6,Block D,1094686,1362974,Yes,82,Fully Operational,4.1
+DEPT0666,Radiology & Imaging,Vellore,Dr. Vijay Sundaram,113,108,5,10,3,17,18,25,Floor 3,Block A,1370583,2370822,Yes,36,Fully Operational,4.9
+DEPT0667,Dermatology,Vellore,Dr. Senthil Murugesan,43,24,19,13,6,20,33,27,Floor 3,Block B,997785,1522257,No,11,Fully Operational,4.9
+DEPT0668,General Medicine,Tiruchirappalli,Dr. Ganesh Krishnan,139,22,117,4,3,13,36,23,Floor 3,Block B,513165,695763,Yes,69,Fully Operational,4.8
+DEPT0669,Cardiothoracic Surgery,Coimbatore,Dr. Mani Ganesan,110,82,28,24,13,11,29,13,Floor 5,Block Specialty Tower,440926,609558,Yes,42,Fully Operational,4.7
+DEPT0670,Dermatology,Vellore,Dr. Saravanan Srinivasan,76,17,59,10,6,17,54,18,Floor 4,Block B,1310193,2159894,Yes,75,Fully Operational,4.5
+DEPT0671,Urology,Chennai (Main),Dr. Arun Srinivasan,120,113,7,5,3,9,54,26,Floor 5,Block B,976894,1673145,Yes,57,Fully Operational,4.1
+DEPT0672,Psychiatry,Chennai (Adyar),Dr. Ashok Subramanian,55,22,33,12,11,13,27,11,Floor 1,Block Specialty Tower,813611,1253668,No,76,Under Maintenance,4
+DEPT0673,Pulmonology,Madurai,Dr. Anand Swaminathan,77,39,38,5,3,16,31,22,Floor 2,Block Emergency Wing,1489844,1734675,Yes,66,Fully Operational,4.1
+DEPT0674,Cardiology,Chennai (Main),Dr. Prabhu Swaminathan,70,45,25,15,2,5,53,25,Floor 7,Block D,1197486,2036743,Yes,48,Under Maintenance,4.7
+DEPT0675,Gastroenterology,Erode,Dr. Siva Rajesh,59,24,35,24,5,6,42,25,Floor 2,Block A,1251406,2252123,Yes,35,Fully Operational,4.2
+DEPT0676,Plastic Surgery,Thanjavur,Dr. Ganesh Rajesh,62,46,16,12,5,23,59,25,Floor 1,Block C,572201,878320,Yes,37,Fully Operational,4.6
+DEPT0677,Cardiology,Tiruchirappalli,Dr. Mani Pandian,113,52,61,5,4,11,55,12,Floor 7,Block D,844929,1462676,No,28,Fully Operational,4.6
+DEPT0678,Vascular Surgery,Tirunelveli,Dr. Anand Natarajan,87,44,43,18,15,19,53,10,Floor 6,Block A,1196366,2061478,Yes,23,Under Maintenance,4.9
+DEPT0679,Pediatrics,Erode,Dr. Ramesh Balaji,135,45,90,21,6,20,28,26,Floor 7,Block Specialty Tower,1389067,1649904,No,31,Fully Operational,4.9
+DEPT0680,Cardiology,Erode,Dr. Suresh Chandran,60,55,5,13,11,12,53,15,Floor 4,Block B,781018,981351,No,31,Fully Operational,4.5
+DEPT0681,Cardiology,Chennai (Main),Dr. Aravind Pandian,108,106,2,23,14,12,52,24,Floor 4,Block A,1486477,2290206,No,68,Fully Operational,4.4
+DEPT0682,Dermatology,Coimbatore,Dr. Vijay Sundaram,119,86,33,23,20,9,51,27,Floor 4,Block B,1145177,1675779,No,43,Inspection Due,4.5
+DEPT0683,Psychiatry,Tirunelveli,Dr. Mani Venkatesh,130,88,42,16,14,20,36,27,Floor 5,Block D,982561,1748860,No,54,Under Maintenance,4.6
+DEPT0684,Radiology & Imaging,Madurai,Dr. Aravind Balaji,142,36,106,10,4,19,47,9,Floor 2,Block A,448430,741386,No,63,Fully Operational,4.7
+DEPT0685,Psychiatry,Madurai,Dr. Aravind Srinivasan,120,89,31,11,8,24,46,19,Floor 1,Block C,1482573,2706895,Yes,72,Fully Operational,4.2
+DEPT0686,Ophthalmology,Chennai (Adyar),Dr. Siva Balaji,137,81,56,16,8,24,36,22,Floor 4,Block A,348929,442209,Yes,28,Fully Operational,4
+DEPT0687,Endocrinology,Chennai (Adyar),Dr. Ramesh Kumar,57,15,42,24,9,6,47,23,Floor 7,Block Specialty Tower,1457943,1692160,No,65,Under Maintenance,4
+DEPT0688,Oncology,Tirunelveli,Dr. Mani Swaminathan,95,50,45,7,2,8,58,11,Floor 1,Block Specialty Tower,1312567,2105835,Yes,16,Fully Operational,4.5
+DEPT0689,Cardiothoracic Surgery,Tiruchirappalli,Dr. Murugan Rajesh,132,29,103,17,13,22,41,27,Floor 4,Block Emergency Wing,391665,499060,Yes,57,Fully Operational,4.8
+DEPT0690,Rheumatology,Salem,Dr. Ashok Natarajan,56,18,38,6,5,11,32,19,Floor 3,Block Specialty Tower,834398,1353479,Yes,75,Fully Operational,4.5
+DEPT0691,Cardiology,Coimbatore,Dr. Prabhu Sundaram,116,79,37,18,4,19,21,18,Floor 6,Block B,804434,1156490,Yes,26,Fully Operational,4.6
+DEPT0692,Neurology,Coimbatore,Dr. Aravind Chelliah,75,73,2,12,3,20,15,11,Floor 2,Block D,649738,1085413,No,36,Fully Operational,4.2
+DEPT0693,Anaesthesiology,Coimbatore,Dr. Vignesh Subramanian,90,78,12,23,10,12,25,23,Floor 7,Block Emergency Wing,871952,1204906,Yes,75,Under Maintenance,5
+DEPT0694,Gynecology & Obstetrics,Tiruchirappalli,Dr. Siva Kumar,68,59,9,18,8,14,17,12,Floor 5,Block Emergency Wing,777044,1190373,Yes,59,Fully Operational,4.3
+DEPT0695,Plastic Surgery,Tiruchirappalli,Dr. Saravanan Venkatesh,66,56,10,6,3,17,58,26,Floor 5,Block B,855639,1481959,Yes,53,Fully Operational,4.5
+DEPT0696,Urology,Madurai,Dr. Aravind Krishnan,64,40,24,12,5,14,51,20,Floor 1,Block B,1071668,1422144,Yes,69,Fully Operational,4.2
+DEPT0697,Vascular Surgery,Tirunelveli,Dr. Prakash Kumar,139,22,117,10,9,5,59,8,Floor 3,Block Specialty Tower,552051,651078,Yes,21,Fully Operational,4.4
+DEPT0698,Nephrology,Coimbatore,Dr. Saravanan Murugesan,44,36,8,23,18,14,35,8,Floor 6,Block D,432335,621119,Yes,35,Under Maintenance,4.1
+DEPT0699,Endocrinology,Erode,Dr. Saravanan Krishnan,62,61,1,17,7,15,45,13,Floor 3,Block Emergency Wing,367573,547252,No,45,Fully Operational,4.2
+DEPT0700,Gynecology & Obstetrics,Tirunelveli,Dr. Dinesh Swaminathan,50,33,17,6,3,10,16,21,Floor 1,Block B,964882,1268801,No,21,Fully Operational,4.9
+DEPT0701,Pulmonology,Chennai (Main),Dr. Vignesh Pandian,63,43,20,11,6,5,37,20,Floor 6,Block Emergency Wing,536109,775071,No,69,Fully Operational,4.4
+DEPT0702,Endocrinology,Madurai,Dr. Mani Srinivasan,99,22,77,5,4,19,58,22,Floor 1,Block B,1290221,1860413,Yes,39,Fully Operational,4.7
+DEPT0703,Oncology,Vellore,Dr. Vijay Swaminathan,137,25,112,17,11,12,28,9,Floor 4,Block A,1437718,1939872,No,34,Fully Operational,4.1
+DEPT0704,Gynecology & Obstetrics,Salem,Dr. Vignesh Krishnan,77,16,61,22,8,7,54,8,Floor 1,Block Specialty Tower,1086872,1513276,Yes,25,Fully Operational,4.4
+DEPT0705,General Medicine,Salem,Dr. Prabhu Chelliah,54,53,1,6,4,19,49,21,Floor 2,Block Emergency Wing,522873,892451,Yes,44,Fully Operational,4.3
+DEPT0706,Oncology,Tiruchirappalli,Dr. Dinesh Natarajan,124,94,30,24,13,9,53,16,Floor 5,Block B,1360331,1613140,Yes,50,Fully Operational,4.4
+DEPT0707,Pediatric Surgery,Erode,Dr. Karthik Krishnan,83,66,17,22,18,6,25,25,Floor 7,Block D,1406517,1658817,Yes,50,Fully Operational,4.8
+DEPT0708,Emergency & ICU,Chennai (Main),Dr. Siva Subramanian,63,45,18,7,6,6,42,22,Floor 4,Block C,1011045,1295338,Yes,83,Fully Operational,4.8
+DEPT0709,Gynecology & Obstetrics,Madurai,Dr. Prakash Balaji,43,14,29,7,5,17,30,21,Floor 3,Block Emergency Wing,1054849,1700391,Yes,68,Fully Operational,4.5
+DEPT0710,Dermatology,Thanjavur,Dr. Suresh Pandian,135,15,120,5,3,11,41,21,Floor 1,Block A,496437,824200,No,48,Inspection Due,4.8
+DEPT0711,Cardiology,Salem,Dr. Suresh Sundaram,148,146,2,16,6,18,51,16,Floor 7,Block Specialty Tower,1304802,1837445,Yes,42,Fully Operational,4.1
+DEPT0712,Radiology & Imaging,Chennai (Adyar),Dr. Dinesh Srinivasan,95,66,29,22,20,21,42,26,Floor 3,Block D,506994,848413,Yes,52,Fully Operational,4.6
+DEPT0713,Pediatric Surgery,Thanjavur,Dr. Vignesh Murugesan,115,51,64,16,11,22,56,26,Floor 4,Block A,814771,1279270,Yes,54,Fully Operational,4.6
+DEPT0714,Ophthalmology,Madurai,Dr. Aravind Krishnan,96,32,64,18,13,13,38,28,Floor 1,Block Specialty Tower,1104406,1764502,Yes,64,Under Maintenance,4.2
+DEPT0715,Emergency & ICU,Vellore,Dr. Dinesh Balaji,136,74,62,8,2,16,20,20,Floor 2,Block D,343815,539577,No,77,Fully Operational,4.4
+DEPT0716,Psychiatry,Coimbatore,Dr. Senthil Srinivasan,51,36,15,24,22,10,35,13,Floor 7,Block B,890620,1396313,Yes,26,Fully Operational,5
+DEPT0717,Cardiothoracic Surgery,Tiruchirappalli,Dr. Suresh Ganesan,114,93,21,12,2,7,35,16,Floor 6,Block C,743884,1054372,Yes,28,Fully Operational,4.6
+DEPT0718,Dermatology,Madurai,Dr. Murugan Balaji,66,55,11,5,2,22,34,15,Floor 3,Block B,421246,552559,Yes,18,Fully Operational,4.5
+DEPT0719,Emergency & ICU,Salem,Dr. Ashok Swaminathan,105,99,6,17,12,10,48,15,Floor 4,Block Emergency Wing,559383,996079,No,55,Under Maintenance,4.3
+DEPT0720,General Medicine,Tirunelveli,Dr. Vignesh Sundaram,41,26,15,23,14,9,56,19,Floor 1,Block Emergency Wing,915973,1197602,No,15,Fully Operational,4.6
+DEPT0721,Endocrinology,Vellore,Dr. Suresh Rajesh,98,95,3,23,5,6,50,15,Floor 5,Block B,795496,1283065,No,41,Fully Operational,4.6
+DEPT0722,Radiology & Imaging,Salem,Dr. Dinesh Srinivasan,87,64,23,18,16,23,41,16,Floor 5,Block Emergency Wing,1274939,1922489,No,45,Inspection Due,4.9
+DEPT0723,Orthopedics,Madurai,Dr. Sundar Balaji,129,17,112,19,16,11,31,29,Floor 6,Block Specialty Tower,1478321,2299350,Yes,25,Fully Operational,4.4
+DEPT0724,Endocrinology,Vellore,Dr. Prabhu Subramanian,86,52,34,4,3,5,22,23,Floor 2,Block D,1436469,1726508,No,28,Fully Operational,5
+DEPT0725,Cardiology,Tirunelveli,Dr. Ganesh Chelliah,46,24,22,13,9,18,40,17,Floor 1,Block Emergency Wing,1449645,2118041,Yes,82,Fully Operational,4.3
+DEPT0726,Vascular Surgery,Vellore,Dr. Ramesh Swaminathan,112,36,76,20,8,15,54,14,Floor 4,Block C,1182622,1868440,Yes,16,Fully Operational,4
+DEPT0727,Emergency & ICU,Tirunelveli,Dr. Vignesh Krishnan,120,95,25,5,3,12,59,25,Floor 4,Block Specialty Tower,482075,577450,No,23,Under Maintenance,4.9
+DEPT0728,Pediatric Surgery,Tirunelveli,Dr. Sundar Sundaram,43,35,8,7,3,7,15,24,Floor 7,Block Specialty Tower,536591,755635,No,43,Fully Operational,4.1
+DEPT0729,Psychiatry,Tirunelveli,Dr. Prabhu Krishnan,89,35,54,17,15,18,39,11,Floor 4,Block B,579373,799739,Yes,29,Under Maintenance,4.7
+DEPT0730,Cardiology,Erode,Dr. Karthik Chelliah,72,13,59,10,2,20,19,9,Floor 4,Block C,1163601,1634791,Yes,33,Fully Operational,4.2
+DEPT0731,Pediatrics,Madurai,Dr. Karthik Murugesan,135,17,118,11,4,10,58,14,Floor 1,Block Emergency Wing,1285848,1714093,Yes,83,Fully Operational,4.7
+DEPT0732,General Medicine,Chennai (Main),Dr. Sundar Natarajan,92,26,66,17,9,13,54,20,Floor 1,Block C,1431899,2278932,Yes,79,Fully Operational,4.6
+DEPT0733,Endocrinology,Salem,Dr. Saravanan Chandran,70,21,49,6,3,20,20,22,Floor 7,Block Emergency Wing,666099,1136307,Yes,43,Fully Operational,4.9
+DEPT0734,Urology,Vellore,Dr. Ganesh Murugesan,85,82,3,23,22,14,36,16,Floor 5,Block Emergency Wing,1316487,1634403,Yes,74,Fully Operational,4.3
+DEPT0735,Radiology & Imaging,Tiruchirappalli,Dr. Anand Krishnan,129,62,67,9,4,14,53,9,Floor 7,Block D,1034543,1751971,Yes,14,Fully Operational,4.4
+DEPT0736,Orthopedics,Salem,Dr. Saravanan Krishnan,94,84,10,6,4,17,22,27,Floor 2,Block B,479729,688696,Yes,18,Fully Operational,4.5
+DEPT0737,Neurology,Vellore,Dr. Kannan Sundaram,77,28,49,17,16,19,17,12,Floor 5,Block B,1459695,2666113,Yes,23,Fully Operational,4.8
+DEPT0738,ENT,Chennai (Adyar),Dr. Vignesh Kumar,135,131,4,20,6,24,30,14,Floor 7,Block B,1339089,2419036,Yes,59,Fully Operational,4.9
+DEPT0739,Urology,Erode,Dr. Saravanan Swaminathan,68,20,48,8,2,8,29,26,Floor 6,Block B,1044976,1286587,Yes,83,Fully Operational,5
+DEPT0740,Anaesthesiology,Chennai (Adyar),Dr. Kannan Swaminathan,117,65,52,19,17,21,21,19,Floor 2,Block B,558946,818748,Yes,79,Inspection Due,4.1
+DEPT0741,Psychiatry,Coimbatore,Dr. Siva Krishnan,119,29,90,6,5,23,33,11,Floor 1,Block B,998508,1204126,No,39,Fully Operational,4.8
+DEPT0742,Pediatric Surgery,Chennai (Main),Dr. Prabhu Kumar,113,91,22,22,8,23,38,22,Floor 1,Block B,1059987,1705909,Yes,14,Fully Operational,4.6
+DEPT0743,Rheumatology,Tiruchirappalli,Dr. Prakash Balaji,114,22,92,17,13,12,39,25,Floor 3,Block D,994793,1488827,Yes,23,Fully Operational,5
+DEPT0744,Psychiatry,Madurai,Dr. Anand Raman,74,32,42,13,2,10,49,26,Floor 4,Block Emergency Wing,941447,1593495,Yes,16,Fully Operational,4.6
+DEPT0745,Pulmonology,Thanjavur,Dr. Vijay Swaminathan,84,51,33,24,15,13,25,25,Floor 3,Block A,621546,740070,No,24,Inspection Due,4.4
+DEPT0746,Endocrinology,Madurai,Dr. Prakash Natarajan,131,10,121,8,3,14,48,11,Floor 2,Block B,1400620,2124139,Yes,84,Under Maintenance,4.2
+DEPT0747,Psychiatry,Salem,Dr. Ganesh Krishnan,120,31,89,14,4,21,38,11,Floor 2,Block B,411597,727983,Yes,67,Fully Operational,4.8
+DEPT0748,Rheumatology,Thanjavur,Dr. Vignesh Venkatesh,43,40,3,8,7,9,41,15,Floor 1,Block D,1133272,1993751,Yes,24,Fully Operational,4.9
+DEPT0749,Anaesthesiology,Vellore,Dr. Anand Murugesan,58,40,18,14,11,15,37,10,Floor 6,Block C,515192,625684,Yes,59,Fully Operational,4.5
+DEPT0750,Rheumatology,Tirunelveli,Dr. Siva Rajesh,135,19,116,16,8,22,37,11,Floor 4,Block A,720091,1184080,Yes,77,Fully Operational,4.5
+DEPT0751,Gynecology & Obstetrics,Tirunelveli,Dr. Aravind Ganesan,102,74,28,10,4,17,40,19,Floor 4,Block Specialty Tower,1329517,2095256,Yes,47,Fully Operational,4.7
+DEPT0752,Pediatric Surgery,Vellore,Dr. Arun Balaji,80,46,34,4,3,19,46,15,Floor 1,Block B,645564,986127,No,83,Fully Operational,4.4
+DEPT0753,ENT,Tiruchirappalli,Dr. Arun Venkatesh,56,40,16,10,2,10,36,22,Floor 5,Block B,1238481,1466843,Yes,75,Fully Operational,4.3
+DEPT0754,Neurology,Coimbatore,Dr. Arun Murugesan,137,23,114,18,5,6,50,26,Floor 1,Block Specialty Tower,928556,1600287,No,22,Fully Operational,4.5
+DEPT0755,Emergency & ICU,Tirunelveli,Dr. Vijay Chandran,143,12,131,5,4,12,59,14,Floor 1,Block D,1496845,1942875,Yes,17,Fully Operational,4.1
+DEPT0756,Neurology,Madurai,Dr. Suresh Balaji,96,40,56,9,4,19,43,10,Floor 3,Block C,1099131,1488886,Yes,19,Under Maintenance,5
+DEPT0757,Gastroenterology,Vellore,Dr. Murugan Rajesh,63,53,10,19,14,9,50,28,Floor 7,Block D,1401332,2233666,Yes,15,Fully Operational,4.9
+DEPT0758,Radiology & Imaging,Salem,Dr. Karthik Krishnan,73,65,8,14,4,14,20,13,Floor 7,Block D,1197428,1636825,No,65,Fully Operational,4.8
+DEPT0759,Gynecology & Obstetrics,Tirunelveli,Dr. Anand Srinivasan,117,46,71,20,3,13,58,26,Floor 6,Block A,858867,1432304,Yes,28,Under Maintenance,4.3
+DEPT0760,Urology,Chennai (Adyar),Dr. Kannan Subramanian,75,57,18,18,15,16,17,17,Floor 6,Block Specialty Tower,1391213,1659962,Yes,67,Under Maintenance,4.7
+DEPT0761,Cardiothoracic Surgery,Thanjavur,Dr. Sundar Murugesan,81,20,61,19,10,19,28,26,Floor 7,Block A,413123,705162,Yes,17,Fully Operational,4.2
+DEPT0762,Pulmonology,Thanjavur,Dr. Prabhu Murugesan,101,57,44,7,6,12,15,13,Floor 7,Block D,1384148,1908690,Yes,56,Fully Operational,4.6
+DEPT0763,Pediatrics,Chennai (Main),Dr. Mani Srinivasan,108,40,68,9,4,20,26,27,Floor 2,Block B,953302,1125640,No,36,Fully Operational,4.1
+DEPT0764,Psychiatry,Erode,Dr. Senthil Kumar,100,59,41,9,5,12,59,15,Floor 3,Block Specialty Tower,1331830,1941942,No,58,Fully Operational,4.8
+DEPT0765,Emergency & ICU,Coimbatore,Dr. Aravind Chelliah,140,137,3,14,7,22,49,13,Floor 3,Block Specialty Tower,1281124,2000879,Yes,47,Fully Operational,4.4
+DEPT0766,Radiology & Imaging,Salem,Dr. Suresh Kumar,114,90,24,10,8,5,39,15,Floor 5,Block Specialty Tower,867922,1496948,Yes,68,Fully Operational,4.7
+DEPT0767,Cardiothoracic Surgery,Tiruchirappalli,Dr. Ashok Srinivasan,78,22,56,19,13,11,41,20,Floor 5,Block C,1311918,1733343,No,60,Fully Operational,4.9
+DEPT0768,ENT,Thanjavur,Dr. Ramesh Subramanian,121,59,62,18,5,23,36,28,Floor 5,Block B,815303,1065402,No,73,Fully Operational,4.8
+DEPT0769,Dermatology,Vellore,Dr. Karthik Raman,43,23,20,7,3,12,28,27,Floor 1,Block B,1079824,1349348,Yes,30,Under Maintenance,4.7
+DEPT0770,Pediatrics,Erode,Dr. Ganesh Pandian,143,114,29,21,4,21,29,28,Floor 3,Block A,1071687,1684730,Yes,70,Fully Operational,4
+DEPT0771,Cardiology,Chennai (Adyar),Dr. Aravind Balaji,98,12,86,20,15,18,52,10,Floor 1,Block Specialty Tower,813168,1221399,Yes,43,Fully Operational,4.9
+DEPT0772,Pulmonology,Thanjavur,Dr. Ganesh Venkatesh,115,31,84,19,13,15,34,26,Floor 1,Block C,385186,561043,No,70,Under Maintenance,4.4
+DEPT0773,Ophthalmology,Madurai,Dr. Dinesh Natarajan,130,81,49,18,12,11,22,17,Floor 2,Block D,965582,1240445,No,56,Fully Operational,4.6
+DEPT0774,General Medicine,Tiruchirappalli,Dr. Anand Murugesan,47,25,22,9,3,14,51,19,Floor 4,Block A,1000461,1768897,Yes,53,Fully Operational,4.3
+DEPT0775,Nephrology,Chennai (Adyar),Dr. Aravind Murugesan,92,10,82,7,2,8,45,9,Floor 3,Block Emergency Wing,848297,1363017,Yes,31,Fully Operational,4.1
+DEPT0776,Orthopedics,Tirunelveli,Dr. Siva Rajesh,148,49,99,10,9,12,32,16,Floor 6,Block C,1207235,2104574,Yes,82,Fully Operational,4.4
+DEPT0777,Neurology,Salem,Dr. Sundar Sundaram,104,26,78,16,9,11,23,18,Floor 3,Block B,344845,504295,Yes,38,Fully Operational,4.1
+DEPT0778,Neurology,Madurai,Dr. Saravanan Srinivasan,99,93,6,12,8,17,32,24,Floor 1,Block A,1107359,1657813,No,29,Inspection Due,4.1
+DEPT0779,Vascular Surgery,Coimbatore,Dr. Saravanan Raman,78,76,2,20,4,17,21,10,Floor 7,Block Emergency Wing,1121681,1426772,Yes,48,Fully Operational,4.4
+DEPT0780,Radiology & Imaging,Madurai,Dr. Siva Ganesan,53,43,10,16,2,24,53,16,Floor 4,Block B,1408062,1650929,Yes,64,Fully Operational,4.8
+DEPT0781,Urology,Thanjavur,Dr. Siva Natarajan,131,50,81,18,13,17,56,27,Floor 5,Block A,436774,741855,Yes,24,Fully Operational,4.3
+DEPT0782,Rheumatology,Erode,Dr. Vijay Natarajan,137,61,76,13,5,22,35,23,Floor 3,Block B,957739,1748446,Yes,27,Fully Operational,5
+DEPT0783,General Medicine,Chennai (Main),Dr. Prakash Subramanian,54,45,9,18,7,18,47,16,Floor 3,Block C,809622,1270107,No,38,Fully Operational,4.6
+DEPT0784,Dermatology,Tirunelveli,Dr. Vijay Rajesh,76,54,22,19,17,6,15,25,Floor 2,Block Specialty Tower,1277639,1695056,Yes,57,Fully Operational,5
+DEPT0785,Plastic Surgery,Salem,Dr. Vignesh Rajesh,73,70,3,22,11,8,58,25,Floor 7,Block D,899255,1247583,Yes,80,Under Maintenance,4.5
+DEPT0786,General Medicine,Madurai,Dr. Mani Sundaram,119,14,105,22,5,10,40,24,Floor 7,Block A,1278476,1885348,No,18,Fully Operational,4.9
+DEPT0787,Rheumatology,Madurai,Dr. Vignesh Swaminathan,60,50,10,22,7,8,57,17,Floor 3,Block A,981398,1197462,No,67,Fully Operational,4.7
+DEPT0788,Anaesthesiology,Tirunelveli,Dr. Senthil Srinivasan,74,67,7,21,15,7,42,14,Floor 7,Block Emergency Wing,1126862,1488540,Yes,45,Fully Operational,4.5
+DEPT0789,Rheumatology,Salem,Dr. Vignesh Chelliah,108,73,35,7,4,22,56,24,Floor 6,Block Specialty Tower,1483759,1840563,Yes,43,Fully Operational,4.9
+DEPT0790,Oncology,Tiruchirappalli,Dr. Aravind Krishnan,70,12,58,24,4,10,42,17,Floor 5,Block Specialty Tower,704696,989083,Yes,48,Fully Operational,4
+DEPT0791,Psychiatry,Tirunelveli,Dr. Vignesh Kumar,102,34,68,7,3,11,27,17,Floor 7,Block B,1221887,1802099,Yes,25,Inspection Due,4.9
+DEPT0792,Cardiothoracic Surgery,Erode,Dr. Prakash Krishnan,40,39,1,15,10,10,42,20,Floor 2,Block A,952160,1752285,No,65,Under Maintenance,4.9
+DEPT0793,Nephrology,Tirunelveli,Dr. Ramesh Murugesan,75,66,9,13,4,18,59,22,Floor 2,Block Emergency Wing,494499,717283,Yes,19,Fully Operational,4.8
+DEPT0794,Gastroenterology,Tiruchirappalli,Dr. Prabhu Srinivasan,84,35,49,9,4,8,31,26,Floor 3,Block Emergency Wing,1002221,1388771,Yes,10,Inspection Due,4.4
+DEPT0795,Cardiology,Salem,Dr. Anand Natarajan,137,49,88,5,3,13,44,27,Floor 5,Block Emergency Wing,1299781,1548243,Yes,71,Fully Operational,4.3
+DEPT0796,Pulmonology,Tiruchirappalli,Dr. Murugan Venkatesh,65,29,36,12,8,11,43,26,Floor 4,Block C,448317,688686,Yes,80,Fully Operational,4.3
+DEPT0797,Pathology & Lab,Chennai (Adyar),Dr. Kannan Ganesan,43,27,16,4,3,6,50,10,Floor 1,Block D,777965,1200195,Yes,64,Fully Operational,4.5
+DEPT0798,Pediatrics,Madurai,Dr. Murugan Murugesan,100,76,24,23,11,24,32,28,Floor 7,Block Emergency Wing,931796,1607811,Yes,10,Fully Operational,4.7
+DEPT0799,Plastic Surgery,Tiruchirappalli,Dr. Mani Chandran,58,13,45,16,3,24,43,20,Floor 6,Block C,387995,565152,Yes,61,Under Maintenance,4.2
+DEPT0800,Vascular Surgery,Chennai (Adyar),Dr. Ramesh Swaminathan,142,58,84,7,5,17,46,11,Floor 5,Block A,697152,996585,Yes,27,Fully Operational,4.1
+DEPT0801,Cardiology,Vellore,Dr. Vijay Rajesh,62,52,10,16,12,23,22,14,Floor 1,Block C,944240,1552971,No,78,Fully Operational,5
+DEPT0802,Cardiology,Coimbatore,Dr. Vignesh Chelliah,49,14,35,23,17,16,37,20,Floor 1,Block A,352499,579185,Yes,33,Fully Operational,4.7
+DEPT0803,Pulmonology,Vellore,Dr. Kannan Kumar,56,45,11,17,4,11,17,8,Floor 4,Block C,1299529,2106812,No,26,Fully Operational,4.4
+DEPT0804,Cardiothoracic Surgery,Erode,Dr. Vijay Krishnan,102,38,64,22,5,7,20,14,Floor 6,Block D,520079,801405,No,49,Fully Operational,4.8
+DEPT0805,Pulmonology,Madurai,Dr. Ashok Subramanian,77,45,32,19,14,9,40,15,Floor 7,Block Specialty Tower,1117126,1970873,Yes,39,Under Maintenance,4.8
+DEPT0806,Radiology & Imaging,Thanjavur,Dr. Ramesh Srinivasan,65,16,49,10,6,5,32,20,Floor 1,Block B,815728,1444421,Yes,57,Fully Operational,4.6
+DEPT0807,Pathology & Lab,Coimbatore,Dr. Suresh Srinivasan,102,17,85,19,16,17,29,25,Floor 5,Block Specialty Tower,1265701,1697442,Yes,10,Fully Operational,4.8
+DEPT0808,Emergency & ICU,Chennai (Main),Dr. Vijay Venkatesh,62,38,24,5,2,24,30,10,Floor 1,Block Emergency Wing,683545,1084852,No,68,Under Maintenance,4.4
+DEPT0809,Ophthalmology,Chennai (Adyar),Dr. Anand Subramanian,97,50,47,15,5,17,18,14,Floor 6,Block C,531944,653103,Yes,13,Fully Operational,4.6
+DEPT0810,Rheumatology,Erode,Dr. Dinesh Natarajan,103,34,69,12,2,17,17,11,Floor 4,Block C,323814,399953,Yes,19,Fully Operational,4.1
+DEPT0811,Nephrology,Tirunelveli,Dr. Aravind Natarajan,58,21,37,23,16,9,44,21,Floor 4,Block Emergency Wing,1092650,1411930,No,67,Fully Operational,4.1
+DEPT0812,Pediatrics,Tirunelveli,Dr. Arun Srinivasan,100,96,4,24,5,17,56,24,Floor 6,Block B,1223864,1891965,Yes,16,Fully Operational,4.4
+DEPT0813,Pediatrics,Madurai,Dr. Ganesh Rajesh,70,19,51,17,11,16,46,8,Floor 5,Block Emergency Wing,668742,850220,Yes,23,Fully Operational,4.7
+DEPT0814,Psychiatry,Coimbatore,Dr. Arun Natarajan,107,14,93,13,5,6,26,12,Floor 5,Block C,1108534,1731952,No,53,Under Maintenance,4.1
+DEPT0815,Ophthalmology,Tiruchirappalli,Dr. Ganesh Kumar,105,104,1,7,4,15,31,19,Floor 2,Block Specialty Tower,317352,568667,Yes,82,Fully Operational,4.2
+DEPT0816,Plastic Surgery,Erode,Dr. Suresh Natarajan,108,82,26,10,5,8,53,12,Floor 3,Block Emergency Wing,522143,859129,Yes,16,Fully Operational,4.9
+DEPT0817,Dermatology,Chennai (Adyar),Dr. Siva Balaji,106,14,92,4,2,7,54,16,Floor 7,Block B,1087937,1651591,No,52,Inspection Due,4.8
+DEPT0818,Psychiatry,Vellore,Dr. Karthik Pandian,48,32,16,14,11,6,28,13,Floor 7,Block B,821564,1115319,Yes,23,Fully Operational,4.6
+DEPT0819,Urology,Salem,Dr. Senthil Raman,70,42,28,4,3,19,51,13,Floor 3,Block D,942059,1644612,Yes,75,Fully Operational,4.6
+DEPT0820,Dermatology,Coimbatore,Dr. Sundar Swaminathan,82,12,70,13,6,19,54,25,Floor 3,Block Specialty Tower,982121,1628971,Yes,55,Under Maintenance,4.4
+DEPT0821,Gynecology & Obstetrics,Salem,Dr. Saravanan Natarajan,105,82,23,22,20,21,32,18,Floor 4,Block C,1119409,1727323,Yes,15,Fully Operational,4.4
+DEPT0822,Anaesthesiology,Tirunelveli,Dr. Aravind Sundaram,138,32,106,15,5,22,54,16,Floor 5,Block Specialty Tower,735078,1130287,Yes,33,Fully Operational,4.3
+DEPT0823,Anaesthesiology,Chennai (Main),Dr. Ganesh Chandran,85,54,31,12,7,10,56,10,Floor 2,Block Emergency Wing,556196,708619,No,45,Fully Operational,4.4
+DEPT0824,Psychiatry,Chennai (Adyar),Dr. Karthik Srinivasan,47,11,36,22,16,6,50,8,Floor 3,Block Emergency Wing,532415,653665,Yes,48,Fully Operational,4.9
+DEPT0825,Psychiatry,Thanjavur,Dr. Vignesh Pandian,49,23,26,17,12,24,25,13,Floor 5,Block Specialty Tower,1211974,1671655,No,71,Fully Operational,4.6
+DEPT0826,Pediatric Surgery,Erode,Dr. Arun Krishnan,107,66,41,13,3,12,47,13,Floor 3,Block C,987933,1160745,No,76,Fully Operational,4.6
+DEPT0827,Gastroenterology,Chennai (Adyar),Dr. Karthik Natarajan,108,98,10,20,9,21,23,13,Floor 1,Block Emergency Wing,1000526,1622226,Yes,82,Fully Operational,4.5
+DEPT0828,Pathology & Lab,Chennai (Adyar),Dr. Mani Murugesan,72,16,56,6,3,16,50,20,Floor 6,Block Emergency Wing,1061816,1426766,Yes,65,Fully Operational,4.6
+DEPT0829,Oncology,Thanjavur,Dr. Kannan Ganesan,129,64,65,4,3,8,35,29,Floor 3,Block Emergency Wing,1392370,2501642,Yes,61,Fully Operational,4.9
+DEPT0830,Endocrinology,Thanjavur,Dr. Suresh Kumar,61,58,3,16,13,8,22,12,Floor 7,Block Emergency Wing,1390092,2259810,Yes,14,Fully Operational,4.1
+DEPT0831,Cardiothoracic Surgery,Tirunelveli,Dr. Kannan Sundaram,41,40,1,22,21,21,45,14,Floor 6,Block B,318226,584979,Yes,70,Fully Operational,4
+DEPT0832,General Medicine,Vellore,Dr. Suresh Srinivasan,118,98,20,9,3,5,17,24,Floor 7,Block D,1028871,1579529,Yes,21,Fully Operational,4.2
+DEPT0833,Rheumatology,Salem,Dr. Prakash Ganesan,107,87,20,17,7,21,16,15,Floor 4,Block B,1324483,1611293,Yes,13,Under Maintenance,4.5
+DEPT0834,General Medicine,Tirunelveli,Dr. Karthik Natarajan,143,66,77,6,2,5,53,28,Floor 5,Block Specialty Tower,839871,1373675,Yes,63,Fully Operational,4.5
+DEPT0835,Gastroenterology,Vellore,Dr. Murugan Kumar,118,83,35,6,4,24,43,19,Floor 1,Block A,929769,1305648,Yes,81,Fully Operational,4.2
+DEPT0836,Oncology,Tiruchirappalli,Dr. Siva Chelliah,146,143,3,17,2,11,38,16,Floor 3,Block C,1008481,1858536,Yes,48,Fully Operational,4.6
+DEPT0837,Gynecology & Obstetrics,Vellore,Dr. Sundar Natarajan,146,131,15,24,11,14,17,22,Floor 1,Block C,534257,775551,No,78,Inspection Due,4.6
+DEPT0838,Pathology & Lab,Salem,Dr. Murugan Raman,66,29,37,12,5,9,22,29,Floor 2,Block Specialty Tower,1445645,1980122,Yes,14,Fully Operational,4.2
+DEPT0839,Pediatrics,Tirunelveli,Dr. Dinesh Raman,64,17,47,24,3,12,37,15,Floor 4,Block Specialty Tower,1084402,1332540,No,62,Fully Operational,4.1
+DEPT0840,Pathology & Lab,Chennai (Adyar),Dr. Murugan Kumar,46,37,9,4,2,11,48,14,Floor 3,Block Emergency Wing,573016,799356,No,74,Fully Operational,4.5
+DEPT0841,Pediatric Surgery,Chennai (Main),Dr. Saravanan Sundaram,51,18,33,21,12,5,33,29,Floor 1,Block B,348838,522452,Yes,47,Fully Operational,4.1
+DEPT0842,ENT,Thanjavur,Dr. Prakash Sundaram,59,29,30,12,9,19,48,8,Floor 1,Block A,594887,1081577,No,44,Fully Operational,4.3
+DEPT0843,Pulmonology,Vellore,Dr. Siva Natarajan,109,106,3,24,17,19,53,9,Floor 2,Block A,1446747,1926814,Yes,65,Fully Operational,4.8
+DEPT0844,Neurology,Madurai,Dr. Ashok Venkatesh,104,99,5,22,12,21,39,17,Floor 4,Block A,338079,474014,Yes,78,Fully Operational,4.2
+DEPT0845,Ophthalmology,Coimbatore,Dr. Karthik Pandian,75,28,47,22,11,9,33,18,Floor 7,Block Emergency Wing,1293459,2080463,No,45,Fully Operational,4.4
+DEPT0846,Ophthalmology,Coimbatore,Dr. Ashok Pandian,73,57,16,4,2,22,43,20,Floor 5,Block A,928759,1371012,Yes,42,Fully Operational,4.6
+DEPT0847,Cardiothoracic Surgery,Thanjavur,Dr. Prakash Venkatesh,127,80,47,21,11,19,50,23,Floor 7,Block D,932551,1711739,Yes,75,Fully Operational,4.5
+DEPT0848,Emergency & ICU,Chennai (Main),Dr. Ashok Sundaram,129,101,28,4,2,16,51,25,Floor 4,Block B,542723,921112,Yes,70,Fully Operational,4.6
+DEPT0849,Neurology,Chennai (Main),Dr. Dinesh Srinivasan,149,140,9,18,12,9,45,29,Floor 3,Block Specialty Tower,1073317,1681182,Yes,16,Fully Operational,4.6
+DEPT0850,Endocrinology,Chennai (Adyar),Dr. Prabhu Natarajan,43,10,33,12,7,12,29,22,Floor 2,Block Specialty Tower,401967,466684,Yes,76,Fully Operational,4.4
+DEPT0851,Orthopedics,Thanjavur,Dr. Saravanan Raman,95,93,2,5,3,24,39,27,Floor 1,Block Emergency Wing,473453,798170,No,71,Fully Operational,4.2
+DEPT0852,Cardiology,Salem,Dr. Ashok Balaji,133,120,13,14,7,17,56,26,Floor 6,Block Emergency Wing,814938,1231728,No,32,Fully Operational,5
+DEPT0853,Cardiothoracic Surgery,Tirunelveli,Dr. Vijay Kumar,93,70,23,18,15,23,19,11,Floor 7,Block Emergency Wing,683094,786133,Yes,64,Fully Operational,5
+DEPT0854,Emergency & ICU,Thanjavur,Dr. Ashok Srinivasan,116,109,7,24,14,12,59,22,Floor 4,Block D,585356,705399,Yes,41,Fully Operational,4.4
+DEPT0855,Emergency & ICU,Tiruchirappalli,Dr. Kannan Venkatesh,134,29,105,11,10,23,34,22,Floor 2,Block Specialty Tower,1262217,2054984,Yes,20,Fully Operational,4.8
+DEPT0856,Gynecology & Obstetrics,Tirunelveli,Dr. Karthik Natarajan,106,37,69,17,5,9,29,13,Floor 6,Block Specialty Tower,446104,684029,Yes,81,Fully Operational,4.6
+DEPT0857,Oncology,Erode,Dr. Aravind Murugesan,92,60,32,8,2,24,17,26,Floor 5,Block Specialty Tower,637282,1155737,Yes,81,Fully Operational,4.4
+DEPT0858,Psychiatry,Thanjavur,Dr. Mani Sundaram,46,25,21,4,3,23,17,13,Floor 4,Block D,692963,1194995,Yes,26,Fully Operational,4.9
+DEPT0859,Vascular Surgery,Madurai,Dr. Prakash Natarajan,127,103,24,11,7,14,43,15,Floor 6,Block A,835539,1298016,No,69,Fully Operational,4.9
+DEPT0860,Plastic Surgery,Erode,Dr. Senthil Subramanian,145,45,100,12,7,5,19,16,Floor 5,Block Specialty Tower,1394633,1632000,Yes,52,Fully Operational,4.2
+DEPT0861,Endocrinology,Erode,Dr. Ramesh Chandran,80,51,29,13,3,8,22,21,Floor 1,Block Emergency Wing,698231,844636,Yes,73,Inspection Due,4.4
+DEPT0862,Endocrinology,Tirunelveli,Dr. Karthik Subramanian,134,27,107,6,5,23,39,20,Floor 7,Block B,1478350,2521528,Yes,48,Fully Operational,4.7
+DEPT0863,Vascular Surgery,Madurai,Dr. Suresh Rajesh,82,58,24,13,9,21,45,28,Floor 2,Block Specialty Tower,834968,990408,Yes,21,Fully Operational,4.2
+DEPT0864,ENT,Tiruchirappalli,Dr. Sundar Rajesh,74,57,17,18,8,19,59,13,Floor 7,Block A,346659,603965,Yes,36,Fully Operational,4.4
+DEPT0865,Anaesthesiology,Salem,Dr. Ganesh Krishnan,48,43,5,7,2,19,59,27,Floor 2,Block D,1358162,2258685,Yes,17,Fully Operational,4.2
+DEPT0866,Orthopedics,Chennai (Adyar),Dr. Senthil Venkatesh,130,68,62,17,7,19,28,14,Floor 2,Block Emergency Wing,364873,653547,No,38,Fully Operational,4.7
+DEPT0867,Gastroenterology,Vellore,Dr. Prabhu Chandran,43,40,3,6,2,7,40,25,Floor 1,Block D,778921,1062636,Yes,41,Fully Operational,5
+DEPT0868,Cardiology,Coimbatore,Dr. Arun Chelliah,124,44,80,8,4,11,20,21,Floor 5,Block A,473625,666367,Yes,81,Fully Operational,4.3
+DEPT0869,Neurology,Chennai (Main),Dr. Dinesh Chelliah,128,120,8,4,3,7,19,12,Floor 4,Block A,660372,931996,No,17,Fully Operational,4.4
+DEPT0870,Neurology,Coimbatore,Dr. Saravanan Rajesh,108,62,46,23,20,16,15,14,Floor 1,Block B,1273738,2104714,Yes,38,Under Maintenance,4.3
+DEPT0871,Psychiatry,Chennai (Adyar),Dr. Ganesh Chandran,69,32,37,24,23,19,35,27,Floor 7,Block D,1386356,2120973,No,60,Fully Operational,4.4
+DEPT0872,Psychiatry,Chennai (Adyar),Dr. Suresh Rajesh,88,15,73,24,23,9,21,8,Floor 5,Block C,588384,790114,Yes,12,Fully Operational,4.4
+DEPT0873,Ophthalmology,Tiruchirappalli,Dr. Suresh Pandian,93,36,57,9,6,12,59,25,Floor 7,Block D,669956,1237470,Yes,55,Inspection Due,4.4
+DEPT0874,Nephrology,Salem,Dr. Ashok Kumar,149,53,96,12,11,22,20,11,Floor 7,Block B,1146444,1381046,Yes,53,Fully Operational,4.2
+DEPT0875,Radiology & Imaging,Chennai (Adyar),Dr. Aravind Rajesh,99,83,16,20,16,23,23,11,Floor 7,Block C,387087,592220,No,16,Under Maintenance,4.1
+DEPT0876,Pulmonology,Chennai (Main),Dr. Dinesh Balaji,131,122,9,6,4,10,45,13,Floor 7,Block C,661949,978126,Yes,31,Inspection Due,5
+DEPT0877,Anaesthesiology,Erode,Dr. Siva Venkatesh,60,38,22,14,6,7,45,21,Floor 3,Block A,1086360,1531574,Yes,53,Fully Operational,4.6
+DEPT0878,Plastic Surgery,Chennai (Main),Dr. Dinesh Raman,119,13,106,11,3,18,39,22,Floor 4,Block A,1024353,1229551,Yes,18,Fully Operational,5
+DEPT0879,Anaesthesiology,Chennai (Main),Dr. Prakash Kumar,113,64,49,9,5,22,15,10,Floor 7,Block D,1260905,1748843,Yes,83,Under Maintenance,4.9
+DEPT0880,Pediatrics,Vellore,Dr. Ganesh Sundaram,129,73,56,11,7,24,39,23,Floor 4,Block A,527977,755847,No,69,Fully Operational,4.5
+DEPT0881,Gynecology & Obstetrics,Salem,Dr. Saravanan Srinivasan,92,75,17,15,5,18,33,27,Floor 7,Block C,551536,808811,No,37,Fully Operational,4.7
+DEPT0882,Vascular Surgery,Erode,Dr. Saravanan Krishnan,83,51,32,11,7,19,26,13,Floor 4,Block D,634132,1037980,Yes,17,Fully Operational,4.4
+DEPT0883,Gynecology & Obstetrics,Tiruchirappalli,Dr. Murugan Ganesan,46,35,11,18,9,21,56,27,Floor 6,Block A,672335,1232780,Yes,46,Fully Operational,4.1
+DEPT0884,Cardiothoracic Surgery,Tirunelveli,Dr. Senthil Srinivasan,142,120,22,20,2,13,36,21,Floor 4,Block Emergency Wing,833893,1052871,Yes,13,Fully Operational,4.7
+DEPT0885,Cardiology,Coimbatore,Dr. Siva Balaji,93,34,59,18,7,24,16,22,Floor 4,Block D,730754,1305188,Yes,23,Fully Operational,4.4
+DEPT0886,Cardiology,Coimbatore,Dr. Ganesh Subramanian,75,67,8,12,8,20,17,27,Floor 4,Block B,633175,732623,Yes,76,Inspection Due,4.2
+DEPT0887,ENT,Vellore,Dr. Dinesh Swaminathan,92,76,16,7,6,16,35,16,Floor 1,Block Specialty Tower,1353414,2068078,Yes,73,Fully Operational,4.8
+DEPT0888,Psychiatry,Tirunelveli,Dr. Sundar Subramanian,121,20,101,15,3,6,37,8,Floor 7,Block B,425812,597007,Yes,18,Fully Operational,4.7
+DEPT0889,Pulmonology,Tiruchirappalli,Dr. Siva Raman,102,42,60,7,4,24,23,15,Floor 5,Block D,1097118,1395959,No,47,Inspection Due,4.5
+DEPT0890,ENT,Coimbatore,Dr. Aravind Ganesan,147,120,27,10,4,8,35,16,Floor 6,Block B,865438,1088540,Yes,30,Fully Operational,4.6
+DEPT0891,Urology,Erode,Dr. Anand Venkatesh,127,67,60,21,5,19,48,9,Floor 2,Block C,366141,486022,Yes,28,Under Maintenance,4.9
+DEPT0892,Radiology & Imaging,Coimbatore,Dr. Mani Rajesh,93,15,78,20,15,18,34,20,Floor 3,Block D,1279298,2283188,No,54,Fully Operational,4.3
+DEPT0893,Orthopedics,Madurai,Dr. Mani Raman,123,63,60,24,16,21,46,17,Floor 1,Block Specialty Tower,809740,1029622,Yes,12,Fully Operational,4.5
+DEPT0894,Nephrology,Madurai,Dr. Prabhu Srinivasan,139,108,31,10,3,7,16,22,Floor 1,Block A,842353,1479804,Yes,21,Fully Operational,4.7
+DEPT0895,ENT,Chennai (Adyar),Dr. Arun Chandran,70,42,28,7,6,23,57,20,Floor 7,Block Emergency Wing,675360,937785,No,36,Fully Operational,4.7
+DEPT0896,Endocrinology,Tirunelveli,Dr. Ashok Kumar,127,88,39,6,5,16,51,24,Floor 7,Block Specialty Tower,1387881,1695325,Yes,15,Fully Operational,4.9
+DEPT0897,Neurology,Vellore,Dr. Ashok Krishnan,95,16,79,22,18,17,40,9,Floor 4,Block B,1296497,1973895,Yes,33,Fully Operational,4.3
+DEPT0898,Vascular Surgery,Tiruchirappalli,Dr. Senthil Natarajan,94,86,8,8,5,18,52,29,Floor 1,Block A,872569,1571098,Yes,63,Fully Operational,4.9
+DEPT0899,Gynecology & Obstetrics,Vellore,Dr. Suresh Swaminathan,83,79,4,4,2,20,29,9,Floor 1,Block C,1341788,2021242,Yes,10,Fully Operational,4.2
+DEPT0900,Anaesthesiology,Madurai,Dr. Prakash Balaji,53,22,31,23,10,13,26,17,Floor 6,Block B,869505,1127601,Yes,15,Under Maintenance,4.4
+DEPT0901,Rheumatology,Erode,Dr. Ganesh Murugesan,49,18,31,22,2,8,17,17,Floor 4,Block B,1370213,2154292,Yes,39,Fully Operational,4.7
+DEPT0902,ENT,Erode,Dr. Anand Kumar,68,45,23,21,13,21,23,26,Floor 6,Block Specialty Tower,664413,1090584,Yes,63,Fully Operational,4.1
+DEPT0903,Vascular Surgery,Tirunelveli,Dr. Siva Venkatesh,111,96,15,14,3,10,26,22,Floor 4,Block Specialty Tower,1261800,2110662,Yes,81,Fully Operational,4.3
+DEPT0904,Gynecology & Obstetrics,Coimbatore,Dr. Senthil Natarajan,82,38,44,13,3,13,38,10,Floor 7,Block C,995089,1625621,Yes,38,Fully Operational,4.4
+DEPT0905,Endocrinology,Thanjavur,Dr. Siva Chandran,59,23,36,16,15,12,27,22,Floor 3,Block A,432053,631332,No,12,Fully Operational,4
+DEPT0906,Oncology,Erode,Dr. Anand Balaji,119,51,68,24,11,10,36,24,Floor 5,Block Specialty Tower,362979,462448,Yes,71,Fully Operational,4.3
+DEPT0907,Rheumatology,Tiruchirappalli,Dr. Vijay Kumar,101,99,2,22,3,13,59,25,Floor 1,Block B,993032,1610334,No,67,Fully Operational,4.1
+DEPT0908,Orthopedics,Vellore,Dr. Senthil Raman,143,95,48,11,8,23,54,17,Floor 1,Block A,1013708,1799809,No,50,Fully Operational,4.4
+DEPT0909,Urology,Vellore,Dr. Suresh Venkatesh,80,18,62,11,9,7,27,26,Floor 2,Block A,525743,738586,Yes,75,Fully Operational,4.9
+DEPT0910,Plastic Surgery,Chennai (Main),Dr. Dinesh Sundaram,59,14,45,10,3,15,46,25,Floor 3,Block B,701252,1005773,No,77,Under Maintenance,4.7
+DEPT0911,Pulmonology,Salem,Dr. Vignesh Swaminathan,84,67,17,7,3,13,32,24,Floor 2,Block A,787702,1440665,Yes,46,Fully Operational,4.5
+DEPT0912,Nephrology,Thanjavur,Dr. Suresh Pandian,83,26,57,16,5,20,56,28,Floor 2,Block B,1434942,1982014,Yes,42,Inspection Due,4.7
+DEPT0913,Oncology,Thanjavur,Dr. Anand Raman,143,48,95,12,11,16,29,22,Floor 4,Block D,1233750,1815469,Yes,56,Fully Operational,4.9
+DEPT0914,Anaesthesiology,Chennai (Main),Dr. Sundar Subramanian,108,106,2,4,2,10,51,9,Floor 1,Block Emergency Wing,1391706,2284554,Yes,56,Fully Operational,4.7
+DEPT0915,Neurology,Chennai (Adyar),Dr. Ganesh Rajesh,147,139,8,18,15,14,36,15,Floor 1,Block Emergency Wing,580199,878674,Yes,54,Fully Operational,4.8
+DEPT0916,Oncology,Coimbatore,Dr. Mani Murugesan,44,36,8,9,7,12,53,28,Floor 2,Block Specialty Tower,490606,849732,Yes,41,Fully Operational,4.3
+DEPT0917,Urology,Chennai (Adyar),Dr. Ramesh Krishnan,50,41,9,11,5,5,54,15,Floor 3,Block C,1361757,1910226,No,33,Fully Operational,4.5
+DEPT0918,Pulmonology,Madurai,Dr. Arun Ganesan,85,84,1,16,13,11,24,8,Floor 5,Block Emergency Wing,905848,1597384,Yes,75,Under Maintenance,4.7
+DEPT0919,Pulmonology,Coimbatore,Dr. Mani Krishnan,117,76,41,19,2,16,44,21,Floor 3,Block Specialty Tower,719794,1303685,Yes,59,Fully Operational,4.4
+DEPT0920,Oncology,Madurai,Dr. Anand Ganesan,45,27,18,11,6,19,17,9,Floor 7,Block A,963399,1129721,Yes,38,Fully Operational,4.9
+DEPT0921,Vascular Surgery,Tirunelveli,Dr. Murugan Krishnan,121,45,76,22,14,24,35,9,Floor 3,Block A,376313,689277,Yes,60,Inspection Due,4.9
+DEPT0922,Emergency & ICU,Vellore,Dr. Ramesh Subramanian,139,73,66,22,13,17,39,11,Floor 1,Block D,542174,738402,Yes,14,Under Maintenance,4.4
+DEPT0923,Rheumatology,Salem,Dr. Ramesh Raman,45,25,20,5,4,5,44,18,Floor 4,Block Emergency Wing,1186358,2145418,No,11,Fully Operational,4.5
+DEPT0924,Psychiatry,Chennai (Main),Dr. Dinesh Krishnan,144,36,108,8,5,17,33,17,Floor 4,Block A,808365,1269742,Yes,84,Under Maintenance,5
+DEPT0925,Dermatology,Erode,Dr. Siva Krishnan,114,67,47,19,12,20,37,19,Floor 3,Block C,534625,977328,Yes,33,Under Maintenance,4.4
+DEPT0926,Plastic Surgery,Chennai (Adyar),Dr. Sundar Raman,41,10,31,23,3,13,55,23,Floor 3,Block C,1148677,1509959,Yes,39,Fully Operational,4.2
+DEPT0927,Plastic Surgery,Salem,Dr. Suresh Pandian,138,13,125,13,4,10,15,15,Floor 1,Block Specialty Tower,1241650,1443919,Yes,40,Fully Operational,4.2
+DEPT0928,Orthopedics,Vellore,Dr. Ashok Venkatesh,84,68,16,21,13,16,47,27,Floor 1,Block Emergency Wing,1189147,1577625,Yes,58,Fully Operational,4.8
+DEPT0929,Vascular Surgery,Thanjavur,Dr. Ramesh Balaji,111,71,40,11,9,13,17,29,Floor 5,Block D,1450675,2254520,Yes,14,Fully Operational,4.1
+DEPT0930,Gynecology & Obstetrics,Madurai,Dr. Arun Ganesan,101,11,90,15,4,6,28,23,Floor 5,Block B,575631,899975,No,38,Fully Operational,4.4
+DEPT0931,Cardiothoracic Surgery,Tirunelveli,Dr. Anand Krishnan,148,77,71,17,11,14,24,19,Floor 2,Block B,1333622,1601135,Yes,62,Fully Operational,4
+DEPT0932,Orthopedics,Chennai (Main),Dr. Mani Ganesan,125,55,70,16,15,13,40,9,Floor 3,Block A,595206,897927,No,32,Fully Operational,4
+DEPT0933,Pulmonology,Erode,Dr. Dinesh Sundaram,40,37,3,20,16,18,28,17,Floor 2,Block C,686757,1178768,Yes,46,Fully Operational,4.9
+DEPT0934,Pediatrics,Chennai (Main),Dr. Prakash Pandian,109,32,77,11,3,19,37,29,Floor 1,Block Specialty Tower,953114,1197052,No,18,Fully Operational,4.2
+DEPT0935,ENT,Madurai,Dr. Mani Pandian,121,105,16,20,17,17,50,11,Floor 5,Block Specialty Tower,1004991,1852526,No,55,Fully Operational,4.3
+DEPT0936,Radiology & Imaging,Coimbatore,Dr. Senthil Kumar,149,54,95,7,4,19,29,9,Floor 3,Block B,668406,806504,Yes,80,Fully Operational,4.3
+DEPT0937,Plastic Surgery,Erode,Dr. Prakash Raman,137,121,16,5,4,10,15,18,Floor 2,Block B,508990,925541,Yes,60,Fully Operational,4.5
+DEPT0938,General Medicine,Tirunelveli,Dr. Prabhu Raman,56,34,22,13,7,9,54,15,Floor 6,Block Emergency Wing,412620,638630,No,12,Under Maintenance,4.9
+DEPT0939,Psychiatry,Chennai (Main),Dr. Vignesh Swaminathan,123,60,63,20,3,7,49,13,Floor 2,Block Specialty Tower,923761,1244046,Yes,42,Under Maintenance,4.8
+DEPT0940,General Medicine,Tiruchirappalli,Dr. Anand Murugesan,134,117,17,23,3,20,29,20,Floor 2,Block D,852561,1462959,No,34,Fully Operational,4
+DEPT0941,Gastroenterology,Vellore,Dr. Sundar Rajesh,92,52,40,9,3,12,17,9,Floor 3,Block Specialty Tower,917064,1432754,Yes,37,Fully Operational,4.2
+DEPT0942,Psychiatry,Madurai,Dr. Prabhu Subramanian,68,25,43,24,16,6,49,29,Floor 4,Block D,1252573,2156647,Yes,50,Inspection Due,4.4
+DEPT0943,Nephrology,Tirunelveli,Dr. Ashok Pandian,128,41,87,22,4,16,49,22,Floor 1,Block B,432639,505264,Yes,78,Fully Operational,4.5
+DEPT0944,Pulmonology,Coimbatore,Dr. Dinesh Balaji,76,64,12,12,2,24,47,15,Floor 3,Block B,569283,817368,Yes,72,Inspection Due,4.8
+DEPT0945,Cardiothoracic Surgery,Erode,Dr. Kannan Rajesh,44,21,23,16,7,12,29,20,Floor 1,Block Specialty Tower,1057758,1514186,Yes,10,Inspection Due,4.3
+DEPT0946,ENT,Salem,Dr. Senthil Ganesan,83,15,68,11,6,14,58,24,Floor 6,Block A,453033,526632,Yes,71,Fully Operational,4.9
+DEPT0947,Cardiology,Chennai (Main),Dr. Senthil Balaji,50,27,23,18,10,16,43,25,Floor 5,Block Emergency Wing,1376956,2080601,Yes,11,Fully Operational,4.7
+DEPT0948,Cardiology,Coimbatore,Dr. Karthik Srinivasan,130,63,67,16,8,24,49,16,Floor 5,Block Specialty Tower,1092976,1820401,No,40,Fully Operational,4
+DEPT0949,Ophthalmology,Chennai (Adyar),Dr. Ganesh Krishnan,135,62,73,19,6,16,42,13,Floor 6,Block B,1094895,1420448,Yes,50,Fully Operational,4.2
+DEPT0950,Urology,Vellore,Dr. Vijay Swaminathan,121,86,35,8,4,6,25,8,Floor 5,Block Specialty Tower,1062129,1903699,Yes,81,Fully Operational,4.2
+DEPT0951,Pulmonology,Coimbatore,Dr. Karthik Chandran,132,81,51,4,3,13,33,28,Floor 1,Block Emergency Wing,926264,1292604,Yes,42,Fully Operational,5
+DEPT0952,Plastic Surgery,Chennai (Main),Dr. Ganesh Subramanian,54,15,39,8,6,22,42,10,Floor 3,Block Specialty Tower,1224577,2046165,No,35,Fully Operational,4.6
+DEPT0953,Urology,Thanjavur,Dr. Aravind Venkatesh,124,57,67,11,3,11,33,14,Floor 7,Block Specialty Tower,558432,682384,Yes,47,Fully Operational,4.4
+DEPT0954,Orthopedics,Madurai,Dr. Saravanan Raman,129,98,31,13,9,16,17,25,Floor 7,Block B,1059904,1898700,Yes,27,Under Maintenance,4.9
+DEPT0955,General Medicine,Salem,Dr. Prabhu Murugesan,48,32,16,17,12,11,45,9,Floor 6,Block Specialty Tower,487460,620893,Yes,47,Fully Operational,4.3
+DEPT0956,Cardiothoracic Surgery,Chennai (Main),Dr. Senthil Ganesan,72,51,21,6,2,23,56,23,Floor 1,Block Specialty Tower,1105064,1494246,Yes,43,Fully Operational,4
+DEPT0957,Endocrinology,Salem,Dr. Prabhu Srinivasan,106,24,82,7,6,10,34,24,Floor 7,Block Emergency Wing,1400221,2276639,Yes,54,Fully Operational,4.2
+DEPT0958,Vascular Surgery,Tiruchirappalli,Dr. Sundar Chelliah,60,34,26,20,19,11,33,27,Floor 7,Block Emergency Wing,765393,1396767,Yes,73,Fully Operational,4.5
+DEPT0959,Rheumatology,Chennai (Adyar),Dr. Dinesh Chandran,127,59,68,20,16,24,23,10,Floor 4,Block C,1013757,1298648,No,56,Inspection Due,4.7
+DEPT0960,Gastroenterology,Salem,Dr. Kannan Subramanian,148,106,42,8,5,21,53,23,Floor 4,Block Specialty Tower,1167595,1916448,No,18,Under Maintenance,4.7
+DEPT0961,Pulmonology,Chennai (Adyar),Dr. Vijay Ganesan,87,83,4,6,5,10,37,12,Floor 2,Block C,681610,872574,Yes,52,Fully Operational,4.2
+DEPT0962,Vascular Surgery,Salem,Dr. Anand Krishnan,122,54,68,13,12,10,16,8,Floor 3,Block C,360964,545358,Yes,45,Fully Operational,4.7
+DEPT0963,Ophthalmology,Tiruchirappalli,Dr. Kannan Subramanian,61,26,35,20,15,18,31,15,Floor 2,Block B,618316,844737,Yes,47,Fully Operational,4.6
+DEPT0964,Gynecology & Obstetrics,Madurai,Dr. Mani Krishnan,65,46,19,12,7,20,33,18,Floor 5,Block B,759319,956471,Yes,66,Fully Operational,4.1
+DEPT0965,Cardiothoracic Surgery,Madurai,Dr. Ganesh Chelliah,112,92,20,18,4,6,56,26,Floor 1,Block D,1114356,1837376,Yes,75,Fully Operational,4.3
+DEPT0966,Nephrology,Tiruchirappalli,Dr. Ashok Venkatesh,108,65,43,15,5,10,23,19,Floor 2,Block Emergency Wing,1141688,1781552,Yes,66,Inspection Due,4.6
+DEPT0967,ENT,Salem,Dr. Ganesh Srinivasan,142,16,126,7,4,11,50,20,Floor 4,Block A,896575,1294693,Yes,35,Fully Operational,4.7
+DEPT0968,Urology,Coimbatore,Dr. Murugan Kumar,139,106,33,17,14,17,38,22,Floor 7,Block A,713437,1308608,Yes,21,Fully Operational,4.3
+DEPT0969,Anaesthesiology,Vellore,Dr. Mani Pandian,67,47,20,12,4,18,57,13,Floor 6,Block C,1407666,2238248,No,65,Fully Operational,5
+DEPT0970,Ophthalmology,Tirunelveli,Dr. Senthil Srinivasan,98,48,50,22,4,6,55,29,Floor 6,Block C,859268,1526317,No,51,Inspection Due,4.3
+DEPT0971,ENT,Salem,Dr. Kannan Balaji,46,13,33,18,13,20,20,16,Floor 3,Block D,1183513,1921407,Yes,19,Inspection Due,4.1
+DEPT0972,Endocrinology,Erode,Dr. Murugan Natarajan,79,19,60,5,2,11,54,23,Floor 3,Block B,1095043,1810292,Yes,16,Fully Operational,4.9
+DEPT0973,Endocrinology,Salem,Dr. Kannan Rajesh,51,16,35,4,2,24,28,22,Floor 3,Block B,825608,1083248,No,48,Fully Operational,4.7
+DEPT0974,Cardiology,Chennai (Adyar),Dr. Dinesh Kumar,52,16,36,12,4,19,53,8,Floor 6,Block C,984873,1500498,Yes,59,Fully Operational,4.2
+DEPT0975,Vascular Surgery,Vellore,Dr. Mani Swaminathan,41,24,17,16,14,20,22,18,Floor 6,Block B,958934,1263002,Yes,82,Fully Operational,4.4
+DEPT0976,ENT,Tirunelveli,Dr. Prakash Srinivasan,123,28,95,7,5,14,38,20,Floor 5,Block D,989837,1802518,Yes,80,Inspection Due,4.9
+DEPT0977,Pulmonology,Erode,Dr. Mani Chandran,147,136,11,4,2,7,20,21,Floor 7,Block Specialty Tower,595943,876238,Yes,29,Inspection Due,4.8
+DEPT0978,Pediatric Surgery,Chennai (Main),Dr. Vijay Venkatesh,49,43,6,7,6,8,30,22,Floor 2,Block Specialty Tower,1473279,2057188,Yes,74,Fully Operational,4.6
+DEPT0979,Gastroenterology,Tiruchirappalli,Dr. Aravind Chelliah,112,58,54,19,5,14,46,10,Floor 7,Block D,781204,1324722,No,47,Inspection Due,4.8
+DEPT0980,Cardiology,Coimbatore,Dr. Prakash Pandian,59,46,13,12,7,21,33,15,Floor 7,Block Emergency Wing,1199054,1664565,Yes,16,Under Maintenance,4.6
+DEPT0981,Oncology,Coimbatore,Dr. Vignesh Natarajan,123,41,82,19,8,11,34,20,Floor 3,Block D,970247,1137256,No,77,Fully Operational,4.3
+DEPT0982,Ophthalmology,Chennai (Adyar),Dr. Suresh Ganesan,114,52,62,21,9,11,42,21,Floor 7,Block D,1137160,1793704,Yes,60,Fully Operational,4.1
+DEPT0983,Pediatrics,Salem,Dr. Aravind Murugesan,46,18,28,17,16,17,56,21,Floor 2,Block Emergency Wing,837942,1414919,Yes,60,Fully Operational,4.2
+DEPT0984,ENT,Chennai (Adyar),Dr. Ramesh Ganesan,78,39,39,12,3,15,33,18,Floor 2,Block C,513699,706742,Yes,72,Under Maintenance,4.5
+DEPT0985,Vascular Surgery,Tiruchirappalli,Dr. Senthil Swaminathan,129,113,16,10,4,18,29,24,Floor 5,Block A,602789,765386,No,21,Fully Operational,4.2
+DEPT0986,Oncology,Madurai,Dr. Sundar Raman,102,95,7,11,3,13,21,25,Floor 3,Block Emergency Wing,1131022,2030894,Yes,66,Fully Operational,4
+DEPT0987,Gynecology & Obstetrics,Thanjavur,Dr. Senthil Raman,84,59,25,5,4,9,29,28,Floor 1,Block B,1143487,1325899,Yes,46,Fully Operational,4
+DEPT0988,General Medicine,Vellore,Dr. Sundar Chandran,79,55,24,19,7,12,48,26,Floor 3,Block A,633060,1028098,No,57,Fully Operational,4.8
+DEPT0989,Psychiatry,Erode,Dr. Karthik Natarajan,134,34,100,24,9,5,21,14,Floor 3,Block A,1319530,1815340,No,50,Fully Operational,4.4
+DEPT0990,Neurology,Chennai (Adyar),Dr. Karthik Pandian,106,49,57,8,5,9,25,19,Floor 6,Block A,442412,616464,Yes,22,Fully Operational,4.7
+DEPT0991,Rheumatology,Madurai,Dr. Ramesh Kumar,87,23,64,4,2,17,15,9,Floor 1,Block Emergency Wing,804703,1414010,Yes,56,Fully Operational,4.2
+DEPT0992,Pulmonology,Salem,Dr. Arun Swaminathan,140,55,85,9,4,8,46,8,Floor 2,Block Emergency Wing,1135134,2087014,Yes,53,Fully Operational,4.5
+DEPT0993,Gynecology & Obstetrics,Erode,Dr. Ganesh Chelliah,97,73,24,5,3,16,49,14,Floor 1,Block A,521120,666351,No,77,Fully Operational,4.3
+DEPT0994,Vascular Surgery,Erode,Dr. Karthik Rajesh,66,27,39,21,14,18,25,14,Floor 2,Block Emergency Wing,469173,828292,Yes,23,Fully Operational,4.6
+DEPT0995,Psychiatry,Vellore,Dr. Vijay Pandian,148,128,20,14,4,19,22,27,Floor 2,Block C,535612,685907,Yes,66,Fully Operational,4.3
+DEPT0996,Pulmonology,Tirunelveli,Dr. Suresh Srinivasan,94,16,78,19,9,14,25,9,Floor 4,Block D,872723,1544423,Yes,21,Fully Operational,4.9
+DEPT0997,Orthopedics,Coimbatore,Dr. Arun Kumar,111,71,40,12,10,12,55,13,Floor 4,Block Emergency Wing,703125,1061066,Yes,32,Fully Operational,4.7
+DEPT0998,Radiology & Imaging,Chennai (Main),Dr. Arun Natarajan,125,19,106,11,6,9,21,20,Floor 6,Block Emergency Wing,1058175,1921097,Yes,73,Fully Operational,4.5
+DEPT0999,Pediatrics,Madurai,Dr. Murugan Chelliah,83,18,65,4,2,16,34,20,Floor 7,Block Specialty Tower,763593,1165955,Yes,15,Under Maintenance,4.2
+DEPT1000,Nephrology,Madurai,Dr. Karthik Chelliah,145,123,22,19,14,19,16,27,Floor 4,Block A,1087670,1650316,Yes,10,Fully Operational,4.6
+DEPT1001,Radiology & Imaging,Tirunelveli,Dr. Prakash Krishnan,99,36,63,5,4,23,33,14,Floor 4,Block C,1291166,1659045,Yes,70,Fully Operational,4.1
+DEPT1002,Radiology & Imaging,Erode,Dr. Murugan Murugesan,53,18,35,9,7,9,15,8,Floor 1,Block Specialty Tower,1298931,1922621,Yes,76,Inspection Due,4.6
+DEPT1003,Emergency & ICU,Erode,Dr. Ganesh Raman,127,55,72,19,18,15,48,12,Floor 7,Block Emergency Wing,624857,881350,Yes,81,Under Maintenance,4.6
+DEPT1004,Nephrology,Tirunelveli,Dr. Arun Natarajan,133,123,10,24,3,13,16,14,Floor 7,Block Specialty Tower,987477,1736191,Yes,58,Fully Operational,4.7
+DEPT1005,Nephrology,Thanjavur,Dr. Vijay Ganesan,47,28,19,18,17,12,54,26,Floor 1,Block Specialty Tower,530119,808985,Yes,79,Fully Operational,4.8
+DEPT1006,Endocrinology,Tiruchirappalli,Dr. Kannan Chelliah,56,36,20,23,6,23,53,10,Floor 5,Block Specialty Tower,712655,1174921,Yes,61,Under Maintenance,4.9
+DEPT1007,Nephrology,Tirunelveli,Dr. Sundar Sundaram,85,37,48,5,4,21,18,20,Floor 2,Block C,1036626,1646109,Yes,81,Fully Operational,4.8
+DEPT1008,Vascular Surgery,Thanjavur,Dr. Anand Srinivasan,82,78,4,12,5,15,18,28,Floor 3,Block A,989286,1407989,No,40,Inspection Due,4.8
+DEPT1009,General Medicine,Chennai (Adyar),Dr. Kannan Kumar,49,16,33,8,6,20,38,27,Floor 6,Block Specialty Tower,1433522,1710430,No,22,Fully Operational,4.4
+DEPT1010,Pulmonology,Chennai (Adyar),Dr. Aravind Swaminathan,67,13,54,15,6,21,50,27,Floor 2,Block B,372264,637549,Yes,11,Fully Operational,4.3
+DEPT1011,Neurology,Madurai,Dr. Prakash Chelliah,106,68,38,5,4,19,31,23,Floor 4,Block Emergency Wing,1151168,1957709,Yes,76,Fully Operational,4.4
+DEPT1012,Urology,Vellore,Dr. Aravind Swaminathan,89,50,39,11,7,23,19,24,Floor 5,Block Specialty Tower,485128,850765,Yes,49,Fully Operational,4.1
+DEPT1013,Nephrology,Chennai (Adyar),Dr. Senthil Ganesan,119,58,61,10,7,23,37,15,Floor 1,Block Emergency Wing,564952,694905,No,49,Fully Operational,4
+DEPT1014,Nephrology,Erode,Dr. Karthik Venkatesh,64,34,30,24,5,8,23,22,Floor 2,Block B,417574,502233,No,41,Fully Operational,4.5
+DEPT1015,Gastroenterology,Chennai (Main),Dr. Aravind Srinivasan,55,21,34,13,3,22,27,13,Floor 4,Block D,1375811,1765247,Yes,73,Under Maintenance,4.5
+DEPT1016,Neurology,Salem,Dr. Siva Srinivasan,123,99,24,18,8,11,43,9,Floor 4,Block A,349460,565719,Yes,66,Fully Operational,4.7
+DEPT1017,Pathology & Lab,Erode,Dr. Saravanan Balaji,47,32,15,17,5,18,24,29,Floor 6,Block Specialty Tower,676783,1032044,Yes,67,Fully Operational,4.3
+DEPT1018,Emergency & ICU,Coimbatore,Dr. Mani Krishnan,139,30,109,24,20,20,42,11,Floor 3,Block A,633935,882143,Yes,73,Inspection Due,4.5
+DEPT1019,Pediatrics,Thanjavur,Dr. Ramesh Rajesh,147,103,44,7,6,10,38,22,Floor 5,Block C,451397,711318,Yes,21,Fully Operational,4.9
+DEPT1020,ENT,Vellore,Dr. Saravanan Chandran,45,32,13,6,2,5,57,28,Floor 4,Block A,1020614,1525914,Yes,73,Fully Operational,4.9
+DEPT1021,Emergency & ICU,Tiruchirappalli,Dr. Kannan Krishnan,64,56,8,24,23,15,18,8,Floor 7,Block D,1070376,1825356,No,16,Fully Operational,4.6
+DEPT1022,Orthopedics,Erode,Dr. Prakash Kumar,85,10,75,9,6,10,49,17,Floor 4,Block B,740087,930713,No,25,Fully Operational,4.1
+DEPT1023,Urology,Tirunelveli,Dr. Sundar Swaminathan,106,100,6,22,2,9,47,26,Floor 3,Block D,327122,436946,Yes,33,Fully Operational,4.7
+DEPT1024,Cardiothoracic Surgery,Chennai (Main),Dr. Prabhu Srinivasan,95,38,57,4,3,22,32,13,Floor 4,Block A,322766,432503,Yes,19,Fully Operational,4.6
+DEPT1025,Urology,Coimbatore,Dr. Vijay Murugesan,142,132,10,9,2,11,47,16,Floor 3,Block C,1053290,1722613,Yes,12,Fully Operational,4.6
+DEPT1026,Dermatology,Chennai (Adyar),Dr. Karthik Balaji,59,52,7,9,8,8,35,26,Floor 6,Block C,675651,858518,Yes,25,Fully Operational,4.2
+DEPT1027,General Medicine,Thanjavur,Dr. Karthik Krishnan,46,33,13,8,6,22,38,20,Floor 1,Block B,1009192,1259971,No,77,Fully Operational,4.1
+DEPT1028,Gastroenterology,Tirunelveli,Dr. Ganesh Srinivasan,142,45,97,5,3,20,55,12,Floor 1,Block A,1001565,1759965,Yes,27,Fully Operational,4.1
+DEPT1029,Orthopedics,Chennai (Adyar),Dr. Dinesh Venkatesh,57,32,25,6,3,19,41,19,Floor 5,Block Specialty Tower,520826,961129,Yes,44,Fully Operational,4.9
+DEPT1030,Orthopedics,Chennai (Adyar),Dr. Vijay Kumar,45,20,25,9,7,6,31,10,Floor 4,Block Specialty Tower,1222908,2114445,Yes,83,Fully Operational,4.3
+DEPT1031,Rheumatology,Thanjavur,Dr. Suresh Pandian,107,67,40,17,15,21,48,17,Floor 3,Block A,714919,1193676,Yes,55,Inspection Due,4
+DEPT1032,Nephrology,Tirunelveli,Dr. Kannan Krishnan,60,56,4,14,11,18,25,9,Floor 2,Block Emergency Wing,1004875,1239934,No,57,Fully Operational,5
+DEPT1033,Pediatrics,Salem,Dr. Mani Murugesan,134,46,88,9,2,19,56,24,Floor 5,Block B,1168850,1756489,Yes,10,Fully Operational,4.4
+DEPT1034,Rheumatology,Salem,Dr. Kannan Chelliah,101,17,84,16,3,17,32,10,Floor 5,Block C,1238482,1594155,Yes,47,Fully Operational,5
+DEPT1035,Neurology,Erode,Dr. Ramesh Chelliah,46,25,21,19,6,19,37,11,Floor 1,Block Emergency Wing,1096651,1473928,Yes,48,Fully Operational,4.8
+DEPT1036,General Medicine,Coimbatore,Dr. Prakash Krishnan,96,12,84,16,5,12,18,25,Floor 7,Block C,647806,848401,Yes,82,Inspection Due,4.2
+DEPT1037,Endocrinology,Vellore,Dr. Murugan Rajesh,50,20,30,20,15,20,24,11,Floor 2,Block B,810332,1294361,Yes,18,Inspection Due,4
+DEPT1038,Plastic Surgery,Erode,Dr. Sundar Krishnan,55,38,17,22,4,15,46,28,Floor 4,Block C,948423,1159428,Yes,51,Inspection Due,4.8
+DEPT1039,Pulmonology,Tiruchirappalli,Dr. Kannan Natarajan,137,15,122,4,2,19,28,14,Floor 7,Block Emergency Wing,843864,1124517,No,61,Fully Operational,4.5
+DEPT1040,Cardiothoracic Surgery,Chennai (Main),Dr. Sundar Raman,137,100,37,18,12,22,23,10,Floor 4,Block Emergency Wing,1294877,2081573,No,72,Fully Operational,4.2
+DEPT1041,Radiology & Imaging,Salem,Dr. Prakash Ganesan,133,28,105,9,3,24,49,29,Floor 7,Block C,1057624,1794328,Yes,59,Fully Operational,4.4
+DEPT1042,Nephrology,Tiruchirappalli,Dr. Arun Chelliah,132,116,16,14,12,5,15,28,Floor 6,Block A,852375,1188171,No,13,Under Maintenance,4.8
+DEPT1043,Pathology & Lab,Madurai,Dr. Vijay Rajesh,91,55,36,8,6,19,41,23,Floor 4,Block A,1126152,1596095,Yes,78,Fully Operational,4.3
+DEPT1044,Pulmonology,Chennai (Adyar),Dr. Arun Swaminathan,68,42,26,19,4,19,57,17,Floor 1,Block D,965522,1130351,Yes,84,Fully Operational,4.8
+DEPT1045,Neurology,Thanjavur,Dr. Anand Subramanian,134,92,42,21,18,10,42,14,Floor 6,Block A,974472,1309585,Yes,34,Inspection Due,4.6
+DEPT1046,Oncology,Salem,Dr. Arun Krishnan,48,12,36,19,16,16,54,13,Floor 3,Block D,745581,1373380,Yes,80,Fully Operational,4.2
+DEPT1047,Cardiology,Chennai (Main),Dr. Ganesh Krishnan,52,51,1,15,9,10,52,8,Floor 4,Block B,1306648,1794506,No,45,Fully Operational,4.1
+DEPT1048,ENT,Coimbatore,Dr. Sundar Kumar,73,56,17,9,6,18,55,15,Floor 5,Block C,638663,1038179,Yes,25,Fully Operational,4.8
+DEPT1049,Pediatrics,Chennai (Adyar),Dr. Senthil Subramanian,43,20,23,12,2,20,23,18,Floor 6,Block C,430864,565295,Yes,57,Under Maintenance,4.1
+DEPT1050,Pediatric Surgery,Tiruchirappalli,Dr. Vignesh Murugesan,57,56,1,23,14,14,46,16,Floor 5,Block C,1088634,1726552,Yes,84,Fully Operational,4.7
+DEPT1051,General Medicine,Thanjavur,Dr. Ramesh Chelliah,65,20,45,9,4,11,21,8,Floor 2,Block Emergency Wing,1190446,1625150,Yes,12,Fully Operational,4.4
+DEPT1052,Endocrinology,Thanjavur,Dr. Mani Swaminathan,57,47,10,22,18,22,44,20,Floor 7,Block D,338795,523654,Yes,13,Under Maintenance,4.3
+DEPT1053,Ophthalmology,Chennai (Main),Dr. Senthil Krishnan,126,86,40,12,6,13,22,24,Floor 3,Block D,530066,869552,Yes,61,Fully Operational,4.6
+DEPT1054,Gynecology & Obstetrics,Madurai,Dr. Kannan Swaminathan,80,68,12,6,3,24,16,17,Floor 1,Block B,368590,483547,Yes,51,Inspection Due,4.7
+DEPT1055,ENT,Chennai (Main),Dr. Vignesh Balaji,83,32,51,18,14,20,40,25,Floor 1,Block A,1424111,2471561,Yes,19,Fully Operational,4.7
+DEPT1056,Nephrology,Salem,Dr. Anand Raman,90,61,29,9,5,17,55,19,Floor 2,Block A,1307537,2065706,Yes,75,Fully Operational,4.2
+DEPT1057,Pediatric Surgery,Chennai (Adyar),Dr. Vignesh Natarajan,42,18,24,16,10,24,58,20,Floor 7,Block Emergency Wing,675038,1069707,Yes,66,Fully Operational,4.6
+DEPT1058,Nephrology,Chennai (Main),Dr. Vignesh Raman,51,32,19,14,10,19,23,19,Floor 3,Block A,658565,1000770,Yes,56,Fully Operational,4.6
+DEPT1059,Oncology,Vellore,Dr. Vignesh Natarajan,92,91,1,17,4,21,50,28,Floor 4,Block B,630126,957290,Yes,56,Inspection Due,4.8
+DEPT1060,Plastic Surgery,Tiruchirappalli,Dr. Prakash Raman,103,95,8,19,5,9,21,13,Floor 6,Block B,1423373,2331656,Yes,37,Fully Operational,4.4
+DEPT1061,Oncology,Vellore,Dr. Arun Swaminathan,143,79,64,16,2,23,29,8,Floor 2,Block A,1292187,2213924,No,77,Fully Operational,4.8
+DEPT1062,Emergency & ICU,Tiruchirappalli,Dr. Suresh Raman,46,37,9,17,11,8,17,21,Floor 5,Block Specialty Tower,1300598,2015129,No,22,Fully Operational,4.6
+DEPT1063,ENT,Coimbatore,Dr. Prabhu Ganesan,117,100,17,21,11,13,20,8,Floor 5,Block B,864312,1514448,No,65,Fully Operational,4
+DEPT1064,Gastroenterology,Chennai (Adyar),Dr. Senthil Srinivasan,148,139,9,22,17,15,58,8,Floor 2,Block C,302781,518594,Yes,22,Fully Operational,4.5
+DEPT1065,ENT,Erode,Dr. Mani Chelliah,84,68,16,10,5,22,52,16,Floor 5,Block Specialty Tower,1465872,2237918,Yes,80,Inspection Due,4.4
+DEPT1066,Neurology,Thanjavur,Dr. Mani Natarajan,138,46,92,19,14,15,59,26,Floor 4,Block Specialty Tower,729111,1025844,No,63,Inspection Due,4.7
+DEPT1067,Radiology & Imaging,Madurai,Dr. Murugan Krishnan,122,51,71,4,2,20,18,16,Floor 4,Block B,1252254,1658377,No,48,Fully Operational,4.6
+DEPT1068,Rheumatology,Vellore,Dr. Senthil Kumar,44,10,34,11,8,19,57,25,Floor 6,Block C,489896,698936,No,10,Fully Operational,4.3
+DEPT1069,Orthopedics,Salem,Dr. Vignesh Venkatesh,57,34,23,19,17,6,31,17,Floor 7,Block C,836809,1323371,Yes,63,Fully Operational,4.5
+DEPT1070,Pediatrics,Erode,Dr. Ramesh Pandian,47,34,13,17,3,14,38,23,Floor 3,Block C,1282430,1620626,No,48,Fully Operational,4.9
+DEPT1071,Pediatric Surgery,Erode,Dr. Prabhu Venkatesh,74,47,27,20,4,6,26,13,Floor 2,Block C,516879,902804,Yes,64,Fully Operational,4.5
+DEPT1072,Anaesthesiology,Chennai (Adyar),Dr. Karthik Murugesan,87,63,24,21,4,5,20,26,Floor 6,Block C,600714,921963,Yes,82,Fully Operational,4.8
+DEPT1073,Neurology,Erode,Dr. Vignesh Subramanian,100,26,74,5,3,6,57,17,Floor 6,Block Specialty Tower,980306,1654025,Yes,72,Under Maintenance,4.3
+DEPT1074,Plastic Surgery,Chennai (Main),Dr. Senthil Chelliah,85,45,40,13,3,18,22,17,Floor 1,Block B,1059652,1409291,No,11,Fully Operational,4.4
+DEPT1075,Nephrology,Madurai,Dr. Dinesh Venkatesh,54,23,31,24,10,24,49,22,Floor 1,Block A,1224303,2115714,Yes,76,Inspection Due,4.2
+DEPT1076,Neurology,Vellore,Dr. Vijay Pandian,90,89,1,20,11,21,34,29,Floor 6,Block Specialty Tower,927722,1493477,Yes,29,Fully Operational,4.8
+DEPT1077,General Medicine,Vellore,Dr. Prabhu Natarajan,139,80,59,17,14,22,30,23,Floor 2,Block B,1233146,1975689,Yes,80,Fully Operational,4.3
+DEPT1078,Orthopedics,Chennai (Main),Dr. Vignesh Raman,134,66,68,23,4,12,16,26,Floor 1,Block Emergency Wing,380528,511234,Yes,71,Fully Operational,4
+DEPT1079,Cardiothoracic Surgery,Vellore,Dr. Murugan Chandran,57,54,3,18,17,8,26,24,Floor 1,Block Specialty Tower,666014,1098304,No,36,Fully Operational,4.2
+DEPT1080,Endocrinology,Chennai (Adyar),Dr. Suresh Ganesan,93,14,79,15,12,8,38,11,Floor 5,Block Specialty Tower,1184588,1502898,No,74,Fully Operational,4.7
+DEPT1081,Orthopedics,Chennai (Main),Dr. Kannan Chelliah,66,60,6,23,15,17,58,16,Floor 3,Block C,1349213,1582385,Yes,67,Fully Operational,4.5
+DEPT1082,Cardiology,Tirunelveli,Dr. Prabhu Venkatesh,70,13,57,5,4,9,23,20,Floor 4,Block Specialty Tower,603561,859823,Yes,49,Fully Operational,4.6
+DEPT1083,Gynecology & Obstetrics,Chennai (Adyar),Dr. Ramesh Chandran,145,15,130,17,7,18,26,29,Floor 2,Block D,785705,995893,Yes,54,Fully Operational,4
+DEPT1084,Ophthalmology,Tirunelveli,Dr. Karthik Pandian,68,23,45,20,14,6,41,21,Floor 1,Block Emergency Wing,970756,1141750,Yes,23,Fully Operational,4.7
+DEPT1085,Rheumatology,Erode,Dr. Arun Raman,134,39,95,12,11,22,50,15,Floor 2,Block D,404249,505303,Yes,57,Fully Operational,4.2
+DEPT1086,General Medicine,Chennai (Adyar),Dr. Vijay Balaji,123,45,78,9,5,7,20,20,Floor 7,Block Emergency Wing,383299,649713,No,54,Fully Operational,4.4
+DEPT1087,Emergency & ICU,Tiruchirappalli,Dr. Kannan Swaminathan,64,19,45,6,4,17,46,19,Floor 4,Block B,1296185,1513792,Yes,74,Inspection Due,4.4
+DEPT1088,Endocrinology,Vellore,Dr. Arun Natarajan,67,57,10,6,5,17,49,17,Floor 6,Block B,501157,659655,Yes,69,Inspection Due,4.1
+DEPT1089,Emergency & ICU,Tiruchirappalli,Dr. Karthik Ganesan,42,27,15,11,3,8,42,20,Floor 7,Block B,717065,920083,Yes,53,Fully Operational,4.5
+DEPT1090,Pulmonology,Salem,Dr. Arun Swaminathan,59,35,24,19,7,17,58,17,Floor 5,Block Specialty Tower,637060,1104969,Yes,41,Under Maintenance,4.4
+DEPT1091,Cardiothoracic Surgery,Chennai (Main),Dr. Anand Rajesh,116,41,75,10,7,10,28,23,Floor 3,Block A,394203,712108,Yes,12,Fully Operational,4.9
+DEPT1092,Dermatology,Coimbatore,Dr. Vijay Kumar,106,64,42,7,3,18,51,28,Floor 7,Block B,427390,509789,Yes,55,Fully Operational,4.3
+DEPT1093,Vascular Surgery,Chennai (Main),Dr. Prabhu Kumar,53,22,31,9,8,6,46,15,Floor 6,Block A,626722,942423,Yes,47,Fully Operational,4.3
+DEPT1094,Pediatric Surgery,Salem,Dr. Arun Chelliah,78,57,21,20,3,20,50,14,Floor 2,Block Specialty Tower,664913,946432,Yes,77,Under Maintenance,4.4
+DEPT1095,ENT,Coimbatore,Dr. Prakash Subramanian,94,45,49,21,15,10,39,23,Floor 2,Block A,1190432,1973146,Yes,69,Inspection Due,4.4
+DEPT1096,Gastroenterology,Chennai (Main),Dr. Karthik Venkatesh,145,35,110,13,3,13,16,10,Floor 2,Block Specialty Tower,842358,1329135,Yes,28,Fully Operational,4.6
+DEPT1097,Urology,Tiruchirappalli,Dr. Suresh Sundaram,146,30,116,13,5,13,26,17,Floor 3,Block Specialty Tower,1299044,2394797,No,38,Fully Operational,4.7
+DEPT1098,Psychiatry,Thanjavur,Dr. Dinesh Chelliah,101,65,36,14,11,23,59,27,Floor 3,Block D,1063303,1647046,Yes,39,Fully Operational,4.8
+DEPT1099,Anaesthesiology,Erode,Dr. Aravind Subramanian,145,64,81,6,5,20,50,27,Floor 5,Block Specialty Tower,484307,871921,Yes,34,Fully Operational,4.8
+DEPT1100,Ophthalmology,Salem,Dr. Senthil Swaminathan,91,65,26,7,5,13,15,20,Floor 2,Block B,1497961,2406232,Yes,22,Fully Operational,4.2
+DEPT1101,Urology,Thanjavur,Dr. Ramesh Murugesan,127,106,21,17,4,17,48,24,Floor 5,Block C,1265177,1465683,Yes,35,Fully Operational,4.7
+DEPT1102,Urology,Salem,Dr. Arun Sundaram,57,28,29,21,6,22,26,11,Floor 7,Block C,805092,963718,Yes,65,Fully Operational,4.6
+DEPT1103,Cardiothoracic Surgery,Thanjavur,Dr. Ganesh Pandian,112,20,92,5,2,12,35,28,Floor 1,Block Specialty Tower,622233,1074354,Yes,67,Fully Operational,4.2
+DEPT1104,Anaesthesiology,Madurai,Dr. Murugan Krishnan,109,82,27,23,6,7,48,15,Floor 2,Block A,1062431,1480475,Yes,23,Inspection Due,4.6
+DEPT1105,Neurology,Chennai (Adyar),Dr. Aravind Kumar,124,10,114,15,12,5,25,14,Floor 2,Block Specialty Tower,1324627,2446092,Yes,51,Fully Operational,4.7
+DEPT1106,Oncology,Vellore,Dr. Suresh Venkatesh,146,105,41,11,8,8,52,16,Floor 7,Block Emergency Wing,959156,1517595,Yes,33,Fully Operational,4.9
+DEPT1107,Cardiology,Thanjavur,Dr. Aravind Murugesan,42,11,31,5,3,11,18,24,Floor 6,Block D,904229,1224343,Yes,35,Fully Operational,4.9
+DEPT1108,Anaesthesiology,Thanjavur,Dr. Mani Chelliah,96,14,82,8,7,24,29,24,Floor 3,Block Emergency Wing,660492,780796,Yes,30,Fully Operational,4.2
+DEPT1109,Ophthalmology,Madurai,Dr. Ramesh Sundaram,140,49,91,11,10,23,23,27,Floor 7,Block A,1443919,1849625,No,39,Fully Operational,4.1
+DEPT1110,Pediatrics,Thanjavur,Dr. Suresh Raman,95,34,61,22,14,10,52,9,Floor 2,Block Emergency Wing,1073386,1367051,Yes,53,Fully Operational,4.7
+DEPT1111,Gynecology & Obstetrics,Chennai (Adyar),Dr. Vignesh Chandran,88,84,4,7,4,13,20,9,Floor 2,Block Emergency Wing,639771,839230,No,13,Fully Operational,4.9
+DEPT1112,Urology,Vellore,Dr. Arun Balaji,90,29,61,10,8,13,58,10,Floor 7,Block Specialty Tower,804121,1008805,Yes,66,Fully Operational,4.9
+DEPT1113,Anaesthesiology,Chennai (Main),Dr. Ashok Srinivasan,133,94,39,24,20,22,50,8,Floor 3,Block D,1271457,1794641,No,52,Fully Operational,4.7
+DEPT1114,Vascular Surgery,Vellore,Dr. Arun Pandian,65,10,55,7,5,9,55,29,Floor 4,Block B,441263,675180,Yes,74,Fully Operational,4.4
+DEPT1115,Psychiatry,Chennai (Main),Dr. Ramesh Raman,84,61,23,23,11,5,16,24,Floor 6,Block Emergency Wing,403376,586422,Yes,39,Fully Operational,4.6
+DEPT1116,Psychiatry,Salem,Dr. Suresh Balaji,99,39,60,15,2,22,57,9,Floor 5,Block A,1011759,1469469,Yes,81,Fully Operational,4.9
+DEPT1117,Pediatrics,Chennai (Main),Dr. Prakash Chandran,80,14,66,5,2,22,40,19,Floor 6,Block Emergency Wing,814618,1235241,Yes,77,Fully Operational,4.7
+DEPT1118,Oncology,Thanjavur,Dr. Suresh Chelliah,81,40,41,24,7,5,43,28,Floor 4,Block Specialty Tower,1243799,1830208,No,64,Inspection Due,4.6
+DEPT1119,Plastic Surgery,Salem,Dr. Siva Ganesan,143,56,87,22,9,17,32,29,Floor 1,Block Specialty Tower,684287,904862,Yes,59,Fully Operational,4.6
+DEPT1120,Pediatrics,Salem,Dr. Karthik Balaji,66,45,21,12,7,21,32,29,Floor 7,Block D,1035048,1368855,Yes,52,Under Maintenance,4.4
+DEPT1121,Pediatrics,Chennai (Adyar),Dr. Prabhu Rajesh,131,86,45,16,12,14,56,29,Floor 7,Block D,649269,846651,Yes,48,Fully Operational,4.2
+DEPT1122,Endocrinology,Tiruchirappalli,Dr. Kannan Chelliah,99,69,30,9,5,16,33,18,Floor 6,Block A,332822,387787,No,24,Fully Operational,4.9
+DEPT1123,Plastic Surgery,Erode,Dr. Ganesh Subramanian,69,12,57,22,6,7,54,12,Floor 4,Block Specialty Tower,702826,1238613,Yes,24,Fully Operational,4.2
+DEPT1124,Dermatology,Erode,Dr. Ramesh Srinivasan,121,97,24,9,3,23,18,10,Floor 1,Block Specialty Tower,576914,834831,Yes,60,Fully Operational,4.3
+DEPT1125,Plastic Surgery,Thanjavur,Dr. Ashok Pandian,53,45,8,15,5,12,53,16,Floor 7,Block A,484348,777542,Yes,81,Fully Operational,4.9
+DEPT1126,Psychiatry,Salem,Dr. Siva Chandran,85,54,31,7,5,24,25,25,Floor 1,Block D,1381510,2123392,Yes,27,Fully Operational,4.5
+DEPT1127,Dermatology,Salem,Dr. Dinesh Chelliah,109,17,92,11,7,5,27,28,Floor 5,Block C,977251,1496790,Yes,63,Fully Operational,4.7
+DEPT1128,Anaesthesiology,Thanjavur,Dr. Vijay Chandran,80,44,36,13,2,23,56,19,Floor 7,Block B,322098,459156,Yes,48,Fully Operational,4.3
+DEPT1129,Plastic Surgery,Thanjavur,Dr. Saravanan Raman,80,48,32,13,6,11,19,22,Floor 3,Block B,726375,1040188,Yes,31,Fully Operational,4.9
+DEPT1130,Nephrology,Salem,Dr. Karthik Srinivasan,127,52,75,11,7,7,28,9,Floor 5,Block Specialty Tower,569024,1011216,Yes,34,Inspection Due,4.7
+DEPT1131,Oncology,Tirunelveli,Dr. Sundar Pandian,125,57,68,10,3,10,15,9,Floor 3,Block Specialty Tower,1039354,1392339,Yes,62,Fully Operational,4.8
+DEPT1132,Rheumatology,Vellore,Dr. Ashok Natarajan,75,65,10,6,2,23,35,8,Floor 7,Block Specialty Tower,312437,570002,Yes,68,Fully Operational,4.2
+DEPT1133,Urology,Thanjavur,Dr. Ramesh Venkatesh,77,66,11,15,5,7,20,23,Floor 5,Block D,1180872,1934470,Yes,34,Fully Operational,4.8
+DEPT1134,Anaesthesiology,Coimbatore,Dr. Murugan Natarajan,79,55,24,12,10,21,52,11,Floor 4,Block C,348555,436348,Yes,19,Fully Operational,4.4
+DEPT1135,Neurology,Salem,Dr. Karthik Kumar,121,13,108,18,12,14,39,24,Floor 3,Block A,1163669,2109710,Yes,25,Under Maintenance,4.9
+DEPT1136,Pathology & Lab,Erode,Dr. Arun Venkatesh,145,19,126,7,4,13,50,10,Floor 7,Block C,892633,1548539,Yes,65,Fully Operational,4.2
+DEPT1137,Cardiology,Chennai (Adyar),Dr. Ganesh Balaji,54,21,33,14,2,22,28,24,Floor 7,Block D,831834,1430044,Yes,43,Fully Operational,4
+DEPT1138,Dermatology,Chennai (Main),Dr. Vijay Pandian,103,80,23,21,5,21,25,18,Floor 4,Block C,1393070,1962211,Yes,37,Fully Operational,4.8
+DEPT1139,Vascular Surgery,Salem,Dr. Arun Chelliah,125,73,52,4,2,18,39,11,Floor 4,Block A,651362,1012055,Yes,63,Fully Operational,4.6
+DEPT1140,Pulmonology,Erode,Dr. Sundar Rajesh,54,20,34,15,3,8,44,10,Floor 1,Block B,1335238,1784031,Yes,84,Fully Operational,4.4
+DEPT1141,Pediatrics,Salem,Dr. Suresh Srinivasan,64,43,21,15,7,13,34,19,Floor 5,Block Emergency Wing,1033210,1521426,Yes,61,Fully Operational,4.5
+DEPT1142,Pathology & Lab,Chennai (Adyar),Dr. Mani Raman,126,116,10,16,12,8,39,18,Floor 2,Block B,1415148,2414615,Yes,79,Fully Operational,4.2
+DEPT1143,Nephrology,Tirunelveli,Dr. Dinesh Rajesh,62,49,13,8,3,20,59,26,Floor 1,Block Specialty Tower,1353927,2183585,Yes,48,Fully Operational,4.3
+DEPT1144,Emergency & ICU,Chennai (Adyar),Dr. Ganesh Kumar,89,28,61,5,4,8,57,10,Floor 1,Block B,1297670,1841523,Yes,65,Fully Operational,4.3
+DEPT1145,Urology,Coimbatore,Dr. Anand Balaji,65,52,13,21,15,18,20,16,Floor 6,Block C,835632,1519872,Yes,61,Fully Operational,4.4
+DEPT1146,Dermatology,Thanjavur,Dr. Ramesh Balaji,67,27,40,12,7,22,31,18,Floor 1,Block A,695107,1184517,No,54,Under Maintenance,4.3
+DEPT1147,Orthopedics,Coimbatore,Dr. Vignesh Raman,109,68,41,23,7,9,26,16,Floor 1,Block A,488944,743898,Yes,44,Under Maintenance,4.2
+DEPT1148,Rheumatology,Erode,Dr. Arun Venkatesh,147,57,90,11,5,19,18,22,Floor 4,Block Specialty Tower,597834,1038408,Yes,82,Fully Operational,4.1
+DEPT1149,Pathology & Lab,Vellore,Dr. Arun Natarajan,147,78,69,13,8,17,30,15,Floor 6,Block A,1290544,2294510,Yes,57,Inspection Due,4.7
+DEPT1150,Radiology & Imaging,Tirunelveli,Dr. Aravind Kumar,56,40,16,13,7,11,39,13,Floor 5,Block Specialty Tower,1388161,1978073,No,65,Under Maintenance,4.3
+DEPT1151,Dermatology,Tiruchirappalli,Dr. Aravind Balaji,62,48,14,19,13,19,29,18,Floor 2,Block C,971666,1540004,Yes,67,Fully Operational,4.7
+DEPT1152,Gastroenterology,Tirunelveli,Dr. Ramesh Pandian,123,38,85,14,2,7,19,9,Floor 7,Block Specialty Tower,1388985,1844261,Yes,78,Fully Operational,4.9
+DEPT1153,Vascular Surgery,Chennai (Main),Dr. Siva Subramanian,146,145,1,18,3,21,37,13,Floor 5,Block D,985644,1330501,Yes,56,Fully Operational,5
+DEPT1154,Ophthalmology,Salem,Dr. Kannan Rajesh,138,136,2,24,8,16,50,18,Floor 6,Block B,1161316,2114012,No,84,Fully Operational,4.7
+DEPT1155,Pulmonology,Chennai (Main),Dr. Ganesh Raman,147,145,2,6,4,24,38,10,Floor 6,Block B,1328387,2218525,Yes,82,Fully Operational,4.3
+DEPT1156,Rheumatology,Chennai (Adyar),Dr. Saravanan Balaji,61,13,48,17,3,16,56,8,Floor 3,Block Specialty Tower,1130696,2062373,Yes,80,Under Maintenance,4.7
+DEPT1157,Gastroenterology,Chennai (Main),Dr. Arun Ganesan,74,48,26,9,7,9,44,11,Floor 7,Block C,1161164,1516943,Yes,69,Fully Operational,4.2
+DEPT1158,Anaesthesiology,Coimbatore,Dr. Senthil Swaminathan,109,41,68,5,2,13,27,21,Floor 3,Block C,639535,1089614,Yes,67,Fully Operational,4.6
+DEPT1159,Rheumatology,Chennai (Adyar),Dr. Suresh Balaji,84,54,30,10,2,7,53,28,Floor 1,Block D,1106955,1777615,No,57,Fully Operational,4.1
+DEPT1160,Cardiothoracic Surgery,Chennai (Adyar),Dr. Suresh Swaminathan,72,71,1,10,5,24,50,17,Floor 5,Block B,1136776,1546341,No,12,Fully Operational,5
+DEPT1161,Dermatology,Thanjavur,Dr. Dinesh Swaminathan,77,13,64,7,5,21,59,9,Floor 4,Block Specialty Tower,1418901,1739795,Yes,62,Under Maintenance,4.7
+DEPT1162,Nephrology,Erode,Dr. Ramesh Ganesan,133,34,99,14,2,22,41,15,Floor 6,Block C,984764,1537647,Yes,80,Fully Operational,4.8
+DEPT1163,Vascular Surgery,Madurai,Dr. Aravind Rajesh,136,10,126,17,10,16,55,15,Floor 6,Block Specialty Tower,997819,1169220,Yes,70,Fully Operational,4.9
+DEPT1164,ENT,Tirunelveli,Dr. Murugan Kumar,101,53,48,19,11,16,25,21,Floor 6,Block D,1007923,1190782,No,14,Under Maintenance,4.5
+DEPT1165,Pediatrics,Chennai (Main),Dr. Ashok Srinivasan,112,51,61,13,5,8,42,12,Floor 5,Block A,1498594,2726416,Yes,26,Fully Operational,4.8
+DEPT1166,ENT,Chennai (Adyar),Dr. Prabhu Rajesh,90,51,39,5,2,17,45,18,Floor 4,Block D,1321167,2363332,Yes,23,Fully Operational,4
+DEPT1167,Pediatric Surgery,Chennai (Adyar),Dr. Prakash Sundaram,58,29,29,13,11,7,17,15,Floor 5,Block Emergency Wing,982931,1681094,Yes,43,Fully Operational,4.3
+DEPT1168,Urology,Madurai,Dr. Siva Chelliah,119,72,47,8,7,11,51,8,Floor 4,Block Specialty Tower,520821,853746,No,46,Under Maintenance,4.9
+DEPT1169,Gynecology & Obstetrics,Erode,Dr. Suresh Swaminathan,119,101,18,19,4,21,35,13,Floor 6,Block Specialty Tower,970493,1459656,Yes,28,Fully Operational,4.8
+DEPT1170,ENT,Salem,Dr. Dinesh Ganesan,117,80,37,20,6,24,24,26,Floor 2,Block Specialty Tower,690014,1115890,No,60,Fully Operational,4.5
+DEPT1171,Nephrology,Chennai (Main),Dr. Prakash Balaji,110,15,95,9,6,20,27,9,Floor 3,Block C,620956,1017763,Yes,11,Fully Operational,4.7
+DEPT1172,Cardiothoracic Surgery,Salem,Dr. Dinesh Krishnan,131,44,87,14,9,22,38,28,Floor 1,Block C,1285926,1745048,Yes,25,Fully Operational,4.5
+DEPT1173,Cardiology,Vellore,Dr. Mani Raman,116,27,89,20,14,16,49,29,Floor 7,Block A,455812,673540,Yes,67,Fully Operational,4.4
+DEPT1174,Ophthalmology,Tirunelveli,Dr. Aravind Balaji,42,27,15,7,3,7,58,19,Floor 1,Block Specialty Tower,1109281,1407935,Yes,71,Fully Operational,4.5
+DEPT1175,Pediatrics,Erode,Dr. Kannan Pandian,56,24,32,4,2,20,27,29,Floor 7,Block D,1378314,2122472,Yes,22,Fully Operational,4.2
+DEPT1176,Dermatology,Thanjavur,Dr. Senthil Raman,133,92,41,10,6,7,39,9,Floor 7,Block B,1125535,1558167,Yes,52,Fully Operational,4.2
+DEPT1177,Urology,Chennai (Adyar),Dr. Karthik Chelliah,43,13,30,13,12,22,37,22,Floor 3,Block A,550714,796864,Yes,12,Under Maintenance,4.6
+DEPT1178,Cardiology,Tirunelveli,Dr. Sundar Swaminathan,66,24,42,10,6,14,23,16,Floor 6,Block A,929323,1242227,Yes,63,Fully Operational,4.4
+DEPT1179,Dermatology,Erode,Dr. Vignesh Srinivasan,111,11,100,17,11,22,32,25,Floor 4,Block Emergency Wing,672659,1060394,No,51,Fully Operational,4.8
+DEPT1180,Psychiatry,Chennai (Main),Dr. Dinesh Murugesan,83,51,32,16,15,15,49,29,Floor 2,Block C,627717,845963,Yes,16,Inspection Due,4.7
+DEPT1181,Cardiology,Chennai (Main),Dr. Mani Ganesan,46,12,34,13,12,15,19,9,Floor 6,Block Specialty Tower,750615,1116472,Yes,19,Fully Operational,4.3
+DEPT1182,Pediatrics,Erode,Dr. Murugan Chelliah,45,39,6,8,2,23,56,21,Floor 1,Block Emergency Wing,585282,957562,Yes,59,Fully Operational,4.7
+DEPT1183,Gastroenterology,Madurai,Dr. Prabhu Natarajan,104,19,85,17,8,8,51,27,Floor 3,Block A,917484,1307620,Yes,57,Under Maintenance,4.6
+DEPT1184,Gynecology & Obstetrics,Thanjavur,Dr. Karthik Srinivasan,60,51,9,20,4,6,43,24,Floor 4,Block B,1246468,1623178,Yes,10,Under Maintenance,4.1
+DEPT1185,Radiology & Imaging,Chennai (Adyar),Dr. Arun Kumar,92,31,61,19,17,10,39,17,Floor 2,Block Emergency Wing,836939,1241337,No,18,Fully Operational,4
+DEPT1186,Neurology,Coimbatore,Dr. Ashok Krishnan,88,11,77,20,9,24,52,19,Floor 1,Block Specialty Tower,995649,1677063,No,72,Fully Operational,4.1
+DEPT1187,Endocrinology,Thanjavur,Dr. Ashok Ganesan,47,14,33,14,11,7,41,16,Floor 4,Block Specialty Tower,523378,796208,Yes,70,Fully Operational,4.6
+DEPT1188,Psychiatry,Thanjavur,Dr. Mani Ganesan,111,106,5,17,8,10,28,9,Floor 1,Block Emergency Wing,1060427,1271697,No,48,Inspection Due,4.6
+DEPT1189,Radiology & Imaging,Madurai,Dr. Suresh Venkatesh,135,28,107,22,18,22,26,16,Floor 7,Block B,574879,717303,Yes,48,Fully Operational,5
+DEPT1190,Plastic Surgery,Chennai (Main),Dr. Vignesh Murugesan,111,83,28,4,2,18,24,26,Floor 1,Block Emergency Wing,940072,1125451,Yes,49,Fully Operational,5
+DEPT1191,Pathology & Lab,Coimbatore,Dr. Sundar Chelliah,109,70,39,13,12,7,22,10,Floor 2,Block Emergency Wing,654818,1162014,Yes,43,Fully Operational,5
+DEPT1192,Cardiology,Madurai,Dr. Ashok Krishnan,72,18,54,11,7,24,32,23,Floor 7,Block D,1106397,1279748,Yes,32,Fully Operational,4.9
+DEPT1193,Ophthalmology,Chennai (Adyar),Dr. Sundar Sundaram,46,23,23,18,13,16,22,23,Floor 1,Block B,567535,756877,Yes,59,Fully Operational,4.4
+DEPT1194,Orthopedics,Chennai (Main),Dr. Mani Srinivasan,147,55,92,21,3,11,24,22,Floor 1,Block C,1019713,1854641,No,13,Fully Operational,4.2
+DEPT1195,Ophthalmology,Chennai (Main),Dr. Ashok Subramanian,64,49,15,18,2,23,29,16,Floor 5,Block D,585279,911731,Yes,47,Fully Operational,4.8
+DEPT1196,Ophthalmology,Chennai (Main),Dr. Saravanan Chandran,110,57,53,21,7,6,27,17,Floor 5,Block D,375018,524524,Yes,65,Fully Operational,4.5
+DEPT1197,Pulmonology,Vellore,Dr. Ganesh Chandran,53,33,20,22,5,24,38,22,Floor 4,Block A,1194466,2029126,No,33,Inspection Due,4.6
+DEPT1198,Plastic Surgery,Coimbatore,Dr. Senthil Murugesan,51,27,24,17,11,14,32,8,Floor 6,Block B,1354818,2357714,No,24,Fully Operational,4.3
+DEPT1199,Plastic Surgery,Tirunelveli,Dr. Ashok Balaji,66,34,32,19,14,21,55,19,Floor 5,Block B,928296,1454130,No,35,Fully Operational,4.8
+DEPT1200,Neurology,Salem,Dr. Senthil Sundaram,111,90,21,21,19,16,47,19,Floor 3,Block Emergency Wing,1395842,1649511,Yes,54,Fully Operational,4.6

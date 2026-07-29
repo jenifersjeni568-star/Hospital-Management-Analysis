@@ -1,0 +1,109 @@
+DoctorID,Doctor Name,Gender,Specialization,Qualification,Experience (Years),Department,Contact Number,Email,Consultation Fee (?),Rating,Availability Status
+DOC001,Dr. Suresh Balaji,Male,Oncology,MS (Ortho),11,Oncology,+91 9446129799,suresh.balaji@citycare-tn.in,400,4.4,Available
+DOC002,Dr. Ashok Sundaram,Male,Neurology,MD (Pediatrics),22,Neurology,+91 9446164524,ashok.sundaram@citycare-tn.in,1500,4,Available
+DOC003,Dr. Senthil Murugesan,Male,Neurology,"MBBS, MS",29,Neurology,+91 9447796983,senthil.murugesan@citycare-tn.in,500,4.5,Available
+DOC005,Dr. Priya Venkatesh,Female,Dermatology,MS (OBG),27,Dermatology,+91 9441000814,priya.venkatesh@citycare-tn.in,850,4.6,On Leave
+DOC006,Dr. Priya Kumar,Female,Dermatology,MS (Ortho),22,Dermatology,+91 9444775092,priya.kumar@citycare-tn.in,500,4.1,In Surgery
+DOC007,Dr. Suganya Raman,Female,Orthopedics,"MD, DM (Neuro)",8,Orthopedics,+91 9444269083,suganya.raman@citycare-tn.in,600,4.7,Available
+DOC008,Dr. Santhi Sundaram,Female,Dermatology,MS (ENT),24,Dermatology,+91 9447981822,santhi.sundaram@citycare-tn.in,400,4.3,Available
+DOC009,Dr. Poornima Natarajan,Female,Oncology,MS (ENT),27,Oncology,+91 9448004211,poornima.natarajan@citycare-tn.in,750,4.6,Available
+DOC010,Dr. Kannan Chandran,Male,General Medicine,MS (ENT),24,General Medicine,+91 9445668818,kannan.chandran@citycare-tn.in,600,4.9,In Surgery
+DOC011,Dr. Vignesh Raman,Male,Gastroenterology,"MBBS, MD",25,Gastroenterology,+91 9448025930,vignesh.raman@citycare-tn.in,400,4.9,Available
+DOC012,Dr. Dinesh Sundaram,Male,Gastroenterology,"MBBS, MD",8,Gastroenterology,+91 9443964123,dinesh.sundaram@citycare-tn.in,1500,4.3,On Leave
+DOC013,Dr. Mani Pandian,Male,Oncology,MS (ENT),10,Oncology,+91 9443824514,mani.pandian@citycare-tn.in,850,4.8,Available
+DOC014,Dr. Santhi Chelliah,Female,Orthopedics,MD (Pediatrics),8,Orthopedics,+91 9447623278,santhi.chelliah@citycare-tn.in,1200,4.7,Consulting
+DOC015,Dr. Prakash Raman,Male,Gynecology,"MD, DM (Neuro)",7,Gynecology,+91 9447871615,prakash.raman@citycare-tn.in,1200,4.5,Available
+DOC016,Dr. Sangeetha Rajesh,Female,Neurology,MS (OBG),5,Neurology,+91 9442156480,sangeetha.rajesh@citycare-tn.in,850,4.9,In Surgery
+DOC017,Dr. Arun Swaminathan,Male,ENT,"MD, DM (Onco)",8,ENT,+91 9445498912,arun.swaminathan@citycare-tn.in,600,4.9,Available
+DOC018,Dr. Uma Pandian,Female,General Medicine,"MD, DM (Neuro)",25,General Medicine,+91 9446699974,uma.pandian@citycare-tn.in,750,4.2,Available
+DOC019,Dr. Divya Srinivasan,Female,Oncology,MD (Pediatrics),16,Oncology,+91 9441470409,divya.srinivasan@citycare-tn.in,750,4.2,Consulting
+DOC020,Dr. Deepa Swaminathan,Female,Dermatology,MD (Derm),7,Dermatology,+91 9443403810,deepa.swaminathan@citycare-tn.in,850,4.2,Available
+DOC021,Dr. Poornima Sundaram,Female,Gastroenterology,"MBBS, MS",12,Gastroenterology,+91 9444905320,poornima.sundaram@citycare-tn.in,1000,4.4,In Surgery
+DOC022,Dr. Vijay Kumar,Male,Pediatrics,"MBBS, MS",26,Pediatrics,+91 9447532195,vijay.kumar@citycare-tn.in,400,4,In Surgery
+DOC023,Dr. Anitha Srinivasan,Female,Oncology,MS (ENT),4,Oncology,+91 9449660303,anitha.srinivasan@citycare-tn.in,600,4.1,On Leave
+DOC024,Dr. Kavitha Murugesan,Female,Orthopedics,"MD, DM (Onco)",21,Orthopedics,+91 9442758185,kavitha.murugesan@citycare-tn.in,1500,4.8,Available
+DOC025,Dr. Sangeetha Venkatesh,Female,Cardiology,MS (ENT),29,Cardiology,+91 9448959974,sangeetha.venkatesh@citycare-tn.in,750,4.6,In Surgery
+DOC026,Dr. Deepa Sundaram,Female,Gynecology,"MBBS, MS",19,Gynecology,+91 9449840538,deepa.sundaram@citycare-tn.in,850,4.5,Available
+DOC027,Dr. Vijay Murugesan,Male,Cardiology,"MD, DM (Cardio)",23,Cardiology,+91 9445056441,vijay.murugesan@citycare-tn.in,850,4.6,Available
+DOC028,Dr. Vijay Sundaram,Male,Gynecology,MS (Ortho),21,Gynecology,+91 9445279565,vijay.sundaram@citycare-tn.in,1200,4,Available
+DOC029,Dr. Poornima Murugesan,Female,General Medicine,MS (OBG),25,General Medicine,+91 9449598299,poornima.murugesan@citycare-tn.in,1500,4.7,Available
+DOC030,Dr. Anand Chelliah,Male,Orthopedics,MS (OBG),27,Orthopedics,+91 9442344721,anand.chelliah@citycare-tn.in,1000,4.2,Available
+DOC031,Dr. Karthik Chandran,Male,General Medicine,MD (Derm),9,General Medicine,+91 9448546990,karthik.chandran@citycare-tn.in,600,4.7,Available
+DOC032,Dr. Vijay Ganesan,Male,General Medicine,MD (Derm),15,General Medicine,+91 9442073666,vijay.ganesan@citycare-tn.in,1000,4.5,Available
+DOC033,Dr. Abirami Subramanian,Female,Cardiology,"MBBS, MD",12,Cardiology,+91 9446555398,abirami.subramanian@citycare-tn.in,600,4.9,Available
+DOC034,Dr. Anand Sundaram,Male,Oncology,MS (Ortho),26,Oncology,+91 9447413094,anand.sundaram@citycare-tn.in,600,4.3,Available
+DOC035,Dr. Nithya Swaminathan,Female,Orthopedics,MD (Pediatrics),8,Orthopedics,+91 9442457466,nithya.swaminathan@citycare-tn.in,600,4.1,Available
+DOC036,Dr. Suresh Sundaram,Male,General Medicine,"MD, DM (Cardio)",4,General Medicine,+91 9446147095,suresh.sundaram@citycare-tn.in,1000,4.3,Available
+DOC037,Dr. Santhi Pandian,Female,Gynecology,MS (OBG),26,Gynecology,+91 9446200148,santhi.pandian@citycare-tn.in,600,4.7,Available
+DOC038,Dr. Nithya Krishnan,Female,Cardiology,"MD, DM (Cardio)",26,Cardiology,+91 9443733440,nithya.krishnan@citycare-tn.in,1000,4,Available
+DOC039,Dr. Vignesh Chandran,Male,Neurology,MS (ENT),17,Neurology,+91 9448415380,vignesh.chandran@citycare-tn.in,750,4.9,Available
+DOC040,Dr. Abirami Rajesh,Female,General Medicine,"MBBS, MS",22,General Medicine,+91 9447481865,abirami.rajesh@citycare-tn.in,500,4.7,In Surgery
+DOC041,Dr. Sundar Chelliah,Male,Urology,MS (ENT),9,Urology,+91 9447680659,sundar.chelliah@citycare-tn.in,400,4.6,Available
+DOC042,Dr. Bhavani Raman,Female,ENT,MS (OBG),29,ENT,+91 9443856804,bhavani.raman@citycare-tn.in,1000,4,In Surgery
+DOC043,Dr. Pavithra Chelliah,Female,Nephrology,"MD, DM (Neuro)",17,Nephrology,+91 9448994524,pavithra.chelliah@citycare-tn.in,600,4.6,Available
+DOC044,Dr. Keerthana Venkatesh,Female,General Medicine,MS (ENT),18,General Medicine,+91 9448020899,keerthana.venkatesh@citycare-tn.in,600,4.3,Available
+DOC045,Dr. Meena Natarajan,Female,Neurology,MS (ENT),6,Neurology,+91 9445741898,meena.natarajan@citycare-tn.in,600,4.9,In Surgery
+DOC046,Dr. Ganesh Venkatesh,Male,General Medicine,"MD, DM (Neuro)",24,General Medicine,+91 9448982789,ganesh.venkatesh@citycare-tn.in,1200,4.4,In Surgery
+DOC047,Dr. Saravanan Swaminathan,Male,Neurology,MD (Pediatrics),25,Neurology,+91 9449197049,saravanan.swaminathan@citycare-tn.in,1200,4,In Surgery
+DOC050,Dr. Nithya Murugesan,Female,Orthopedics,"MBBS, MD",25,Orthopedics,+91 9448464711,nithya.murugesan@citycare-tn.in,500,4.5,Available
+DOC051,Dr. Senthil Venkatesh,Male,Urology,"MBBS, MS",21,Urology,+91 9445898148,senthil.venkatesh@citycare-tn.in,750,4.5,Available
+DOC052,Dr. Deepa Srinivasan,Female,Urology,"MBBS, MS",25,Urology,+91 9442824011,deepa.srinivasan@citycare-tn.in,750,4.8,On Leave
+DOC053,Dr. Murugan Chandran,Male,Cardiology,"MD, DM (Neuro)",14,Cardiology,+91 9448371184,murugan.chandran@citycare-tn.in,400,4.7,In Surgery
+DOC054,Dr. Priya Pandian,Female,Nephrology,"MD, DM (Cardio)",18,Nephrology,+91 9445048792,priya.pandian@citycare-tn.in,500,4.7,On Leave
+DOC055,Dr. Saravanan Ganesan,Male,Urology,"MD, DM (Neuro)",24,Urology,+91 9445217047,saravanan.ganesan@citycare-tn.in,750,4.8,Available
+DOC056,Dr. Pavithra Subramanian,Female,Nephrology,"MD, DM (Neuro)",3,Nephrology,+91 9446284326,pavithra.subramanian@citycare-tn.in,850,4.9,In Surgery
+DOC057,Dr. Kannan Chelliah,Male,Urology,"MD, DM (Cardio)",22,Urology,+91 9442287156,kannan.chelliah@citycare-tn.in,850,4.3,Available
+DOC058,Dr. Prabhu Pandian,Male,Orthopedics,"MD, DM (Onco)",3,Orthopedics,+91 9446921840,prabhu.pandian@citycare-tn.in,750,4.4,Available
+DOC059,Dr. Kavitha Balaji,Female,Oncology,MD (Derm),6,Oncology,+91 9449766945,kavitha.balaji@citycare-tn.in,600,4.1,Available
+DOC060,Dr. Murugan Srinivasan,Male,Orthopedics,MS (ENT),12,Orthopedics,+91 9448031474,murugan.srinivasan@citycare-tn.in,500,4.4,In Surgery
+DOC061,Dr. Siva Subramanian,Male,Gynecology,"MBBS, MS",9,Gynecology,+91 9446759236,siva.subramanian@citycare-tn.in,500,4,Consulting
+DOC062,Dr. Radha Ganesan,Female,Urology,MD (Pediatrics),28,Urology,+91 9442637899,radha.ganesan@citycare-tn.in,1500,4.4,In Surgery
+DOC063,Dr. Meena Rajesh,Female,Neurology,"MBBS, MD",21,Neurology,+91 9447830971,meena.rajesh@citycare-tn.in,400,4.2,In Surgery
+DOC064,Dr. Kannan Rajesh,Male,Cardiology,"MBBS, MD",7,Cardiology,+91 9442136045,kannan.rajesh@citycare-tn.in,1500,4.9,Available
+DOC065,Dr. Arun Raman,Male,Gastroenterology,MD (Derm),11,Gastroenterology,+91 9446172186,arun.raman@citycare-tn.in,750,5,Available
+DOC066,Dr. Santhi Subramanian,Female,Nephrology,"MBBS, MD",18,Nephrology,+91 9444986246,santhi.subramanian@citycare-tn.in,400,4.2,Consulting
+DOC067,Dr. Siva Chandran,Male,Neurology,"MD, DM (Neuro)",27,Neurology,+91 9442599333,siva.chandran@citycare-tn.in,750,4.4,Available
+DOC069,Dr. Saravanan Rajesh,Male,Oncology,"MD, DM (Onco)",5,Oncology,+91 9446421622,saravanan.rajesh@citycare-tn.in,400,4.4,Available
+DOC070,Dr. Lakshmi Murugesan,Female,Nephrology,"MD, DM (Cardio)",19,Nephrology,+91 9441332744,lakshmi.murugesan@citycare-tn.in,850,4,Available
+DOC071,Dr. Meena Raman,Female,Orthopedics,"MD, DM (Cardio)",18,Orthopedics,+91 9445254996,meena.raman@citycare-tn.in,850,4.1,Available
+DOC072,Dr. Deepa Krishnan,Female,Cardiology,MD (Pediatrics),8,Cardiology,+91 9446195084,deepa.krishnan@citycare-tn.in,1200,4.1,Available
+DOC073,Dr. Anitha Raman,Female,Nephrology,MD (Pediatrics),10,Nephrology,+91 9441216769,anitha.raman@citycare-tn.in,750,4.5,Available
+DOC075,Dr. Nithya Pandian,Female,Gynecology,"MBBS, MS",18,Gynecology,+91 9446610387,nithya.pandian@citycare-tn.in,500,4.9,Available
+DOC076,Dr. Ganesh Chandran,Male,ENT,MD (Pediatrics),7,ENT,+91 9448896581,ganesh.chandran@citycare-tn.in,1000,4.2,In Surgery
+DOC077,Dr. Anand Rajesh,Male,General Medicine,MD (Pediatrics),9,General Medicine,+91 9444866708,anand.rajesh@citycare-tn.in,1000,4.5,Available
+DOC078,Dr. Dinesh Chandran,Male,Cardiology,"MD, DM (Onco)",12,Cardiology,+91 9449336512,dinesh.chandran@citycare-tn.in,600,4.9,In Surgery
+DOC079,Dr. Suganya Natarajan,Female,Dermatology,"MD, DM (Neuro)",4,Dermatology,+91 9449374989,suganya.natarajan@citycare-tn.in,850,5,Available
+DOC080,Dr. Keerthana Pandian,Female,Gynecology,"MD, DM (Onco)",22,Gynecology,+91 9447442845,keerthana.pandian@citycare-tn.in,400,4.6,In Surgery
+DOC081,Dr. Sundar Kumar,Male,Oncology,MS (ENT),19,Oncology,+91 9445255245,sundar.kumar@citycare-tn.in,850,4,On Leave
+DOC083,Dr. Ashok Chandran,Male,ENT,MD (Pediatrics),4,ENT,+91 9445818671,ashok.chandran@citycare-tn.in,1200,4.4,On Leave
+DOC085,Dr. Vijay Srinivasan,Male,Pediatrics,MS (ENT),9,Pediatrics,+91 9448196302,vijay.srinivasan@citycare-tn.in,600,4.7,Available
+DOC086,Dr. Vijay Raman,Male,Nephrology,MD (Pediatrics),27,Nephrology,+91 9442711463,vijay.raman@citycare-tn.in,400,4.7,Available
+DOC088,Dr. Arun Natarajan,Male,Cardiology,MD (Pediatrics),25,Cardiology,+91 9449050379,arun.natarajan@citycare-tn.in,1000,4.3,Available
+DOC089,Dr. Santhi Swaminathan,Female,Cardiology,MS (Ortho),29,Cardiology,+91 9449105855,santhi.swaminathan@citycare-tn.in,600,4.6,Available
+DOC090,Dr. Ganesh Subramanian,Male,Oncology,"MD, DM (Onco)",29,Oncology,+91 9446403629,ganesh.subramanian@citycare-tn.in,850,5,In Surgery
+DOC092,Dr. Revathi Murugesan,Female,Gastroenterology,"MD, DM (Cardio)",27,Gastroenterology,+91 9447794604,revathi.murugesan@citycare-tn.in,600,4.4,Available
+DOC093,Dr. Divya Ganesan,Female,ENT,MS (OBG),19,ENT,+91 9442912768,divya.ganesan@citycare-tn.in,850,4.7,Available
+DOC094,Dr. Bhavani Pandian,Female,Orthopedics,MD (Derm),21,Orthopedics,+91 9449135913,bhavani.pandian@citycare-tn.in,1200,4.1,In Surgery
+DOC096,Dr. Suresh Natarajan,Male,Neurology,MD (Derm),6,Neurology,+91 9449628499,suresh.natarajan@citycare-tn.in,400,4.4,Consulting
+DOC097,Dr. Bhavani Balaji,Female,Orthopedics,"MBBS, MD",26,Orthopedics,+91 9446557516,bhavani.balaji@citycare-tn.in,850,4.5,Available
+DOC098,Dr. Ganesh Chelliah,Male,Dermatology,"MD, DM (Onco)",26,Dermatology,+91 9445073184,ganesh.chelliah@citycare-tn.in,1000,5,Available
+DOC100,Dr. Kavitha Sundaram,Female,Cardiology,"MD, DM (Cardio)",24,Cardiology,+91 9445445732,kavitha.sundaram@citycare-tn.in,500,4.7,Available
+DOC101,Dr. Aravind Chandran,Male,Gynecology,MS (OBG),12,Gynecology,+91 9441461811,aravind.chandran@citycare-tn.in,1200,4.6,Available
+DOC102,Dr. Revathi Sundaram,Female,Urology,"MBBS, MS",15,Urology,+91 9442998069,revathi.sundaram@citycare-tn.in,500,4.8,Available
+DOC103,Dr. Vignesh Kumar,Male,Gynecology,"MD, DM (Onco)",15,Gynecology,+91 9446269320,vignesh.kumar@citycare-tn.in,750,4.3,Available
+DOC104,Dr. Suganya Sundaram,Female,Gastroenterology,MD (Pediatrics),21,Gastroenterology,+91 9442902283,suganya.sundaram@citycare-tn.in,1000,4.3,Available
+DOC105,Dr. Senthil Raman,Male,ENT,"MD, DM (Onco)",17,ENT,+91 9446602216,senthil.raman@citycare-tn.in,1500,4.3,Available
+DOC106,Dr. Gayathri Pandian,Female,Oncology,"MD, DM (Neuro)",4,Oncology,+91 9447132192,gayathri.pandian@citycare-tn.in,850,4.5,Available
+DOC107,Dr. Revathi Rajesh,Female,Dermatology,"MBBS, MS",17,Dermatology,+91 9441571719,revathi.rajesh@citycare-tn.in,1000,4.6,Available
+DOC108,Dr. Bhavani Natarajan,Female,Orthopedics,"MD, DM (Neuro)",16,Orthopedics,+91 9448099847,bhavani.natarajan@citycare-tn.in,600,4.4,Available
+DOC109,Dr. Vijay Swaminathan,Male,Neurology,MD (Pediatrics),11,Neurology,+91 9443756308,vijay.swaminathan@citycare-tn.in,1500,4.4,Available
+DOC110,Dr. Pavithra Kumar,Female,Cardiology,"MD, DM (Onco)",21,Cardiology,+91 9447661371,pavithra.kumar@citycare-tn.in,600,4.8,Available
+DOC112,Dr. Gayathri Natarajan,Female,Nephrology,"MBBS, MS",17,Nephrology,+91 9447133432,gayathri.natarajan@citycare-tn.in,850,4.7,In Surgery
+DOC113,Dr. Abirami Chelliah,Female,General Medicine,"MD, DM (Cardio)",15,General Medicine,+91 9443343545,abirami.chelliah@citycare-tn.in,750,4.4,Available
+DOC114,Dr. Saravanan Raman,Male,General Medicine,"MD, DM (Neuro)",24,General Medicine,+91 9442840996,saravanan.raman@citycare-tn.in,1500,4.3,In Surgery
+DOC115,Dr. Prabhu Balaji,Male,Neurology,"MBBS, MD",18,Neurology,+91 9445054613,prabhu.balaji@citycare-tn.in,600,5,Available
+DOC116,Dr. Gayathri Murugesan,Female,Nephrology,MD (Pediatrics),4,Nephrology,+91 9442200439,gayathri.murugesan@citycare-tn.in,1500,4.9,In Surgery
+DOC117,Dr. Deepa Raman,Female,Nephrology,MD (Derm),7,Nephrology,+91 9444370186,deepa.raman@citycare-tn.in,600,4.2,In Surgery
+DOC118,Dr. Keerthana Ganesan,Female,Orthopedics,MS (Ortho),25,Orthopedics,+91 9442917797,keerthana.ganesan@citycare-tn.in,500,4.6,On Leave
+DOC119,Dr. Kavitha Pandian,Female,Neurology,MS (ENT),8,Neurology,+91 9441212471,kavitha.pandian@citycare-tn.in,500,4.2,On Leave
+DOC120,Dr. Uma Rajesh,Female,General Medicine,"MD, DM (Neuro)",12,General Medicine,+91 9448900424,uma.rajesh@citycare-tn.in,500,4.3,In Surgery
